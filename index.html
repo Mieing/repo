@@ -7,15 +7,19 @@
     <style>
         body {
             display: flex;
+            flex-direction: column;
             justify-content: center;
             align-items: center;
             height: 100vh;
             margin: 0;
+            font-family: Arial, sans-serif;
         }
 
-        .typing-effect {
-            font-size: 24px;
+        h1 {
+            color: red;
+            font-size: 48px;
             font-weight: bold;
+            margin: 0;
             display: inline-block;
         }
 
@@ -23,7 +27,7 @@
             display: inline-block;
             width: 2px;
             height: 1em;
-            background-color: black;
+            background-color: red;
             animation: blink 1s infinite;
             margin-left: 2px;
         }
@@ -32,11 +36,33 @@
             0%, 100% { opacity: 1; }
             50% { opacity: 0; }
         }
+
+        .buttons {
+            margin-top: 20px;
+        }
+
+        .btn {
+            text-decoration: none;
+            padding: 10px 20px;
+            margin: 5px;
+            border-radius: 5px;
+            background-color: #ccc;
+            color: black;
+            font-size: 14px;
+            border: 1px solid #bbb;
+        }
+
+        .btn:hover {
+            background-color: #bbb;
+        }
     </style>
 </head>
 <body>
-    <div class="typing-effect">
-        Mieing<div class="cursor"></div>
+    <h1>Mieing<div class="cursor"></div></h1>
+    
+    <div class="buttons">
+        <a class="btn btn-sm btn-default" href="cydia://url/https://cydia.saurik.com/api/share#?source=https://mieing.github.io/repo/">Add to Cydia</a>
+        <a class="btn btn-sm btn-default" href="sileo://source/https://mieing.github.io/repo/">Add to Sileo</a>
     </div>
 </body>
 </html>
