@@ -3,44 +3,32 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>实时时间显示</title>
+    <title>Mieing with Blinking Cursor</title>
     <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            background-color: #f0f0f0;
-            font-family: Arial, sans-serif;
+        .typing-effect {
+            font-size: 24px;
+            font-weight: bold;
+            display: inline-block;
         }
-        #clock {
-            font-size: 3em;
-            background-color: white;
-            padding: 20px;
-            border: 2px solid #000;
-            border-radius: 10px;
-            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+
+        .cursor {
+            display: inline-block;
+            width: 2px;
+            background-color: black;
+            animation: blink 1s infinite;
+            margin-left: 2px;
+        }
+
+        @keyframes blink {
+            0% { opacity: 1; }
+            50% { opacity: 0; }
+            100% { opacity: 1; }
         }
     </style>
 </head>
 <body>
-    <div id="clock"></div>
-
-    <script>
-        function updateTime() {
-            const now = new Date();
-            const hours = String(now.getHours()).padStart(2, '0');
-            const minutes = String(now.getMinutes()).padStart(2, '0');
-            const seconds = String(now.getSeconds()).padStart(2, '0');
-            const timeString = `${hours}:${minutes}:${seconds}`;
-            document.getElementById('clock').textContent = timeString;
-        }
-
-        // Initial call to display the time immediately
-        updateTime();
-
-        // Update the time every second
-        setInterval(updateTime, 1000);
-    </script>
+    <div class="typing-effect">
+        Mieing<span class="cursor"></span>
+    </div>
 </body>
 </html>
