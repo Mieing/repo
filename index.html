@@ -13,10 +13,11 @@
             height: 100vh;
             margin: 0;
             font-family: Arial, sans-serif;
-            background: 
-                url('https://mieing.github.io/repo/file/background2.jpg') top center/cover no-repeat, /* 上方的横向背景图（天空） */
-                url('https://mieing.github.io/repo/file/background3.jpg') bottom center/contain no-repeat; /* 下方的竖向背景图 */
-            background-color: #87CEEB; /* 如果背景图1有透明部分，可以设置一个背景色 */
+            background-image: url('https://mieing.github.io/repo/file/background3.jpg'); /* 替换为GitHub上的图片URL */
+            background-size: cover; /* 确保背景图覆盖整个页面 */
+            background-position: center; /* 背景图居中 */
+            background-repeat: no-repeat; /* 防止背景图重复 */
+            color: white; /* 设置文本颜色，以确保在背景上可见 */
         }
 
         h1 {
@@ -24,7 +25,6 @@
             font-weight: bold;
             margin: 0;
             display: inline-block;
-            color: white; /* 根据背景图选择适合的颜色 */
         }
 
         .cursor {
