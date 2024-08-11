@@ -1,0 +1,119 @@
+Package: CCAngelHelper
+Version: 0.0.1
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: CC
+Depends: mobilesubstrate
+Conflicts: CCAngelHelper
+Replaces: CCAngelHelper
+Provides: CCAngelHelper
+Filename: ./debs/rootfull/CCAngelHelper_0.0.1_iphoneos-arm.deb
+Size: 14868
+MD5sum: 563cd8df2fcbbf643238e75b05bd6880
+SHA1: bbd0627eca584974c47aad5dc144e51f193874a9
+SHA256: 9d2a895a708bb951bb780ada8988c1967322297f4565ad2cd8c78aa7cf7c5053
+Section: Tweaks
+Priority: optional
+Description: CCAngelHelper
+Author: CC
+Name: CCAngelHelper
+
+Package: com.mie.x
+Version: 5.2.0
+Architecture: iphoneos-arm
+Maintainer: Mie
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.mie.x_5.2.0_iphoneos-arm.deb
+Size: 7976
+MD5sum: 57c2e1b4e761453bcbf5accb694bd852
+SHA1: ba5bf5e3b85a732b2234edc3e8286b1892107a4f
+SHA256: 6d004fdff3060d30c2a101d235ecfda650540c6ecd86247e971bbdec1ea3ae8c
+Section: Tweaks
+Description: X 去广告 去掉两个非常烦人的广告影响看片
+Author: mie
+Icon：https: //mieing.github.io/repo/file/X.png
+Name: x
+
+Package: com.sgh.nbzs
+Version: 1.0.2-1+debug
+Architecture: iphoneos-arm
+Maintainer: sgh
+Installed-Size: 308
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.sgh.nbzs_1.0.2-1_iphoneos-arm.deb
+Size: 55502
+MD5sum: 66d24385ebe6afd92cdb31e80d1e40d4
+SHA1: 9b283cd8da1117df64a510a9173b41cb9f34ef93
+SHA256: beb1fb80e553a02676016e4d129112e28a01ef12b9a542cfb66ac54ac5ecb35d
+Section: Tweaks
+Description: 安装后在设置内查看插件功能，所有功能均有使用说明
+Author: sgh
+Name: 时光盒Plus
+
+Package: mdeb
+Version: 5.2.0-8+debug
+Architecture: all
+Maintainer: mie
+Installed-Size: 212
+Depends: bash
+Filename: ./debs/rootfull/mdeb_5.2.0_iphoneos-arm.deb
+Size: 7914
+MD5sum: 766c08524809e923eab77d78f2b69395
+SHA1: 0a7d7fdcc1fa0e28dc77da01159e86b33a46369b
+SHA256: 859e208b22cc838142ffbbcf652ec84cda2f78b8ca5be9cfd9f9dbf0cc7fcb63
+Section: base
+Priority: optional
+Description: Automated tool that automatically decompresses deb files and extracts dylib files to a folder. PS: Indeed, it was born for injectipa
+
+Package: CCAngelHelper
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: CC
+Depends: mobilesubstrate
+Conflicts: CCAngelHelper
+Replaces: CCAngelHelper
+Provides: CCAngelHelper
+Filename: ./debs/rootless/CCAngelHelper_0.0.1_iphoneos-arm64.deb
+Size: 14548
+MD5sum: 0fbd2916946dee3f4391cd20897a902c
+SHA1: 48748e1e384066410faeb4baf3190e9407b4742a
+SHA256: b90d9b0905e860ec2222a25f430489796c6777129188d23f6c1e11aba8d842ba
+Section: Tweaks
+Priority: optional
+Description: CCAngelHelper
+Author: CC
+Name: CCAngelHelper
+
+Package: com.mie.x
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: Mie
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.mie.x_5.2.0_iphoneos-arm64.deb
+Size: 8124
+MD5sum: e209b98bd95169726820c6fc468de989
+SHA1: f34bdb8f28afae9c820772d954d4c86aa1ec2270
+SHA256: 0b24a6f9a21755042ed94339858ef7c40fcf7d250210c8a48d6321621a748acd
+Section: Tweaks
+Description: X 去广告 去掉两个非常烦人的广告影响看片 有点小bug介意勿用！
+Author: mie
+Icon：https: //mieing.github.io/description/com.mie.x/X.png
+Name: x
+Sileodepiction: https://mieing.github.io/description/com.mie.x/js.json
+
+Package: mdeb
+Version: 5.2.0-9+debug
+Architecture: iphoneos-arm64
+Maintainer: mie
+Installed-Size: 212
+Depends: bash
+Filename: ./debs/rootless/mdeb_5.2.0_iphoneos-arm64.deb
+Size: 8030
+MD5sum: a33774b2d2a4a7b7cbea671b83099611
+SHA1: e16422c50f42754a2bf6f2cd88a048f75863b4c3
+SHA256: 76e0970259446f0d6960a5534f99f8de2ac90f0387d5a1062c4eaa306b9cf1f9
+Section: base
+Priority: optional
+Description: Automated tool that automatically decompresses deb files and extracts dylib files to a folder. PS: Indeed, it was born for injectipa
+
