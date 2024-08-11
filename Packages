@@ -24,15 +24,16 @@ Architecture: iphoneos-arm
 Maintainer: Mie
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/com.mie.x_5.2.0_iphoneos-arm.deb
-Size: 7976
-MD5sum: 57c2e1b4e761453bcbf5accb694bd852
-SHA1: ba5bf5e3b85a732b2234edc3e8286b1892107a4f
-SHA256: 6d004fdff3060d30c2a101d235ecfda650540c6ecd86247e971bbdec1ea3ae8c
+Size: 8044
+MD5sum: 81b9c7e30998abf6e519f9b724de93c0
+SHA1: d29a0ef71d4f21750914a61a95e36fc095dff196
+SHA256: ae0d113077fca08d31bbe1180a092604d2654d1b6d3a463f40f540005d78d9dc
 Section: Tweaks
-Description: X 去广告 去掉两个非常烦人的广告影响看片
+Description: X 去广告 去掉两个非常烦人的广告影响看片 有点小bug介意勿用！
 Author: mie
 Icon：https: //mieing.github.io/repo/file/X.png
 Name: x
+Sileodepiction: https://mieing.github.io/description/com.mie.x/js.json
 
 Package: com.sgh.nbzs
 Version: 1.0.2-1+debug
@@ -89,18 +90,18 @@ Package: com.mie.x
 Version: 5.2.0
 Architecture: iphoneos-arm64
 Maintainer: Mie
-Installed-Size: 152
 Depends: mobilesubstrate
 Filename: ./debs/rootless/com.mie.x_5.2.0_iphoneos-arm64.deb
-Size: 8168
-MD5sum: fba413d02bc97e05507cd9873c78e273
-SHA1: c87f6d36cd0ccff810562ea07c189fdaee6a8581
-SHA256: 518995afa8bb4b2965871d8de2dab93253cac571cc756b729038af9dfbb22715
+Size: 8128
+MD5sum: aa859f8aebab08af8f0963e85993da56
+SHA1: e63ed274565d018a4c078863412be22396ccd864
+SHA256: 03f23f2361b78d44341cde12ce6a0bcdfe8c72a9f09df719b42688e588cc494a
 Section: Tweaks
 Description: X 去广告 去掉两个非常烦人的广告影响看片 有点小bug介意勿用！
 Author: mie
 Icon：https: //mieing.github.io/repo/file/X.png
 Name: x
+Sileodepiction: https://mieing.github.io/description/com.mie.x/js.json
 
 Package: mdeb
 Version: 5.2.0-9+debug

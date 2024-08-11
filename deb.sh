@@ -16,8 +16,8 @@ dpkg-scanpackages ./debs/rootless /dev/null > "$temp_packages/Packages_rootless"
 cat "$temp_packages/Packages_rootfull" "$temp_packages/Packages_rootless" > "./repo/Packages"
 
 # 生成合并后的 Packages 文件并压缩
-gzip -9c /Packages > /Packages.gz
-bzip2 -9c /Packages > /Packages.bz2
+gzip -9c "./repo/Packages" > "./repo/Packages.gz"
+bzip2 -9c "./repo/Packages" > "./repo/Packages.bz2"
 
 # 清理临时目录
 rm -rf "$temp_packages"
