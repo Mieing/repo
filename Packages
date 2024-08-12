@@ -18,6 +18,22 @@ Description: CCAngelHelper
 Author: CC
 Name: CCAngelHelper
 
+Package: com.mie.kmi
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: mie
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.mie.kmi_1.0.0_iphoneos-arm.deb
+Size: 3168
+MD5sum: dc9f94503dfadaba88a4261be242aeb5
+SHA1: 00827c176e8d0745e21273abeae04ff7624f5adf
+SHA256: ea0e239490075c5a724499a345bc26d458a94abb8957d49d418a989af6c7f0f5
+Section: Tweaks
+Description: k米解锁吧 自测。
+Author: mie
+Name: K米Release
+
 Package: com.mie.toolspatch
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -99,6 +115,22 @@ Priority: optional
 Description: CCAngelHelper
 Author: CC
 Name: CCAngelHelper
+
+Package: com.mie.kmi
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: mie
+Installed-Size: 168
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.mie.kmi_1.0.0_iphoneos-arm64.deb
+Size: 2962
+MD5sum: 4c5b59d7b3e623b637651f2f56ad366f
+SHA1: 1d424230e7089ec38da598d0427d402fd05345f3
+SHA256: c752584d897d9391d8ec67076c3f8d2612203861850c7feb652b0e2a11796381
+Section: Tweaks
+Description: k米解锁吧 自测。
+Author: mie
+Name: K米Release
 
 Package: com.mie.toolspatch
 Version: 1.0.0
