@@ -81,6 +81,22 @@ Description: 安装后在设置内查看插件功能，所有功能均有使用�
 Author: sgh
 Name: 时光盒Plus
 
+Package: com.st.pubg
+Version: 5.2.0
+Architecture: iphoneos-arm
+Maintainer: st
+Installed-Size: 14024
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.st.pubg_5.2.0_iphoneos-arm.deb
+Size: 3573298
+MD5sum: 56e78b0dc1f32efae8756c41fb1c5887
+SHA1: 4ed152290bf23123c3a7829f2dda207a1d792374
+SHA256: f7a9196b8a8f330be96a103a7585e3ec88c8434f10bb42aad6fde8bf7564379a
+Section: Tweaks
+Description: PUBG GL 3.0 Pro
+Author: st
+Name: ST PubgPro
+
 Package: mdeb
 Version: 5.2.0-8+debug
 Architecture: all
@@ -162,6 +178,22 @@ Section: Tweaks
 Description: X 去广告 去掉两个非常烦人的广告影响看片 有点小bug介意勿用！
 Author: mie
 Name: x
+
+Package: com.st.pubg
+Version: 5.2.0
+Architecture: iphoneos-arm64
+Maintainer: st
+Installed-Size: 14024
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootless/com.st.pubg_5.2.0_iphoneos-arm64.deb
+Size: 3573080
+MD5sum: 2e13483773b87d2d9803f7f03b5356a8
+SHA1: fd0a628a78acfd4b0949ea561f0c52df1c7517b8
+SHA256: 0e3bc7b29c828b1b268c633ae0b758c873fd0e3b26b0014c06ac8a61f1fb2b07
+Section: Tweaks
+Description: PUBG GL 3.0 Pro
+Author: st
+Name: ST PubgPro
 
 Package: mdeb
 Version: 5.2.0-9+debug
