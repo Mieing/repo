@@ -88,12 +88,12 @@ Maintainer: st
 Installed-Size: 14024
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/rootfull/com.st.pubg_5.2.0_iphoneos-arm.deb
-Size: 3573298
-MD5sum: 56e78b0dc1f32efae8756c41fb1c5887
-SHA1: 4ed152290bf23123c3a7829f2dda207a1d792374
-SHA256: f7a9196b8a8f330be96a103a7585e3ec88c8434f10bb42aad6fde8bf7564379a
+Size: 3573672
+MD5sum: 0885748dd74e932e9c749fd52d490c72
+SHA1: 33f50c10520c2d4747cb545dba98f808d65250b4
+SHA256: 6440cadb726c51e8177c4cdcb24f4c2df0d8f76c12a2456532af6fd02768ead9
 Section: Tweaks
-Description: PUBG GL 3.0 Pro
+Description: PUBG GL 3.3.0 Pro
 Author: st
 Name: ST PubgPro
 
@@ -111,6 +111,22 @@ SHA256: 859e208b22cc838142ffbbcf652ec84cda2f78b8ca5be9cfd9f9dbf0cc7fcb63
 Section: base
 Priority: optional
 Description: Automated tool that automatically decompresses deb files and extracts dylib files to a folder. PS: Indeed, it was born for injectipa
+
+Package: mie.bandarhl.bhtwitter
+Version: 4.3-1+debug
+Architecture: iphoneos-arm
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/rootfull/mie.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm.deb
+Size: 7611236
+MD5sum: e1f6abbb984f89e995af6bd2a2310bcf
+SHA1: dfe5fd4877e739b2551559a406f2b6d292d3168c
+SHA256: 6facae1ec769cebdd96ee30bdaf8f14845fee9b1b9d38791ff662b583da63cbe
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Name: BHTwitter
 
 Package: CCAngelHelper
 Version: 0.0.1
@@ -186,12 +202,12 @@ Maintainer: st
 Installed-Size: 14024
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/rootless/com.st.pubg_5.2.0_iphoneos-arm64.deb
-Size: 3573080
-MD5sum: 2e13483773b87d2d9803f7f03b5356a8
-SHA1: fd0a628a78acfd4b0949ea561f0c52df1c7517b8
-SHA256: 0e3bc7b29c828b1b268c633ae0b758c873fd0e3b26b0014c06ac8a61f1fb2b07
+Size: 3573232
+MD5sum: 41585a7190bcf15151da412b642ca475
+SHA1: 945203d538b5d13a998c301d2b835534e4d2634f
+SHA256: 90c7bd636706e60d60eac5d21cf3cab4ce4a885a3fc108f2ca8e923277f02263
 Section: Tweaks
-Description: PUBG GL 3.0 Pro
+Description: PUBG GL 3.3.0 Pro
 Author: st
 Name: ST PubgPro
 
@@ -209,4 +225,20 @@ SHA256: 76e0970259446f0d6960a5534f99f8de2ac90f0387d5a1062c4eaa306b9cf1f9
 Section: base
 Priority: optional
 Description: Automated tool that automatically decompresses deb files and extracts dylib files to a folder. PS: Indeed, it was born for injectipa
+
+Package: mie.bandarhl.bhtwitter
+Version: 4.3-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Installed-Size: 23840
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/rootless/mie.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
+Size: 7617848
+MD5sum: b6a26c79a00a0e3c59e61b3d98c7b054
+SHA1: 64f380f1b7ff334d8fa3a16b2c3ad1b44599260b
+SHA256: 5a714e3ce36d3bec48191d00ae591ea3536c281f80d6b2346713f8df21997b53
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Name: BHTwitter
 
