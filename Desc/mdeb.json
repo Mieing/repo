@@ -1,6 +1,6 @@
 {
     "class": "DepictionTabView",
-    "tintColor": "#FFFFFF",
+    "tintColor": "#800080",
     "minVersion": "0.3",
     "tabs": [
         {
