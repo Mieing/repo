@@ -213,16 +213,16 @@ Author: st
 Name: ST PubgPro
 
 Package: mdeb
-Version: 5.2.1-2+debug
+Version: 5.2.1-4+debug
 Architecture: iphoneos-arm64
 Maintainer: mie
 Installed-Size: 212
 Depends: bash
-Filename: ./debs/rootless/mdeb_5.2.1-2+debug_iphoneos-arm64.deb
-Size: 8022
-MD5sum: 0956954e7b3855d387f4e5faad32bd43
-SHA1: 8eca2eca32ed061ca9a5079d07c0435ffceacf2e
-SHA256: 9bdc452e8880b6e40e42f743a8908e8d679fe3f3bf2f96e14abe0bc797e36fe1
+Filename: ./debs/rootless/mdeb_5.2.1-4+debug_iphoneos-arm64.deb
+Size: 8018
+MD5sum: e14817b37178eee2416e2249a47f1fc0
+SHA1: 9caa81e2f9f927a0e7d8333b902fbab4d7e97857
+SHA256: 970871f9cc2a341dfbebe13fd33c7ce1e4887595d770d6be599efbf33f10275d
 Section: Terminal_Support
 Priority: optional
 Description: Quickly extract dylib files in batches
