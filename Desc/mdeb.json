@@ -1,0 +1,29 @@
+{
+    "class": "DepictionTabView",
+    "tintColor": "#FFFFFF",
+    "minVersion": "0.3",
+    "tabs": [
+        {
+            "class": "DepictionStackView",
+            "tabname": "描述",
+            "views": [
+                {
+                    "class": "DepictionMarkdownView",
+                    "markdown": "Quickly extract dylib files in batches",
+                    "useRawFormat": true
+                },
+                {
+                    "class": "DepictionScreenshotsView",
+                    "itemCornerRadius": 6,
+                    "itemSize": "{160, 346.4533333333333}",
+                    "screenshots": [
+                        {
+                            "accessibilityText": "Screenshot",
+                            "url": "https://raw.githubusercontent.com/Mieing/repo/main/file/mdeb.png"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

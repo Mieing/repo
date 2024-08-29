@@ -98,19 +98,20 @@ Author: st
 Name: ST PubgPro
 
 Package: mdeb
-Version: 5.2.0-8+debug
+Version: 5.2.1-2+debug
 Architecture: all
 Maintainer: mie
 Installed-Size: 212
 Depends: bash
-Filename: ./debs/rootfull/mdeb_5.2.0_iphoneos-arm.deb
-Size: 7914
-MD5sum: 766c08524809e923eab77d78f2b69395
-SHA1: 0a7d7fdcc1fa0e28dc77da01159e86b33a46369b
-SHA256: 859e208b22cc838142ffbbcf652ec84cda2f78b8ca5be9cfd9f9dbf0cc7fcb63
-Section: base
+Filename: ./debs/rootfull/mdeb_5.2.1+debug_iphone-arm.deb
+Size: 7902
+MD5sum: c16ecb5919ccf4f8f61f2d687767aaec
+SHA1: c755e66c346c269b931ea2fd8ca223af650e688e
+SHA256: 8cf9c4eeb97217ce9c3867a4df90b79a44e17e41cc1f288099e9d1d1304da5ae
+Section: Terminal_Support
 Priority: optional
-Description: Automated tool that automatically decompresses deb files and extracts dylib files to a folder. PS: Indeed, it was born for injectipa
+Description: Quickly extract dylib files in batches
+Sileodepiction: https://Mieing.github.io/repo/Desc/mdeb.json
 
 Package: mie.bandarhl.bhtwitter
 Version: 4.3-1+debug
@@ -212,19 +213,20 @@ Author: st
 Name: ST PubgPro
 
 Package: mdeb
-Version: 5.2.0-9+debug
+Version: 5.2.1-1+debug
 Architecture: iphoneos-arm64
 Maintainer: mie
 Installed-Size: 212
 Depends: bash
-Filename: ./debs/rootless/mdeb_5.2.0_iphoneos-arm64.deb
-Size: 8030
-MD5sum: a33774b2d2a4a7b7cbea671b83099611
-SHA1: e16422c50f42754a2bf6f2cd88a048f75863b4c3
-SHA256: 76e0970259446f0d6960a5534f99f8de2ac90f0387d5a1062c4eaa306b9cf1f9
-Section: base
+Filename: ./debs/rootless/mdeb_5.2.1+debug_iphoneos-arm64.deb
+Size: 8022
+MD5sum: 53408a010e17f31e7a2473b22d389288
+SHA1: 3bf57509dc49ec94b5a64fd8139a7d662d5a0455
+SHA256: 7225db94adcff7decd2cdb08e767691fc94319693baf2977ebe45d0299cc4af5
+Section: Terminal_Support
 Priority: optional
-Description: Automated tool that automatically decompresses deb files and extracts dylib files to a folder. PS: Indeed, it was born for injectipa
+Description: Quickly extract dylib files in batches
+Sileodepiction: https://Mieing.github.io/repo/Desc/mdeb.json
 
 Package: mie.bandarhl.bhtwitter
 Version: 4.3-1+debug
