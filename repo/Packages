@@ -18,6 +18,26 @@ Description: CCAngelHelper
 Author: CC
 Name: CCAngelHelper
 
+Package: MisakaHelper
+Version: 2.1-0
+Architecture: iphoneos-arm
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/rootfull/MisakaHelper_END_iphoneos-arm.deb
+Size: 13421912
+MD5sum: 3ebc86c8487114df71ab258e42fae93f
+SHA1: e240d00fe9877fdafc9e155005e913893827e880
+SHA256: 00c7e0d40c970cabf36d2420792dd39dff30a1488be34103ff44fa40e058fa39
+Section: Tweaks
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
+
 Package: com.mie.kmi
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -98,16 +118,16 @@ Author: st
 Name: ST PubgPro
 
 Package: mdeb
-Version: 5.2.1-5+debug
-Architecture: all
+Version: 5.2.1-6+debug
+Architecture: iphoneos-arm
 Maintainer: mie
 Installed-Size: 212
 Depends: bash
-Filename: ./debs/rootfull/mdeb_5.2.1-5+debug_all.deb
-Size: 7900
-MD5sum: 6fc1b42177c6d07793c9e15a8d9c960e
-SHA1: 4d341e9d426902faad04c55f4241ac7545c639bb
-SHA256: b42b0f7f761bb200cd8fc2238645d4af3165479451fb9d26a89986f910324ed4
+Filename: ./debs/rootfull/mdeb_5.2.1-6+debug_iphoneos-arm.deb
+Size: 7906
+MD5sum: 15a476252d5031ddf2cb4eba1b549600
+SHA1: 491466dd97564c134355c5fd8bb1d6397b2d89c3
+SHA256: 755401b32d9fd772f6d571573753b7c2b9bd6d8554e240c28b527f1306a78801
 Section: Terminal_Support
 Priority: optional
 Description: Quickly extract dylib files in batches
@@ -148,6 +168,26 @@ Priority: optional
 Description: CCAngelHelper
 Author: CC
 Name: CCAngelHelper
+
+Package: MisakaHelper
+Version: 2.1-0
+Architecture: iphoneos-arm64
+Essential: no
+Maintainer: Misaka
+Depends: mobilesubstrate
+Conflicts: MisakaHelper
+Replaces: MisakaHelper
+Provides: MisakaHelper
+Filename: ./debs/rootless/MisakaHelper_END_iphoneos-arm64_rootless.deb
+Size: 13176824
+MD5sum: dfdac07dbb49f5871e1f8bff89180faa
+SHA1: 9e80412e9766c8e3dae868cd796d6f374c7057c2
+SHA256: 0185beb68e7c993be4228848a0181b9cf2b3e46b1fe673fc03fb6c0940c259c7
+Section: Tweaks
+Priority: optional
+Description: MisakaHelper
+Author: Misaka
+Name: MisakaHelper
 
 Package: com.mie.kmi
 Version: 1.0.0
