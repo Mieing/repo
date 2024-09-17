@@ -164,6 +164,21 @@ Description: 注入即生效，没有任何设置。
 Author: 王富贵
 Name: 匿名艾特Carck
 
+Package: com.xxin.wechat
+Version: 2.0-6
+Architecture: iphoneos-arm
+Maintainer: 小昕
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.xxin.wechat_2.0-6_iphoneos-arm.deb
+Size: 1615908
+MD5sum: e1341f11a1558d3cc896ece843565cd2
+SHA1: 2e9817e0114d37131a8d7e360a73fe1ab4554596
+SHA256: 6c975fa3e8937c3c450ad88c5ecc8acaaae0dd5bb53b71e9971e9ba66c10091b
+Section: Tweaks
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏等，朋友圈转发，文字转语音，修改聊天时间
+Author: 小昕
+Name: 小昕助手
+
 Package: mdeb
 Version: 5.2.1-6+debug
 Architecture: iphoneos-arm
@@ -382,6 +397,21 @@ SHA256: 675fc8b520361e93fa4ac2101f262a893948b864deb9f54042e8d5af2caf3320
 Description: 注入即生效，没有任何设置。
 Author: 王富贵
 Name: 匿名艾特Carck
+
+Package: com.xxin.wechat
+Version: 2.0-6
+Architecture: iphoneos-arm64
+Maintainer: 小昕
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.xxin.wechat_2.0-6_iphoneos-arm64.deb
+Size: 2845112
+MD5sum: 38edad57c8965472a417958cc7d1e967
+SHA1: 9fa33d00d855e7ef5db6e501bd3ca6320a2bc694
+SHA256: 96fd6070a5bff9a34b0192cc96579406f438a2ed698cfcde01d24bb9940deeb1
+Section: Tweaks
+Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏等，朋友圈转发，文字转语音，修改聊天时间
+Author: 小昕
+Name: 小昕助手
 
 Package: mdeb
 Version: 5.2.1-4+debug
