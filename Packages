@@ -196,16 +196,16 @@ Description: Quickly extract dylib files in batches
 Sileodepiction: https://Mieing.github.io/repo/Desc/mdeb.json
 
 Package: mie.bandarhl.bhtwitter
-Version: 4.3-1+debug
+Version: 4.3-2+debug
 Architecture: iphoneos-arm
 Maintainer: Bandar Alruwaili
-Installed-Size: 23840
+Installed-Size: 23824
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/rootfull/mie.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm.deb
-Size: 7611236
-MD5sum: e1f6abbb984f89e995af6bd2a2310bcf
-SHA1: dfe5fd4877e739b2551559a406f2b6d292d3168c
-SHA256: 6facae1ec769cebdd96ee30bdaf8f14845fee9b1b9d38791ff662b583da63cbe
+Filename: ./debs/rootfull/mie.bandarhl.bhtwitter_4.3-2+debug_iphoneos-arm.deb
+Size: 7615312
+MD5sum: c1eefcb551d5e2ed9f483f1b720c1379
+SHA1: d4cfde95c77b80b6f90a65bb0dee9fdbaa2b34ec
+SHA256: fcb5ef26582a69039a97034c8122ea9490fbd024410054f6b29ef3a81b488808
 Section: Tweaks
 Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
@@ -430,16 +430,16 @@ Description: Quickly extract dylib files in batches
 Sileodepiction: https://Mieing.github.io/repo/Desc/mdeb.json
 
 Package: mie.bandarhl.bhtwitter
-Version: 4.3-1+debug
+Version: 4.3-2+debug
 Architecture: iphoneos-arm64
 Maintainer: Bandar Alruwaili
-Installed-Size: 23840
+Installed-Size: 23824
 Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/rootless/mie.bandarhl.bhtwitter_4.3-1+debug_iphoneos-arm64.deb
-Size: 7617848
-MD5sum: b6a26c79a00a0e3c59e61b3d98c7b054
-SHA1: 64f380f1b7ff334d8fa3a16b2c3ad1b44599260b
-SHA256: 5a714e3ce36d3bec48191d00ae591ea3536c281f80d6b2346713f8df21997b53
+Filename: ./debs/rootless/mie.bandarhl.bhtwitter_4.3-2+debug_iphoneos-arm64.deb
+Size: 7610936
+MD5sum: 49443a04c6fefa5bebc2d09cb26ebe90
+SHA1: ba2ef4013a0e321e1d12d42726050339fb313c79
+SHA256: 8510852c5622a6df01c03e122d1c68af8877a9e71e0662721d38364936258a36
 Section: Tweaks
 Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
