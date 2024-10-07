@@ -211,6 +211,23 @@ Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
 Name: BHTwitter
 
+Package: mie.dumpapp.wechat
+Version: 2.0.1
+Architecture: iphoneos-arm
+Maintainer: WeChat
+Installed-Size: 24240
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/rootfull/mie.dumpapp.wechat_2.0.1_iphoneos-arm.deb
+Size: 9405716
+MD5sum: 6921ab293b90890f937c76408e2d3788
+SHA1: be1b261d074171fafc3ccf4770c7a2b771b4fd49
+SHA256: de399eee71716cd8eaa7cdabbd1c8a2c02d232a4331f65d61e43b69900e6ec75
+Section: Tweaks
+Description: 锤子助手插件
+Author: DumpApp
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: 锤子助手
+
 Package: netskao.wechatpurification
 Version: 4.2-7
 Architecture: iphoneos-arm
@@ -444,6 +461,23 @@ Section: Tweaks
 Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
 Name: BHTwitter
+
+Package: mie.dumpapp.wechat-rootless
+Version: 2.0.1
+Architecture: iphoneos-arm64
+Maintainer: WeChat
+Installed-Size: 24000
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/rootless/mie.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
+Size: 9334596
+MD5sum: 0c57516b0e895444f184a8b0b958c7e3
+SHA1: ba16189b3c9c04e47989d6b7be26a625b37521ee
+SHA256: a5d9c56ffab0a54c6f7fd69aab34279c34f79684a00eb38ee47e725835ffaba0
+Section: Tweaks
+Description: 锤子助手插件
+Author: DumpApp
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: 锤子助手-Rootless
 
 Package: netskao.wechatpurification
 Version: 4.2-6-END
