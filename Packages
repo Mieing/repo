@@ -149,21 +149,6 @@ Description: PUBG GL 3.3.0 Pro
 Author: st
 Name: ST PubgPro
 
-Package: com.tencent.xin
-Version: 0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: 王富贵
-Installed-Size: 76
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/匿名艾特Carck_0.0.1有根.deb
-Size: 5696
-MD5sum: 24d5529d0e60b6a8a0105c43f132c240
-SHA1: 4362bd47bd5aaa87889517fd4ddffc90df85b4f3
-SHA256: 47f2e8c28ac22af1eb468ee1a902d3a1ff7b21abfa6dda6d6186865c930b0ac5
-Description: 注入即生效，没有任何设置。
-Author: 王富贵
-Name: 匿名艾特Carck
-
 Package: com.xxin.wechat
 Version: 2.0-6
 Architecture: iphoneos-arm
@@ -228,6 +213,40 @@ Author: DumpApp
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 锤子助手
 
+Package: mie.wechat.wfg
+Version: 0.1-1+debug
+Architecture: iphoneos-arm
+Maintainer: 王富贵
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/mie.wechat.wfg_0.1-1+debug_iphoneos-arm.deb
+Size: 5596
+MD5sum: 1d4d47285efa124645c3e8c5449e533a
+SHA1: 8fba55f322a60d9982c28ae104af124409399223
+SHA256: 8bd3a98097ec7b265c0add9b0d756c4ee7f50b8d52c3c4b6c28ea9b8db063504
+Section: Tweaks
+Description: 匿名艾特
+Author: 王富贵
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: 匿名艾特Carck
+
+Package: mie.xx.dyhook
+Version: 2.0.6+8
+Architecture: iphoneos-arm
+Maintainer: x✨
+Installed-Size: 11072
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/mie.xx.dyhook_2.0.6+8_iphoneos-arm.deb
+Size: 3901660
+MD5sum: 0b33f6971c26de47083166f94600ec05
+SHA1: f6a003975540f588ef33433318f67cbe3ef4223b
+SHA256: d0344659ae50e05d8eb15f09c4c4a13e2479695b194b3caf32ac29fd8bf9efae
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Icon: https://Mieing.Github.io/repo/file/dy.png
+Name: 抖音图层
+
 Package: netskao.wechatpurification
 Version: 4.2-7
 Architecture: iphoneos-arm
@@ -254,15 +273,16 @@ Version: 1.26.0
 Architecture: iphoneos-arm
 Maintainer: eevee
 Installed-Size: 9564
-Filename: ./debs/rootfull/mie.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm.deb
-Size: 1271720
-MD5sum: 97fe34c4118976faffb5b7f8a0facf6e
-SHA1: 05a7ef3175de9b100281e2ba992c76869c265aa4
-SHA256: c93ea1390d6ffe376486875ad587e1742a28ad0fae671df930602c304fa0556e
-Section: System
+Filename: ./debs/rootfull/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm.deb
+Size: 1272124
+MD5sum: 59a4e777427cc93dadcad16bd0974f19
+SHA1: 9201c6dc49198065280911bc8244533c5260ab8f
+SHA256: e9e83c796981864a378bb00b6b9ca79cacaa3dd37a367578e60c625ad0dedaba
+Section: Tweaks
 Description: Plugin and runtime library for using protobuf with Swift
 Tag: role::developer
 Author: eevee
+Icon: https://Mieing.Github.io/repo/file/Swift.png
 Name: SwiftProtobuf
 
 Package: CCAngelHelper
@@ -400,21 +420,6 @@ Description: PUBG GL 3.3.0 Pro
 Author: st
 Name: ST PubgPro
 
-Package: com.tencent.xin
-Version: 0.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: 王富贵
-Installed-Size: 76
-Depends: mobilesubstrate
-Filename: ./debs/rootless/匿名艾特Carck_0.0.1无根.deb
-Size: 6176
-MD5sum: 351621f95378fb359bcea611da05dfd0
-SHA1: 7a74c343a0e9846df94ba3aad32b8788f6cba945
-SHA256: 675fc8b520361e93fa4ac2101f262a893948b864deb9f54042e8d5af2caf3320
-Description: 注入即生效，没有任何设置。
-Author: 王富贵
-Name: 匿名艾特Carck
-
 Package: com.xxin.wechat
 Version: 2.0-6
 Architecture: iphoneos-arm64
@@ -479,20 +484,55 @@ Author: DumpApp
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 锤子助手-Rootless
 
+Package: mie.wechat.wfg
+Version: 0.1-1+debug
+Architecture: iphoneos-arm64
+Maintainer: 王富贵
+Installed-Size: 76
+Depends: mobilesubstrate
+Filename: ./debs/rootless/mie.wechat.wfg_0.1-1+debug_iphoneos-arm64.deb
+Size: 5476
+MD5sum: 71b447271362e0c0e4c373e7be5269b8
+SHA1: c1c0a16ee859c03d3484c645945480afa1b1f3eb
+SHA256: e39a2c448317d798e73648f40f3347dd96df2bfa96b35856be587be465831a35
+Section: Tweaks
+Description: 匿名艾特
+Author: 王富贵
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: 匿名艾特Carck
+
+Package: mie.xx.dyhook
+Version: 2.0.6+8
+Architecture: iphoneos-arm64
+Maintainer: x✨
+Installed-Size: 11056
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/mie.xx.dyhook_2.0.6+8_iphoneos-arm64.deb
+Size: 3904004
+MD5sum: c4e332d96ea666f13f6b69d046fb03e5
+SHA1: 9677936c4bbba75c81adafc63a7a1ffbd6587cd2
+SHA256: 2c58048771dc1d52f36555a246392f5324c4ed50e6ec19bca1214a58fc045798
+Section: Tweaks
+Description: 自用 越狱食用
+Author: x✨
+Icon: https://Mieing.Github.io/repo/file/dy.png
+Name: 抖音图层
+
 Package: netskao.wechatpurification
 Version: 4.2-6-END
 Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 16676
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/rootless/netskao_wechatpurification_4_2_7_arm64.deb
-Size: 6279272
-MD5sum: 1927dcfdb775c7edc5fe4f44b93a0460
-SHA1: 9d2e44bee6ebf656c63e82293a66bffb9976b92e
-SHA256: e43677876483db289ed57d486ab963b728922a67d03f5a06e57f0fcd6b26c324
-Section: Netskao-Tweaks
+Filename: ./debs/rootless/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
+Size: 6276940
+MD5sum: d0a2dd5b9de19b3a7ec04b139def40c7
+SHA1: cca46dbe8ada2548a42cd9f447dcccfff2ddb1fd
+SHA256: 93b68ccfc4abce3d0a279ecc979b2eb2e3f1094a1576548bfcb021c9bea7463d
+Section: Tweaks
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
+Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 微信净化END
 
 Package: org.swift.protobuf.swiftprotobuf
@@ -500,14 +540,15 @@ Version: 1.26.0
 Architecture: iphoneos-arm64
 Maintainer: eevee
 Installed-Size: 9564
-Filename: ./debs/rootless/mie.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm64.deb
-Size: 1270968
-MD5sum: e96d2861c20ad33e1f0eb15b372478e7
-SHA1: f161ca3239740fe4ebb858d50cd1d12577da8b71
-SHA256: 9656de5e818241d8005d5cb4a6f8723dcc12274b38e79dd076d0f3caf87a40d5
-Section: System
+Filename: ./debs/rootless/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm64.deb
+Size: 1274072
+MD5sum: 9c4a4170e90f5e079af0a8541863f8c5
+SHA1: 9e9e2345b1b487d00c1243cecf9fea1df4b454c6
+SHA256: 1cc0ca8197e5dcde6d0309f48c4e68b7186e4a1590ed1068654f1e93359e919b
+Section: Tweaks
 Description: Plugin and runtime library for using protobuf with Swift
 Tag: role::developer
 Author: eevee
+Icon: https://Mieing.Github.io/repo/file/Swift.png
 Name: SwiftProtobuf
 
