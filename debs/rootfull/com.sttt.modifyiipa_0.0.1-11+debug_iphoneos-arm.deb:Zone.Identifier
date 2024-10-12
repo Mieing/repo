@@ -1,0 +1,4 @@
+[ZoneTransfer]
+ZoneId=3
+ReferrerUrl=http://192.168.3.11:11111/var/mobile/modifyiipa/packages/
+HostUrl=http://192.168.3.11:11111/var/mobile/modifyiipa/packages/com.sttt.modifyiipa_0.0.1-11%2Bdebug_iphoneos-arm.deb?mode=download

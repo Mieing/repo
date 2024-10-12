@@ -149,6 +149,24 @@ Description: PUBG GL 3.3.0 Pro
 Author: st
 Name: ST PubgPro
 
+Package: com.sttt.modifyiipa
+Version: 0.0.1-11+debug
+Architecture: iphoneos-arm
+Maintainer: sttt
+Installed-Size: 216
+Filename: ./debs/rootfull/com.sttt.modifyiipa_0.0.1-11+debug_iphoneos-arm.deb
+Size: 8734
+MD5sum: 4610aa665461ba938126f9e0e2e6bb5c
+SHA1: e1f43f333a1504f8b1275c3c1148651a50d4432b
+SHA256: 91b0f651016b6faf11fafd907f5da28eefe7e651257538c0e46f137c77aee8ba
+Section: Terminal_Support
+Description: modifyiipa
+Tag: role::hacker
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/sttt.png
+Name: modifyiipa
+Sileodepiction: https://Mieing.github.io/repo/Desc/modifyiipa.json
+
 Package: com.xxin.wechat
 Version: 2.0-6
 Architecture: iphoneos-arm
@@ -419,6 +437,24 @@ Section: Tweaks
 Description: PUBG GL 3.3.0 Pro
 Author: st
 Name: ST PubgPro
+
+Package: com.sttt.modifyiipa
+Version: 0.0.1-10+debug
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 216
+Filename: ./debs/rootless/com.sttt.modifyiipa_0.0.1-10+debug_iphoneos-arm64.deb
+Size: 8834
+MD5sum: fb4a00c1c1f462bc26c65b853b0e6380
+SHA1: 96b7f74896907697bfac3d4476d3725c10280eb5
+SHA256: a66b15e93a9cce6d2569939dbbad218d86dabf309e6a3cb1b0d322d117b1cfe7
+Section: Terminal_Support
+Description: modifyiipa
+Tag: role::hacker
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/sttt.png
+Name: modifyiipa
+Sileodepiction: https://Mieing.github.io/repo/Desc/modifyiipa.json
 
 Package: com.xxin.wechat
 Version: 2.0-6
