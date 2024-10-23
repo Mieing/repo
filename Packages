@@ -205,23 +205,6 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
-Package: com.bandarhl.bhtwitter
-Version: 4.3-4-1+debug
-Architecture: iphoneos-arm64
-Maintainer: Bandar Alruwaili
-Installed-Size: 23824
-Depends: mobilesubstrate, ws.hbang.common
-Filename: ./debs/rootless/com.bandarhl.bhtwitter_4.3-4-1+debug_iphoneos-arm64.deb
-Size: 8693938
-MD5sum: 2888b53e13c5f54c6ac1c427801d9e24
-SHA1: 814045a9a55576e697482e2e44848c2edd5761d2
-SHA256: c0b87b4a9e24920c6463e5af75d1cf80f311fcc26aeec987bbe0f68ced943c02
-Section: Tweaks
-Description: Awesome tweak for Twitter
-Author: Bandar Alruwaili
-Icon: https://Mieing.Github.io/repo/file/X.png
-Name: BHTwitter
-
 Package: com.sttt.modifyiipa
 Version: 0.0.1-10+debug
 Architecture: iphoneos-arm64
@@ -272,6 +255,23 @@ Section: Terminal_Support
 Priority: optional
 Description: Quickly extract dylib files in batches
 Sileodepiction: https://Mieing.github.io/repo/Desc/mdeb.json
+
+Package: mie.bandarhl.bhtwitter
+Version: 4.3-4-1+debug
+Architecture: iphoneos-arm64
+Maintainer: Bandar Alruwaili
+Installed-Size: 23824
+Depends: mobilesubstrate, ws.hbang.common
+Filename: ./debs/rootless/mie.bandarhl.bhtwitter_4.3-4-1+debug_iphoneos-arm64.deb
+Size: 7615724
+MD5sum: 995a795e527648ad73db4312513f9525
+SHA1: d708d072b8fbd2adba166aa6671adfdd809e8246
+SHA256: 0df574101d6a931196333c39eaf9197af77c25d4d8f1166e7d2ec93793400295
+Section: Tweaks
+Description: Awesome tweak for Twitter
+Author: Bandar Alruwaili
+Icon: https://Mieing.Github.io/repo/file/X.png
+Name: BHTwitter
 
 Package: mie.dumpapp.wechat-rootless
 Version: 2.0.1
