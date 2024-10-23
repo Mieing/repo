@@ -188,6 +188,23 @@ Icon: https://Mieing.Github.io/repo/file/sttt.png
 Name: modifyiipa
 Sileodepiction: https://Mieing.github.io/repo/Desc/modifyiipa.json
 
+Package: com.sttt.unlockvip
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: sttt
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.sttt.unlockvip_0.0.1_iphoneos-arm.deb
+Size: 3146
+MD5sum: 7f7ae0af9b0327fd8d3962257e5125c0
+SHA1: a1b89a84eb63e3656069696d2f4ec025ac18b838
+SHA256: 3061e2d34b0aa3911e0617622337b9990d4cd3715027fefd7c29df699652211a
+Section: Tweaks
+Description: sttt
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/tangdou.png
+Name: 糖豆 Unlockvip
+
 Package: com.xxin.wechat
 Version: 2.0-6
 Architecture: iphoneos-arm
@@ -497,6 +514,23 @@ Author: sttt
 Icon: https://Mieing.Github.io/repo/file/sttt.png
 Name: modifyiipa
 Sileodepiction: https://Mieing.github.io/repo/Desc/modifyiipa.json
+
+Package: com.sttt.unlockvip
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 224
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.sttt.unlockvip_0.0.1_iphoneos-arm64.deb
+Size: 3228
+MD5sum: 64c1b22229b94402189d75634c793672
+SHA1: c3d5e20236e1c57829dc27d85c0ef5a1999c305c
+SHA256: 20fcef1ccdc07eb6496414b8d2148101ca5bef516ca921cb9481c96d96d29e98
+Section: Tweaks
+Description: sttt
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/tangdou.png
+Name: 糖豆 Unlockvip
 
 Package: com.xxin.wechat
 Version: 2.0-6
