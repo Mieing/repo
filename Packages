@@ -1,23 +1,3 @@
-Package: CCAngelHelper
-Version: 0.0.1
-Architecture: iphoneos-arm
-Essential: no
-Maintainer: CC
-Depends: mobilesubstrate
-Conflicts: CCAngelHelper
-Replaces: CCAngelHelper
-Provides: CCAngelHelper
-Filename: ./debs/rootfull/CCAngelHelper_0.0.1_iphoneos-arm.deb
-Size: 14868
-MD5sum: 563cd8df2fcbbf643238e75b05bd6880
-SHA1: bbd0627eca584974c47aad5dc144e51f193874a9
-SHA256: 9d2a895a708bb951bb780ada8988c1967322297f4565ad2cd8c78aa7cf7c5053
-Section: Tweaks
-Priority: optional
-Description: CCAngelHelper
-Author: CC
-Name: CCAngelHelper
-
 Package: MisakaHelper
 Version: 2.1-0
 Architecture: iphoneos-arm
@@ -59,54 +39,6 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
-Package: com.eevee.spotify
-Version: 5.0
-Architecture: iphoneos-arm
-Maintainer: Eevee
-Installed-Size: 2716
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/rootfull/mie.eevee.spotify_5.0_iphoneos-arm.deb
-Size: 555194
-MD5sum: b13ea6056a86ed6da3e3bf548078c3b7
-SHA1: 8f636576728e51e1b2917b436568791cc3e6f57c
-SHA256: 1ab093f9af5d5b6a20247df1628e70e820eed350fe55de4cd878128bba432afb
-Section: Tweaks
-Description: A tweak to get Spotify Premium for free, just like Spotilife
-Author: Eevee
-Name: EeveeSpotify
-
-Package: com.huami.WCAtPure
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: huami
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootfull/com.huami.WCAtPure_1.0.0_iphoneos-arm.deb
-Size: 94116
-MD5sum: a452c475532b3623e3a3192bfefc6d88
-SHA1: cc8c79764316feac26cc961e4eae7ac0675b77ac
-SHA256: 358c3e3d6ad5de511807da3c7161b67b45445b88754649a9b56ffb7177c97a35
-Section: Tweaks
-Description: 让Misaka匿名艾特无处遁形、还你一个干净的微信！
-Author: huami
-Dev: huami
-Name: WCAtPure
-
-Package: com.mie.kmi
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: mie
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.mie.kmi_1.0.0_iphoneos-arm.deb
-Size: 3168
-MD5sum: dc9f94503dfadaba88a4261be242aeb5
-SHA1: 00827c176e8d0745e21273abeae04ff7624f5adf
-SHA256: ea0e239490075c5a724499a345bc26d458a94abb8957d49d418a989af6c7f0f5
-Section: Tweaks
-Description: k米解锁吧 自测。
-Author: mie
-Name: K米Release
-
 Package: com.mie.toolspatch
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -123,21 +55,6 @@ Description: 爱思助手Noads
 Author: mie
 Name: 爱思NoAds
 
-Package: com.mie.x
-Version: 5.2.0
-Architecture: iphoneos-arm
-Maintainer: Mie
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.mie.x_5.2.0_iphoneos-arm.deb
-Size: 7996
-MD5sum: ff8e78ccb478fc55a2929f190dd165b2
-SHA1: bbe0826b5c1fd8a37f07dae0970cd0e6c36b41c4
-SHA256: 4314151f5c2100db9d683914de534ef5817c1d1140c771336a7a61baf6713f1c
-Section: Tweaks
-Description: X 去广告 去掉两个非常烦人的广告影响看片 有点小bug介意勿用！
-Author: mie
-Name: x
-
 Package: com.sgh.nbzs
 Version: 1.0.2-1+debug
 Architecture: iphoneos-arm
@@ -153,22 +70,6 @@ Section: Tweaks
 Description: 安装后在设置内查看插件功能，所有功能均有使用说明
 Author: sgh
 Name: 时光盒Plus
-
-Package: com.st.pubg
-Version: 5.2.0
-Architecture: iphoneos-arm
-Maintainer: st
-Installed-Size: 14024
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.st.pubg_5.2.0_iphoneos-arm.deb
-Size: 3573672
-MD5sum: 0885748dd74e932e9c749fd52d490c72
-SHA1: 33f50c10520c2d4747cb545dba98f808d65250b4
-SHA256: 6440cadb726c51e8177c4cdcb24f4c2df0d8f76c12a2456532af6fd02768ead9
-Section: Tweaks
-Description: PUBG GL 3.3.0 Pro
-Author: st
-Name: ST PubgPro
 
 Package: com.sttt.modifyiipa
 Version: 0.0.1-11+debug
@@ -204,21 +105,6 @@ Description: sttt
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/tangdou.png
 Name: 糖豆 Unlockvip
-
-Package: com.xxin.wechat
-Version: 2.0-6
-Architecture: iphoneos-arm
-Maintainer: 小昕
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.xxin.wechat_2.0-6_iphoneos-arm.deb
-Size: 1615908
-MD5sum: e1341f11a1558d3cc896ece843565cd2
-SHA1: 2e9817e0114d37131a8d7e360a73fe1ab4554596
-SHA256: 6c975fa3e8937c3c450ad88c5ecc8acaaae0dd5bb53b71e9971e9ba66c10091b
-Section: Tweaks
-Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏等，朋友圈转发，文字转语音，修改聊天时间
-Author: 小昕
-Name: 小昕助手
 
 Package: mdeb
 Version: 5.2.1-6+debug
@@ -324,43 +210,6 @@ Dev: netskao
 Name: 微信净化
 Sponsor: thebigboss.org <http://thebigboss.org>
 
-Package: org.swift.protobuf.swiftprotobuf
-Version: 1.26.0
-Architecture: iphoneos-arm
-Maintainer: eevee
-Installed-Size: 9564
-Filename: ./debs/rootfull/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm.deb
-Size: 1272124
-MD5sum: 59a4e777427cc93dadcad16bd0974f19
-SHA1: 9201c6dc49198065280911bc8244533c5260ab8f
-SHA256: e9e83c796981864a378bb00b6b9ca79cacaa3dd37a367578e60c625ad0dedaba
-Section: Tweaks
-Description: Plugin and runtime library for using protobuf with Swift
-Tag: role::developer
-Author: eevee
-Icon: https://Mieing.Github.io/repo/file/Swift.png
-Name: SwiftProtobuf
-
-Package: CCAngelHelper
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Essential: no
-Maintainer: CC
-Depends: mobilesubstrate
-Conflicts: CCAngelHelper
-Replaces: CCAngelHelper
-Provides: CCAngelHelper
-Filename: ./debs/rootless/CCAngelHelper_0.0.1_iphoneos-arm64.deb
-Size: 14548
-MD5sum: 0fbd2916946dee3f4391cd20897a902c
-SHA1: 48748e1e384066410faeb4baf3190e9407b4742a
-SHA256: b90d9b0905e860ec2222a25f430489796c6777129188d23f6c1e11aba8d842ba
-Section: Tweaks
-Priority: optional
-Description: CCAngelHelper
-Author: CC
-Name: CCAngelHelper
-
 Package: MisakaHelper
 Version: 2.1-0
 Architecture: iphoneos-arm64
@@ -402,54 +251,6 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
-Package: com.eevee.spotify
-Version: 5.0
-Architecture: iphoneos-arm64
-Maintainer: Eevee
-Installed-Size: 2716
-Depends: dev.theos.orion (>= 1.0.0), firmware (>= 14.0), org.swift.protobuf.swiftprotobuf
-Filename: ./debs/rootless/mie.eevee.spotify_5.0_iphoneos-arm64.deb
-Size: 555484
-MD5sum: 3349d95d5d2e0d88e261bb1ac49cca0e
-SHA1: 43d63f6c50178090683dea75066c6bbce823876a
-SHA256: d87d3182571102396b60a130296cc9f5c630c127d3d6d04ed38c3ea11b689173
-Section: Tweaks
-Description: A tweak to get Spotify Premium for free, just like Spotilife
-Author: Eevee
-Name: EeveeSpotify
-
-Package: com.huami.WCAtPure
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: huami
-Depends: firmware (>= 7.0), mobilesubstrate
-Filename: ./debs/rootless/com.huami.WCAtPure_1.0.0_iphoneos-arm64_rootless.deb
-Size: 94232
-MD5sum: e2f2ac8609607efb8f6c024ab50c16e5
-SHA1: 2d1341bfe61951309209c486e64c4992c0e4050f
-SHA256: 87ecd22e52c2cd67d097acd5809641124f808a1696e1c2a5d946c0e35adbc43e
-Section: Tweaks
-Description: 让Misaka匿名艾特无处遁形、还你一个干净的微信！
-Author: huami
-Dev: huami
-Name: WCAtPure
-
-Package: com.mie.kmi
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: mie
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.mie.kmi_1.0.0_iphoneos-arm64.deb
-Size: 2962
-MD5sum: 4c5b59d7b3e623b637651f2f56ad366f
-SHA1: 1d424230e7089ec38da598d0427d402fd05345f3
-SHA256: c752584d897d9391d8ec67076c3f8d2612203861850c7feb652b0e2a11796381
-Section: Tweaks
-Description: k米解锁吧 自测。
-Author: mie
-Name: K米Release
-
 Package: com.mie.toolspatch
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -465,37 +266,6 @@ Section: Tweaks
 Description: 爱思助手Noads
 Author: mie
 Name: 爱思NoAds
-
-Package: com.mie.x
-Version: 5.2.0
-Architecture: iphoneos-arm64
-Maintainer: Mie
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.mie.x_5.2.0_iphoneos-arm64.deb
-Size: 8116
-MD5sum: 91f6f4d04823b551f3b929e3aad41888
-SHA1: 69731fbc3e85cb3b0614a937585be2b9908055fd
-SHA256: 749834da8652d7cdc81b6647205b6a5cd7b38eb4017ac18e2c8c84ffed7bc4df
-Section: Tweaks
-Description: X 去广告 去掉两个非常烦人的广告影响看片 有点小bug介意勿用！
-Author: mie
-Name: x
-
-Package: com.st.pubg
-Version: 5.2.0
-Architecture: iphoneos-arm64
-Maintainer: st
-Installed-Size: 14024
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootless/com.st.pubg_5.2.0_iphoneos-arm64.deb
-Size: 3573232
-MD5sum: 41585a7190bcf15151da412b642ca475
-SHA1: 945203d538b5d13a998c301d2b835534e4d2634f
-SHA256: 90c7bd636706e60d60eac5d21cf3cab4ce4a885a3fc108f2ca8e923277f02263
-Section: Tweaks
-Description: PUBG GL 3.3.0 Pro
-Author: st
-Name: ST PubgPro
 
 Package: com.sttt.modifyiipa
 Version: 0.0.1-10+debug
@@ -531,21 +301,6 @@ Description: sttt
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/tangdou.png
 Name: 糖豆 Unlockvip
-
-Package: com.xxin.wechat
-Version: 2.0-6
-Architecture: iphoneos-arm64
-Maintainer: 小昕
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.xxin.wechat_2.0-6_iphoneos-arm64.deb
-Size: 2845112
-MD5sum: 38edad57c8965472a417958cc7d1e967
-SHA1: 9fa33d00d855e7ef5db6e501bd3ca6320a2bc694
-SHA256: 96fd6070a5bff9a34b0192cc96579406f438a2ed698cfcde01d24bb9940deeb1
-Section: Tweaks
-Description: 抢红包,推送小助手,伪装计算器,备注用户头像,虚拟视频，全局长按导航栏快捷功能,修复转账金额移动复原，添加文字修改,语音包,一键已读,多端登录设备隐藏等，朋友圈转发，文字转语音，修改聊天时间
-Author: 小昕
-Name: 小昕助手
 
 Package: mdeb
 Version: 5.2.1-4+debug
@@ -646,21 +401,4 @@ Description: 微信净化，还原聊天本质，干净的微信给你，仅支�
 Author: Netskao
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 微信净化END
-
-Package: org.swift.protobuf.swiftprotobuf
-Version: 1.26.0
-Architecture: iphoneos-arm64
-Maintainer: eevee
-Installed-Size: 9564
-Filename: ./debs/rootless/org.swift.protobuf.swiftprotobuf_1.26.0_iphoneos-arm64.deb
-Size: 1274072
-MD5sum: 9c4a4170e90f5e079af0a8541863f8c5
-SHA1: 9e9e2345b1b487d00c1243cecf9fea1df4b454c6
-SHA256: 1cc0ca8197e5dcde6d0309f48c4e68b7186e4a1590ed1068654f1e93359e919b
-Section: Tweaks
-Description: Plugin and runtime library for using protobuf with Swift
-Tag: role::developer
-Author: eevee
-Icon: https://Mieing.Github.io/repo/file/Swift.png
-Name: SwiftProtobuf
 
