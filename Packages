@@ -219,22 +219,6 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
-Package: com.mie.toolspatch
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: mie <mie>
-Installed-Size: 168
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.mie.toolspatch_1.0.0_iphoneos-arm64.deb
-Size: 2722
-MD5sum: 2a9d8086011af47b3faf7d3eb3c5643b
-SHA1: effd6ea437141df8d63d4b94def02509c584fc1d
-SHA256: dc81400e4f80fec765aa5d5e2e40ef16055bcd2349cc52f168189f5c25faf0cf
-Section: Tweaks
-Description: 爱思助手Noads
-Author: mie
-Name: 爱思NoAds
-
 Package: com.sttt.modifyiipa
 Version: 0.0.1-10+debug
 Architecture: iphoneos-arm64
