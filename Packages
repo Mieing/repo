@@ -142,23 +142,6 @@ Author: 王富贵
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 匿名艾特Carck
 
-Package: mie.xx.dyhook
-Version: 2.0.6+8
-Architecture: iphoneos-arm
-Maintainer: x✨
-Installed-Size: 11072
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/mie.xx.dyhook_2.0.6+8_iphoneos-arm.deb
-Size: 3901660
-MD5sum: 0b33f6971c26de47083166f94600ec05
-SHA1: f6a003975540f588ef33433318f67cbe3ef4223b
-SHA256: d0344659ae50e05d8eb15f09c4c4a13e2479695b194b3caf32ac29fd8bf9efae
-Section: Tweaks
-Description: 自用 越狱食用
-Author: x✨
-Icon: https://Mieing.Github.io/repo/file/dy.png
-Name: 抖音图层
-
 Package: netskao.wechatpurification
 Version: 4.2-7
 Architecture: iphoneos-arm
@@ -323,23 +306,6 @@ Description: 匿名艾特
 Author: 王富贵
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 匿名艾特Carck
-
-Package: mie.xx.dyhook
-Version: 2.0.6+8
-Architecture: iphoneos-arm64
-Maintainer: x✨
-Installed-Size: 11056
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/mie.xx.dyhook_2.0.6+8_iphoneos-arm64.deb
-Size: 3904004
-MD5sum: c4e332d96ea666f13f6b69d046fb03e5
-SHA1: 9677936c4bbba75c81adafc63a7a1ffbd6587cd2
-SHA256: 2c58048771dc1d52f36555a246392f5324c4ed50e6ec19bca1214a58fc045798
-Section: Tweaks
-Description: 自用 越狱食用
-Author: x✨
-Icon: https://Mieing.Github.io/repo/file/dy.png
-Name: 抖音图层
 
 Package: netskao.wechatpurification
 Version: 4.2-6-END
