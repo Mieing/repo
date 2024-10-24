@@ -57,6 +57,23 @@ Author: Bandar Alruwaili
 Icon: https://Mieing.Github.io/repo/file/X.png
 Name: BHTwitter
 
+Package: com.dvntm.cc18
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (<= 18.0)
+Filename: ./debs/rootfull/com.dvntm.cc18_0.0.2_iphoneos-arm.deb
+Size: 4448
+MD5sum: c6c3ce6f5e6e3db7372f0b751c6c3fbe
+SHA1: fb55508ccf05fc0e7942d6d8b41e0e5a33e8ae2d
+SHA256: ca31071e45095f615db6ff30cdaa1736e4888f41be6d7d0b483c97900522d054
+Section: Tweaks
+Description: Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://Mieing.Github.io/repo/file/iOS18.png
+Name: CC18
+
 Package: com.sttt.modifyiipa
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
@@ -124,23 +141,6 @@ Description: 锤子助手插件
 Author: DumpApp
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 锤子助手
-
-Package: mie.dvntm.cc18
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
-Filename: ./debs/rootfull/mie.dvntm.cc18_0.0.2_iphoneos-arm.deb
-Size: 3972
-MD5sum: 5dc92c184c504b1f682dac0b94ba8052
-SHA1: d3c410e49572607068124da5a47b71555c778d06
-SHA256: 31a25fbfee72cf127e280619e9ab5ab0d379f13f1344c3cf9e4c5bf72434e3b1
-Section: Tweaks
-Description: Round CC modules replication, like in iOS 18
-Author: dvntm
-Icon: https://Mieing.Github.io/repo/file/iOS18.png
-Name: CC18
 
 Package: mie.wechat.wfg
 Version: 0.1-1+debug
@@ -221,6 +221,23 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
+
+Package: com.dvntm.cc18
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (<= 18.0)
+Filename: ./debs/rootless/com.dvntm.cc18_0.0.2_iphoneos-arm64.deb
+Size: 4516
+MD5sum: f671f812d3378999b0d9956fe237ac5e
+SHA1: 16ec604b6e944a7da7de898c169240979f3e437e
+SHA256: f2ed9e085e07aaca956b6a68c3eec7b30940c8785fdb1b99f5dfb1c936fabefa
+Section: Tweaks
+Description: Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://Mieing.Github.io/repo/file/iOS18.png
+Name: CC18
 
 Package: com.sttt.modifyiipa
 Version: 0.0.1-10+debug
@@ -306,23 +323,6 @@ Description: 锤子助手插件
 Author: DumpApp
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 锤子助手-Rootless
-
-Package: mie.dvntm.cc18
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: dvntm
-Installed-Size: 152
-Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
-Filename: ./debs/rootless/mie.dvntm.cc18_0.0.2_iphoneos-arm64.deb
-Size: 4060
-MD5sum: 15c6c72c33bef496934084c19ff0aa6a
-SHA1: 06cb366f5d1dfcb7217b00b78b9a20fbe4eec4e5
-SHA256: 132ae4c75f9cbe279232c5c59a57cdc83f7296d6d77dca443d272c875bf5cdc6
-Section: Tweaks
-Description: Round CC modules replication, like in iOS 18
-Author: dvntm
-Icon: https://Mieing.Github.io/repo/file/iOS18.png
-Name: CC18
 
 Package: mie.wechat.wfg
 Version: 0.1-1+debug
