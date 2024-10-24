@@ -74,6 +74,23 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
+Package: com.stt.picsew
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: stt <null>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.stt.picsew_0.0.1_iphoneos-arm.deb
+Size: 3862
+MD5sum: 1f17f6765f6c0de6e0923b5a0efb3d73
+SHA1: 4f5bd2dffe9f55c416038384e9f2118e10eaa515
+SHA256: 054d4505cf6ce60a581dea81a76ec526c54768445a7505ba787dcd7b46503370
+Section: Tweaks
+Description: Picsew Crack supports version 3.8.6+
+Author: stt <null>
+Icon: https://Mieing.Github.io/repo/file/picsew.png
+Name: Picsew
+
 Package: com.stt.wechat
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -255,6 +272,23 @@ Description: Round CC modules replication, like in iOS 18
 Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
+
+Package: com.stt.picsew
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: stt <null>
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.stt.picsew_0.0.1_iphoneos-arm64.deb
+Size: 3962
+MD5sum: 544834986258bac00ba8b960c3e1e19f
+SHA1: 2e906a6db88735cea89741485f7443ee811944fe
+SHA256: 25041a105156f74a96601136a66fadd3b37a527dfd61e84cc205ceded290d53e
+Section: Tweaks
+Description: Picsew Crack supports version 3.8.6+
+Author: stt <null>
+Icon: https://Mieing.Github.io/repo/file/picsew.png
+Name: Picsew
 
 Package: com.stt.wechat
 Version: 0.0.1
