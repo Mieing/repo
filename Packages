@@ -57,6 +57,22 @@ Author: Bandar Alruwaili
 Icon: https://Mieing.Github.io/repo/file/X.png
 Name: BHTwitter
 
+Package: com.dvntm.cc18
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debs/rootfull/com.dvntm.cc18_0.0.2_iphoneos-arm.deb
+Size: 4280
+MD5sum: 468807a92996542db70f6b8bbbef0c33
+SHA1: 5e2ddf5e450629e5b54340b3ccdd0ad0ff5a40d5
+SHA256: 4ef502c6c17260a93146a5e78518321d7df9c38c0a2b4c0f397ba6b151cc28e9
+Section: Tweaks
+Description: Round CC modules replication, like in iOS 18
+Author: dvntm
+Name: CC18
+
 Package: com.sttt.modifyiipa
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
@@ -221,6 +237,22 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
+
+Package: com.dvntm.cc18
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (< 18.0)
+Filename: ./debs/rootless/com.dvntm.cc18_0.0.2_iphoneos-arm64.deb
+Size: 4358
+MD5sum: 962b6adfb1596b392cabeb4fb6ad8aa6
+SHA1: 50cd3b662f1819c403828b5ab704f41f816e2572
+SHA256: 4cecc7b43efba39adea7b25775023bfd7bf87b8ca0fb22ee5e4571fb9ad90b2a
+Section: Tweaks
+Description: Round CC modules replication, like in iOS 18
+Author: dvntm
+Name: CC18
 
 Package: com.sttt.modifyiipa
 Version: 0.0.1-10+debug
