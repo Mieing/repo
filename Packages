@@ -143,6 +143,40 @@ Icon: https://Mieing.Github.io/repo/file/sttt.png
 Name: modifyiipa
 Sileodepiction: https://Mieing.github.io/repo/Desc/modifyiipa.json
 
+Package: com.sttt.neteasemail
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: sttt
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.sttt.neteasemail_0.0.1_iphoneos-arm.deb
+Size: 3916
+MD5sum: 5875576eaa0bcc88081fd43929dcfe39
+SHA1: 1e3884462892949724daafdc08aa5b227c6663f4
+SHA256: 52ed0f0ef79f03770ec7106031a15859073797773035efdc6ff91050ebd57549
+Section: NoAds
+Description: NetEase Mail Master No Ads was tested on version 7.18.3
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/neteasemail.png
+Name: 网易邮箱大师 NoAds
+
+Package: com.sttt.qqmail
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: sttt
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.sttt.qqmail_0.0.1_iphoneos-arm.deb
+Size: 3870
+MD5sum: d3fd39269acce8b4a4663f1f2c3163bd
+SHA1: 19dcfb36083af2e84fb3de733946e5ac297e3ff0
+SHA256: 5a927114af71dbdcf6d44a6fd9ac237ed32b1b4d1f88c9d0ed567d0a5dcf1eab
+Section: NoAds
+Description: QQmail NoAds was tested on version 6.5.0
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/qq.png
+Name: QQ邮箱 NoAds
+
 Package: com.sttt.unlockvip
 Version: 0.0.1
 Architecture: iphoneos-arm
@@ -358,6 +392,40 @@ Author: sttt
 Icon: https://Mieing.Github.io/repo/file/sttt.png
 Name: modifyiipa
 Sileodepiction: https://Mieing.github.io/repo/Desc/modifyiipa.json
+
+Package: com.sttt.neteasemail
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.sttt.neteasemail_0.0.1_iphoneos-arm64.deb
+Size: 4026
+MD5sum: 646a214c53b27ba03c60c366b1106bcd
+SHA1: 32750cae4010cd6987c92094190ff4dbb5436df0
+SHA256: 0f9e25569c87c017f0b6e21c04f343e584dc4adf3d4eae1951ec82ce01495f32
+Section: NoAds
+Description: NetEase Mail Master No Ads was tested on version 7.18.3
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/neteasemail.png
+Name: 网易邮箱大师 NoAds
+
+Package: com.sttt.qqmail
+Version: 0.0.1
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.sttt.qqmail_0.0.1_iphoneos-arm64.deb
+Size: 3972
+MD5sum: 21310e5f138b002da9a1dd1fa90c0361
+SHA1: e03fb3c44403a97bdb8b704104ee47c3c60a9014
+SHA256: 26cdff5fa6a1cd66432586652b631ecfcd2f37258e1e6b8c8fc0085f89e19e12
+Section: NoAds
+Description: QQmail NoAds was tested on version 6.5.0
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/qq.png
+Name: QQ邮箱 NoAds
 
 Package: com.sttt.unlockvip
 Version: 0.0.1
