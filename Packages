@@ -91,22 +91,39 @@ Author: stt <null>
 Icon: https://Mieing.Github.io/repo/file/picsew.png
 Name: Picsew
 
-Package: com.stt.wechat
-Version: 0.0.1
+Package: com.stt.picsewcrack
+Version: 0.0.2
 Architecture: iphoneos-arm
-Maintainer: stt
+Maintainer: sttt
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.stt.wechat_0.0.1_iphoneos-arm.deb
-Size: 3954
-MD5sum: 7b03e3e11fea23782477dc366c84ca89
-SHA1: 345c0961f0038d3e09bbe0fbae23e4417607a2a6
-SHA256: cab2f3ee20b941e909dfffa7f3c19e2e180abe6e0c136da3b4135aa352fd7cbc
+Filename: ./debs/rootfull/com.stt.picsewcrack_0.0.2_iphoneos-arm.deb
+Size: 3864
+MD5sum: ae2359ac5774eafd367b16fc311c881c
+SHA1: 0892322dfd79111bb904048fdfa28d9e74b9bebd
+SHA256: 0aeaa29392c0a7931b3367fdd13c6d887fc9e7f4d6f3cce767378ce6aa5fff94
+Section: Tweaks
+Description: Picsew Crack supports version 3.8.6+
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/picsew.png
+Name: Picsew Crack
+
+Package: com.stt.wechat
+Version: 0.0.2
+Architecture: iphoneos-arm
+Maintainer: sttt
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.stt.wechat_0.0.2_iphoneos-arm.deb
+Size: 3952
+MD5sum: 8993feea509a5110557ec7a4d38ef233
+SHA1: 0029de9a6c743fefacf2a024221c590b0912283b
+SHA256: 66cf293caa3da727b51b15b1b51d169d317ad1f174650f2603a92a6e8c81411c
 Section: Tweaks
 Description: Make your WeChat call unable to hang up!
-Author: stt
+Author: sttt
 Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: WeChat tweaks
+Name: wechat
 
 Package: com.sttt.modifyiipa
 Version: 0.0.1-11+debug
@@ -290,22 +307,39 @@ Author: stt <null>
 Icon: https://Mieing.Github.io/repo/file/picsew.png
 Name: Picsew
 
-Package: com.stt.wechat
-Version: 0.0.1
+Package: com.stt.picsewcrack
+Version: 0.0.2
 Architecture: iphoneos-arm64
-Maintainer: stt
+Maintainer: sttt
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/rootless/com.stt.wechat_0.0.1_iphoneos-arm64.deb
-Size: 4060
-MD5sum: ac031cf8e61f30f613ad128a62d33b1a
-SHA1: e3ddbc4f20dc0812bfe536480e8dd372879e6ffa
-SHA256: 60256aaa70e28239af4ab5d8aa14dcf8a430a3327a2e0491f15789956f4fea4c
+Filename: ./debs/rootless/com.stt.picsewcrack_0.0.2_iphoneos-arm64.deb
+Size: 3956
+MD5sum: 2e3c4ba2c211d157459a32e5b08179bd
+SHA1: f2a057ab9ea03baa167b05ab6493bd29dd332491
+SHA256: 6b4bd33183ea72c6a62d9a1fc143ca9b040d8a833db723408503796dc4f48b7a
+Section: Tweaks
+Description: Picsew Crack supports version 3.8.6+
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/picsew.png
+Name: Picsew Crack
+
+Package: com.stt.wechat
+Version: 0.0.2
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.stt.wechat_0.0.2_iphoneos-arm64.deb
+Size: 4056
+MD5sum: c02875c357ec80ae6612fe885a95f15b
+SHA1: e78979e22a1a0e625ca7edbf59462a9153704111
+SHA256: d45c01bffa2629f7007fc79c94a620eca4483875aa13ca0eef7d6a503176ee51
 Section: Tweaks
 Description: Make your WeChat call unable to hang up!
-Author: stt
+Author: sttt
 Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: WeChat tweaks
+Name: wechat
 
 Package: com.sttt.modifyiipa
 Version: 0.0.1-10+debug
