@@ -74,22 +74,22 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
-Package: com.stt.picsew
-Version: 0.0.1
+Package: com.st.wxhook
+Version: 5.2.0
 Architecture: iphoneos-arm
-Maintainer: stt <null>
-Installed-Size: 280
+Maintainer: ST
+Installed-Size: 352
 Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.stt.picsew_0.0.1_iphoneos-arm.deb
-Size: 3862
-MD5sum: 1f17f6765f6c0de6e0923b5a0efb3d73
-SHA1: 4f5bd2dffe9f55c416038384e9f2118e10eaa515
-SHA256: 054d4505cf6ce60a581dea81a76ec526c54768445a7505ba787dcd7b46503370
+Filename: ./debs/rootfull/com.st.wxhook_5.2.0_iphoneos-arm.deb
+Size: 64450
+MD5sum: 995d510f3ffaf798c374c162565b77b4
+SHA1: 1b3b67ad93c14b1e5eac6a7142da27e6eb4c0abe
+SHA256: 9c13d26757c9e24e123d0d082cfa413c99add16111e24ae2955bdf91da003251
 Section: Tweaks
-Description: Picsew Crack supports version 3.8.6+
-Author: stt <null>
-Icon: https://Mieing.Github.io/repo/file/picsew.png
-Name: Picsew
+Description: Mieing Helper
+Author: ST
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: 一包小薯条
 
 Package: com.stt.picsewcrack
 Version: 0.0.2
@@ -125,6 +125,22 @@ Author: sttt
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: wechat
 
+Package: com.sttt.ip
+Version: 0.0.1-5+debug
+Architecture: iphoneos-arm
+Maintainer: sttt
+Installed-Size: 196
+Filename: ./debs/rootfull/com.sttt.ip_0.0.1-5+debug_iphoneos-arm.deb
+Size: 5368
+MD5sum: 94afe6365c79fa63929ec630adb53461
+SHA1: 9f93f241ec720c61bd1b42dc9a2597987297d770
+SHA256: 8bf334a5c84ca8d0f8215d7ccb56b30c3016755d5a506e2330e65ef1da92ab5a
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: sttt
+Name: IP
+
 Package: com.sttt.modifyiipa
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
@@ -147,15 +163,15 @@ Package: com.sttt.neteasemail
 Version: 0.0.1
 Architecture: iphoneos-arm
 Maintainer: sttt
-Installed-Size: 280
+Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/com.sttt.neteasemail_0.0.1_iphoneos-arm.deb
-Size: 3916
-MD5sum: 5875576eaa0bcc88081fd43929dcfe39
-SHA1: 1e3884462892949724daafdc08aa5b227c6663f4
-SHA256: 52ed0f0ef79f03770ec7106031a15859073797773035efdc6ff91050ebd57549
+Size: 2198
+MD5sum: e8decf0d29aea93a0bd2e2977cf1fc4d
+SHA1: 1b6b9be02f085b177f8b612bdfd1b3a67d9942ad
+SHA256: 4cc77b98a2e74b769396175766e8e8c1ea91176937220b97bc1bdd96bf7144eb
 Section: NoAds
-Description: NetEase Mail Master No Ads was tested on version 7.18.3
+Description: NetEase Mail Master No Ads
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/neteasemail.png
 Name: 网易邮箱大师 NoAds
@@ -167,15 +183,32 @@ Maintainer: sttt
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/rootfull/com.sttt.qqmail_0.0.1_iphoneos-arm.deb
-Size: 3870
-MD5sum: d3fd39269acce8b4a4663f1f2c3163bd
-SHA1: 19dcfb36083af2e84fb3de733946e5ac297e3ff0
-SHA256: 5a927114af71dbdcf6d44a6fd9ac237ed32b1b4d1f88c9d0ed567d0a5dcf1eab
+Size: 3850
+MD5sum: 487a299117219ec889589451b41a35bc
+SHA1: 0957f959fcf52576ab721d02c2417947e7ebbe00
+SHA256: 837cd778abec8b3b4a48afda5535be341dc576479f36ec1ff14f72d679ca9b3c
 Section: NoAds
-Description: QQmail NoAds was tested on version 6.5.0
+Description: QQmail NoAds
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/qq.png
 Name: QQ邮箱 NoAds
+
+Package: com.sttt.stormsniffercrack
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm
+Maintainer: STTT
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.sttt.stormsniffercrack_0.0.1-4+debug_iphoneos-arm.deb
+Size: 7922
+MD5sum: 936c51fa39ddc4c9f1ac1a84848363f2
+SHA1: b1c2d7bdab8defda74f256b0522fdbecaa0b36f6
+SHA256: cc82ec5c4bdb906bc0e400ed867cd1b6da3659d4164c8351a56470f8c155a1a5
+Section: Crack
+Description: Storm Sniffer Crack
+Author: STTT
+Icon: https://Mieing.Github.io/repo/file/Storm%20Sniffer.png
+Name: Storm Sniffer Crack
 
 Package: com.sttt.unlockvip
 Version: 0.0.1
@@ -324,22 +357,22 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
-Package: com.stt.picsew
-Version: 0.0.1
+Package: com.st.wxhook
+Version: 5.2.0
 Architecture: iphoneos-arm64
-Maintainer: stt <null>
-Installed-Size: 280
+Maintainer: ST
+Installed-Size: 352
 Depends: mobilesubstrate
-Filename: ./debs/rootless/com.stt.picsew_0.0.1_iphoneos-arm64.deb
-Size: 3962
-MD5sum: 544834986258bac00ba8b960c3e1e19f
-SHA1: 2e906a6db88735cea89741485f7443ee811944fe
-SHA256: 25041a105156f74a96601136a66fadd3b37a527dfd61e84cc205ceded290d53e
+Filename: ./debs/rootless/com.st.wxhook_5.2.0_iphoneos-arm64.deb
+Size: 64534
+MD5sum: 01ec9b383f7f3dd3fee68eb60335137b
+SHA1: b8055213993f1e3d156dc3d157a4801a002c8442
+SHA256: ea813b36c7314fad0919da0ab11aa1137d6654cf1afe66c8d9004cdb24311f45
 Section: Tweaks
-Description: Picsew Crack supports version 3.8.6+
-Author: stt <null>
-Icon: https://Mieing.Github.io/repo/file/picsew.png
-Name: Picsew
+Description: Mieing Helper
+Author: ST
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: 一包小薯条
 
 Package: com.stt.picsewcrack
 Version: 0.0.2
@@ -375,6 +408,22 @@ Author: sttt
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: wechat
 
+Package: com.sttt.ip
+Version: 0.0.1-4+debug
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 196
+Filename: ./debs/rootless/com.sttt.ip_0.0.1-4+debug_iphoneos-arm64.deb
+Size: 5464
+MD5sum: 2c0d7566ca501a9ec3bb50a3e09cd988
+SHA1: a3ac3cb74a57da48484ebc6d4df3dc73c487c3c8
+SHA256: 92cb5c955b5427230994796a6f32ef84ebe6890efeb1bdfe7437303eee0f2779
+Section: System
+Description: An awesome tool of some sort!!
+Tag: role::hacker
+Author: sttt
+Name: IP
+
 Package: com.sttt.modifyiipa
 Version: 0.0.1-10+debug
 Architecture: iphoneos-arm64
@@ -397,15 +446,15 @@ Package: com.sttt.neteasemail
 Version: 0.0.1
 Architecture: iphoneos-arm64
 Maintainer: sttt
-Installed-Size: 280
+Installed-Size: 136
 Depends: mobilesubstrate
 Filename: ./debs/rootless/com.sttt.neteasemail_0.0.1_iphoneos-arm64.deb
-Size: 4026
-MD5sum: 646a214c53b27ba03c60c366b1106bcd
-SHA1: 32750cae4010cd6987c92094190ff4dbb5436df0
-SHA256: 0f9e25569c87c017f0b6e21c04f343e584dc4adf3d4eae1951ec82ce01495f32
+Size: 2236
+MD5sum: 155f80295293fef546ec0f24b5781c1c
+SHA1: a501546dc07c1e8b81d154f273a827eeb1610cb3
+SHA256: 941b2bdd8210286f63b6b301aa6565347cde5cfa565b7c2075ae0a95aae1d15d
 Section: NoAds
-Description: NetEase Mail Master No Ads was tested on version 7.18.3
+Description: NetEase Mail Master No Ads
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/neteasemail.png
 Name: 网易邮箱大师 NoAds
@@ -417,15 +466,32 @@ Maintainer: sttt
 Installed-Size: 280
 Depends: mobilesubstrate
 Filename: ./debs/rootless/com.sttt.qqmail_0.0.1_iphoneos-arm64.deb
-Size: 3972
-MD5sum: 21310e5f138b002da9a1dd1fa90c0361
-SHA1: e03fb3c44403a97bdb8b704104ee47c3c60a9014
-SHA256: 26cdff5fa6a1cd66432586652b631ecfcd2f37258e1e6b8c8fc0085f89e19e12
+Size: 3952
+MD5sum: 13c8faebdbef01a25181a8727c1b2868
+SHA1: c933c8832342123f3577ee64ab15082abc2dcdcb
+SHA256: a31127cced40d34491c123a37eb09f8ba8f8fa74e19b6168836051c7be4fb31f
 Section: NoAds
-Description: QQmail NoAds was tested on version 6.5.0
+Description: QQmail NoAds
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/qq.png
 Name: QQ邮箱 NoAds
+
+Package: com.sttt.stormsniffercrack
+Version: 0.0.1-3+debug
+Architecture: iphoneos-arm64
+Maintainer: STTT
+Installed-Size: 216
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.sttt.stormsniffercrack_0.0.1-3+debug_iphoneos-arm64.deb
+Size: 8002
+MD5sum: 00ec9ea929a1b2923a2cfc8218f87ac8
+SHA1: 98538a5a6fdbb32e430c05df6b3b433f9fccfd2a
+SHA256: 16c02b77688190322c9d17f7cc12573b57f6c2136360634a7c3416c6789e8e41
+Section: Crack
+Description: Storm Sniffer Crack
+Author: STTT
+Icon: https://Mieing.Github.io/repo/file/Storm%20Sniffer.png
+Name: Storm Sniffer Crack
 
 Package: com.sttt.unlockvip
 Version: 0.0.1
@@ -517,14 +583,13 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 16676
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/rootless/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
-Size: 6276940
-MD5sum: d0a2dd5b9de19b3a7ec04b139def40c7
-SHA1: cca46dbe8ada2548a42cd9f447dcccfff2ddb1fd
-SHA256: 93b68ccfc4abce3d0a279ecc979b2eb2e3f1094a1576548bfcb021c9bea7463d
-Section: Tweaks
+Filename: ./debs/rootless/netskao_wechatpurification_4_2_7_arm64.deb
+Size: 6279272
+MD5sum: 1927dcfdb775c7edc5fe4f44b93a0460
+SHA1: 9d2e44bee6ebf656c63e82293a66bffb9976b92e
+SHA256: e43677876483db289ed57d486ab963b728922a67d03f5a06e57f0fcd6b26c324
+Section: Netskao-Tweaks
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
-Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 微信净化END
 
