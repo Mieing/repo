@@ -595,43 +595,6 @@ Author: Netskao
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 微信净化END
 
-Package: byg.iosios.net.blockappscreatealbum-rootless
-Version: 1.1-2
-Architecture: iphoneos-arm64e
-Maintainer: 搬运工
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 13.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/byg.iosios.net.blockappscreatealbum-rootless_1.1-2_iphoneos-arm64e.deb
-Size: 6250
-MD5sum: 89962cfd7ba43a33ff0b985f2b7e4077
-SHA1: 2d939c7937a28544d1ee60f10edb820725469752
-SHA256: 45bf2e300c252b92951ac1eaf3426c943da08e0f355cf2daa1d3f0820f0a2f6f
-Section: RootHide
-Description: Block applications from creating their own albums阻止应用程序创建自己的相册
-Author: Netskao
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: 阻止应用程序创建自己的相册-Rootless
-Sponsor: 搬运工
-
-Package: byg.iosios.net.hideserialnumber
-Version: 0.0.4
-Architecture: iphoneos-arm64e
-Maintainer: 搬运工
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 12.2), mobilesubstrate, preferenceloader
-Filename: ./debs/iphoneos-arm64e/byg.iosios.net.hideserialnumber_0.0.4_iphoneos-arm64e.deb
-Size: 71848
-MD5sum: 4494fda972c176607f2c81edf53e909f
-SHA1: add51955a79a055d60b8da2bbe6c2057f072bef5
-SHA256: 4cd3bb3af27ba42894131b44f02bc1fbe5c256e7f039b20da71202900a0afd58
-Section: RootHide
-Description: Hide Serial Number in Settings About page.在“设置关于”页面中隐藏/伪装序列号等相关信息。搬运工源，搬你所想！
-Author: ichitaso
-Icon: https://chinesebuilding.club/pic/cydia.png
-Name: HideSerialNumber隐藏序列号-Rootless
-Sponsor: 搬运工
-
 Package: com.25mao.jdquan.rootless
 Version: 1.0-1
 Architecture: iphoneos-arm64e
@@ -785,60 +748,4 @@ Description: Aweme Video Show Time. Tested only on version 30.3.0 and above
 Author: Netskao
 Name: AwemeVideoTime
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemevideotime.json
-
-Package: com.sparklechan.swifty
-Version: 1.6
-Architecture: iphoneos-arm64e
-Maintainer: FCCT <ceo@polcom.de>
-Installed-Size: 9468
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: swift, clang, ldid
-Conflicts: com.sparklechan.sparkkit
-Filename: ./debs/iphoneos-arm64e/com.sparklechan.swifty_1.6_iphoneos-arm64e.deb
-Size: 7708802
-MD5sum: 336dea2b33fd2c8eede338e92a6e6661
-SHA1: 1dbde161d82cd536c26851518950f6a2df6cdf99
-SHA256: 0c9927a189b313fb618b87fd47bd3dfa7c6d605b6eb727847c990ed829dcb707
-Section: RootHide
-Description: Full fledged Xcode-like IDE for iOS
-Tag: role::hacker, compatible_min::ios15.0
-Author: FCCT <ceo@polcom.de>
-Depiction: https://chariz.com/get/fridacodemanager
-Icon: https://img.chariz.cloud/icon/fridacodemanager/icon@3x.png
-Name: FridaCodeManager
-
-Package: com.susu.wcfrostedglass
-Version: 1.0.4-2
-Architecture: iphoneos-arm64e
-Maintainer: 苏苏
-Installed-Size: 168
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/iphoneos-arm64e/com.susu.wcfrostedglass_1.0.4-2_iphoneos-arm64e.deb
-Size: 5900
-MD5sum: 7e19607087ada7093f2b5b655ab291b1
-SHA1: fc263bb5889303fd2f5b3ead4ebb4666e218201c
-SHA256: 6c3551f01bbe6f410bf01e6483ce2c7156091d4cf94fe6775dc5c8f6b80f7be5
-Section: RootHide
-Description: WeChat Frosted glass effect on top and bottom
-Author: 苏苏
-Icon: https://www.susubaby.top/images/wechat.png
-Name: SuWCFrostedGlass
-
-Package: org.coolstar.sileo
-Version: 2.5-15
-Architecture: iphoneos-arm64e
-Maintainer: Amy While <me@anamy.gay>
-Depends: firmware (>= 11.0), firmware(>=12.2) | org.swift.libswift (>=5.0), coreutils (>= 8.30-1), dpkg (>= 1.19.4-1), apt (>= 1.8.2), libzstd1
-Filename: ./debs/iphoneos-arm64e/org.coolstar.sileo_2.5-15_iphoneos-arm64e.deb
-Size: 4290992
-MD5sum: db30acd01505e5dbb09c7383f6f12e59
-SHA1: b870965821d2d0113b1482ba559c72ccc57d95c7
-SHA256: b76edaf6c5cbd69408c737423dfd1517b29b20623fd751ca6241093bbd0018a1
-Section: RootHide
-Description: A modern APT package manager frontend
-Author: Amy While <me@anamy.gay>
-Icon: https://getsileo.app/img/icon.png
-Name: Sileo
-Sileodepiction: https://featuredpage.getsileo.app/depiction.json
 
