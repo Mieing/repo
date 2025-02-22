@@ -341,6 +341,23 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
+Package: cn.sttt.inputboxtextcolor
+Version: 2.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 76
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.sttt.inputboxtextcolor_2.0.0-1+debug_iphoneos-arm64.deb
+Size: 7286
+MD5sum: 79fb19551873cc80b525ffb4c04feaba
+SHA1: 1663bdc80d6b848ac2ca892d9a606fda4badbccd
+SHA256: 723f86b4c1a1744567e507322fdc53fd2c95e9d7495f87ee133a68cff59c8ced
+Section: Tweaks
+Description: A very boring iOS wechat tweak
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: WCInputBoxTextColor
+
 Package: cn.sttt.iyzico
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -357,6 +374,23 @@ Description: iyzico
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/iyzico.png
 Name: iyzico
+
+Package: cn.sttt.wchookcell
+Version: 1.0.0-4
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.sttt.wchookcell_1.0.0-4_iphoneos-arm64.deb
+Size: 3148
+MD5sum: 3fa62b0f4e65b1d4d1e9ad1038ad9f73
+SHA1: 640ea6ee1e34fc2484b71612d22287e8662be61a
+SHA256: cf4c251956af1b6d3195c6328e290c42949c361c3cdd04684d425ff7d07d6f55
+Section: Tweaks
+Description: WeChat plugin management registration example
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: WCHookCell
 
 Package: com.dvntm.cc18
 Version: 0.0.2
@@ -528,17 +562,34 @@ Author: sttt
 Icon: https://Mieing.Github.io/repo/file/tangdou.png
 Name: 糖豆 Unlockvip
 
+Package: com.sttt.wchooktext
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 152
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.sttt.wchooktext_1.0.0_iphoneos-arm64.deb
+Size: 3468
+MD5sum: 548863aec7d16f1b2792f16eb342e6ba
+SHA1: 021712459c65ad4092379460a54b7cf73661857f
+SHA256: 174375519941fc3966a2da48fdbea1530c268e6721bf77d9d5420a2f1154308f
+Section: Tweaks
+Description: Add WeChat's input box placeholder text and change the color.
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: WCHookPlaceholderColorText
+
 Package: mdeb
-Version: 5.2.1-4+debug
+Version: 5.2.1-5
 Architecture: iphoneos-arm64
 Maintainer: mie
-Installed-Size: 212
+Installed-Size: 68
 Depends: bash
-Filename: ./debs/rootless/mdeb_5.2.1-4+debug_iphoneos-arm64.deb
-Size: 8018
-MD5sum: e14817b37178eee2416e2249a47f1fc0
-SHA1: 9caa81e2f9f927a0e7d8333b902fbab4d7e97857
-SHA256: 970871f9cc2a341dfbebe13fd33c7ce1e4887595d770d6be599efbf33f10275d
+Filename: ./debs/rootless/mdeb_5.2.1-5_iphoneos-arm64.deb
+Size: 4440
+MD5sum: 097a11b855978fc926fc6daac28ef62c
+SHA1: 8976a8dea3aaa74c8a88a680c3c4f7c91f97275a
+SHA256: 6b9b7ea80d524c1b9086ec38740bf7d628c7cec522a221f1005900d1cc7c42e4
 Section: Terminal_Support
 Priority: optional
 Description: Quickly extract dylib files in batches
