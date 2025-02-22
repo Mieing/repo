@@ -40,6 +40,22 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
+Package: cn.sttt.reset.tourist
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: STTT
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/cn.sttt.reset.tourist_1.0.0_iphoneos-arm.deb
+Size: 7376
+MD5sum: e4a1d1d53db299fab676cd3291387b1c
+SHA1: e11cd66dbe988b7712d2054c4eec89699a15624c
+SHA256: d00defb6ca85fdea70259d5e936957963789daaf5d8113f8d91b80eff80bc9a3
+Section: Tweaks
+Description: 为PUBG四服重置游客！
+Author: STTT
+Icon: https://Mieing.Github.io/repo/file/PUBGMOBILE.png
+Name: 重置游客
+
 Package: com.bandarhl.bhtwitter
 Version: 4.3-4-1+debug
 Architecture: iphoneos-arm
@@ -374,6 +390,22 @@ Description: iyzico
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/iyzico.png
 Name: iyzico
+
+Package: cn.sttt.reset.tourist
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: STTT
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.sttt.reset.tourist_1.0.0_iphoneos-arm64.deb
+Size: 7404
+MD5sum: 2725340c53d66bb1a45b677049020f14
+SHA1: b7f1960c23ac46b81a8c05ba340d613ca16b2372
+SHA256: a6ad7417bb025de71763b790a1faed4c457b60271c7722fbdeb6ecfc3f609f13
+Section: Tweaks
+Description: 为PUBG四服重置游客！
+Author: STTT
+Icon: https://Mieing.Github.io/repo/file/PUBGMOBILE.png
+Name: 重置游客
 
 Package: cn.sttt.wchookcell
 Version: 1.0.0-4
