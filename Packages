@@ -40,6 +40,23 @@ Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
 
+Package: cn.lly.sttt.awemeshowarea
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: lly·sttt
+Installed-Size: 380
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/cn.lly.sttt.awemeshowarea_1.0.0-2_iphoneos-arm.deb
+Size: 48670
+MD5sum: ae3ac577703313e0d110fed7f798fed8
+SHA1: fac8b28afdc5182e9b3f555a3c66634e7fcb09d8
+SHA256: cbd1ede500d61add54c7949bf9371c2d8110edd4a162be6abcd927177c1541cc
+Section: Tweaks
+Description: Display publishing region
+Author: lly·sttt
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: AwemeShowArea
+
 Package: cn.sttt.reset.tourist
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -356,6 +373,23 @@ Description: Enables the ability to install unsigned/fakesigned iOS applications
 Author: Karen/あけみ, Linus Yang <karen@akemi.ai>
 Depiction: https://cydia.akemi.ai/?page/ai.akemi.appsyncunified
 Name: AppSync Unified
+
+Package: cn.lly.sttt.awemeshowarea
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: lly·sttt
+Installed-Size: 380
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/cn.lly.sttt.awemeshowarea_1.0.0-1_iphoneos-arm64.deb
+Size: 48752
+MD5sum: eaa11ffdf0810d35d5ecb0a8685f0084
+SHA1: 6d11139d8c8de1f23b021cdc62c2f9e8c8892037
+SHA256: fea50c6c90fe3673e45d0a4a22c6d3e82870bf7ce5b1df991a1b7cbfb57abcef
+Section: Tweaks
+Description: Display publishing region
+Author: lly·sttt
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: AwemeShowArea
 
 Package: cn.sttt.inputboxtextcolor
 Version: 2.0.0-1+debug
