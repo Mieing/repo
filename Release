@@ -3,5 +3,5 @@ Label: fries
 Description: This is a self-use software source
 Suite: stable
 Version: 5.2.0
-Architectures: iphoneos-arm iphoneos-arm64e
+Architectures: iphoneos-arm iphoneos-arm64 iphoneos-arm64e
 Components: main
