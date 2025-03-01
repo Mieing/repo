@@ -920,15 +920,16 @@ Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemealwayss
 
 Package: com.netskao.awemedisablebar
 Version: 1.1-6
-Architecture: iphoneos-arm64
+Architecture: iphoneos-arm64e
 Maintainer: Nets
 Installed-Size: 708
+Pre-Depends: rootless-compat(>= 0.9)
 Depends: firmware (>= 12.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.netskao.awemedisablebar_1.1-6_iphoneos-arm64.deb
-Size: 304804
-MD5sum: 3898d8c2ab3582b39ea59e1aa890d84c
-SHA1: 65a532118e342ef10111d9ab0767fa032f940295
-SHA256: 959b7aee8feebc5f785d18feb5647317218e9393d6bf9c80c62135bc94ebd836
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemedisablebar_1.1-6_iphoneos-arm64e-1.deb
+Size: 390014
+MD5sum: 01fddd34d776b2c0d0400391de92b303
+SHA1: 8360a61a4cbd08f1f3f5321b0cec24dbdbb25d00
+SHA256: 69307dfc5a33c6bb9020dcee39702474031476b86553ba7e5dc8c1e68be444d9
 Section: RootHide
 Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
 Author: Netskao
