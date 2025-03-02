@@ -816,6 +816,23 @@ Author: Frida Developers <oleavr@nowsecure.com>
 Icon: https://Mieing.Github.io/repo/file/frida.png
 Name: Frida
 
+Package: cn.lly.sttt.awemeshowarea
+Version: 1.0.1-4
+Architecture: iphoneos-arm64e
+Maintainer: lly·sttt
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/cn.lly.sttt.awemeshowarea_1.0.1-2_iphoneos-arm64e.deb
+Size: 60442
+MD5sum: 663cf411bb46443334b3e54decb182d8
+SHA1: 0dd3ce18db92a2c3470cdd1ae81515d8385c1750
+SHA256: 58b3880627def7283b20483fc7b0f587dbfc7fc255852650ac71adbcc699f043
+Section: RootHide
+Description: Display publishing region
+Author: lly·sttt
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: AwemeShowArea
+
 Package: cn.sttt.iyzico
 Version: 1.0.0
 Architecture: iphoneos-arm64e
