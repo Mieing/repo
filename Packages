@@ -58,16 +58,16 @@ Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: AwemeMoveVideoGreationTime
 
 Package: cn.lly.sttt.awemeshowarea
-Version: 1.0.0-2
+Version: 1.0.1-2
 Architecture: iphoneos-arm
 Maintainer: lly·sttt
-Installed-Size: 380
+Installed-Size: 780
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/cn.lly.sttt.awemeshowarea_1.0.0-2_iphoneos-arm.deb
-Size: 48666
-MD5sum: b2c33341324b8ea2c9f0f8bce1d6f92a
-SHA1: ab648553eed973ea647f2e4a675399602ca56ba9
-SHA256: f1d799a7ab63fbb14cdd74a415f4d5fca9705bc2fe8cbd2e9ea4390a50eb985e
+Filename: ./debs/rootfull/cn.lly.sttt.awemeshowarea_1.0.1-2_iphoneos-arm.deb
+Size: 63360
+MD5sum: 967b01c2de5f91d7bd9d6c440240d3a9
+SHA1: a9fa0d55dec2926d08dbd6837c0817a9a2d79db1
+SHA256: 0d5c947eff286bf18d39ca8e29dd2a92742fbcbd8697a4160953ae3c3e639dad
 Section: Tweaks
 Description: Display publishing region
 Author: lly·sttt
@@ -426,16 +426,16 @@ Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: AwemeMoveVideoGreationTime
 
 Package: cn.lly.sttt.awemeshowarea
-Version: 1.0.0-1
+Version: 1.0.1-2
 Architecture: iphoneos-arm64
 Maintainer: lly·sttt
-Installed-Size: 380
+Installed-Size: 780
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/cn.lly.sttt.awemeshowarea_1.0.0-1_iphoneos-arm64.deb
-Size: 48754
-MD5sum: d61387cb3d3d3bdc015e1b608701de8d
-SHA1: f45652c4c56e6501233f8d33b6464a4973e1c5ed
-SHA256: 6a929da6a16d90a3c53d3d95430107922e024bab2b6f59750ccbcbb2d7a0356c
+Filename: ./debs/rootless/cn.lly.sttt.awemeshowarea_1.0.1-2_iphoneos-arm64.deb
+Size: 67056
+MD5sum: 19af5cb9b4c715dad076947b9c55819c
+SHA1: 6d6bc52b1a2e9c3f411127924dd6d7fc54f072ff
+SHA256: af02a727738536dd0a49c6a92f34de3d9851baf6b64a389d472e4e8266982ada
 Section: Tweaks
 Description: Display publishing region
 Author: lly·sttt
