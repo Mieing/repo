@@ -158,23 +158,6 @@ Author: ST
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 一包小薯条
 
-Package: com.stt.picsewcrack
-Version: 0.0.2
-Architecture: iphoneos-arm
-Maintainer: sttt
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.stt.picsewcrack_0.0.2_iphoneos-arm.deb
-Size: 3864
-MD5sum: ae2359ac5774eafd367b16fc311c881c
-SHA1: 0892322dfd79111bb904048fdfa28d9e74b9bebd
-SHA256: 0aeaa29392c0a7931b3367fdd13c6d887fc9e7f4d6f3cce767378ce6aa5fff94
-Section: Tweaks
-Description: Picsew Crack supports version 3.8.6+
-Author: sttt
-Icon: https://Mieing.Github.io/repo/file/picsew.png
-Name: Picsew Crack
-
 Package: com.stt.wechat
 Version: 0.0.2
 Architecture: iphoneos-arm
@@ -559,23 +542,6 @@ Description: Mieing Helper
 Author: ST
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 一包小薯条
-
-Package: com.stt.picsewcrack
-Version: 0.0.2
-Architecture: iphoneos-arm64
-Maintainer: sttt
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.stt.picsewcrack_0.0.2_iphoneos-arm64.deb
-Size: 3956
-MD5sum: 2e3c4ba2c211d157459a32e5b08179bd
-SHA1: f2a057ab9ea03baa167b05ab6493bd29dd332491
-SHA256: 6b4bd33183ea72c6a62d9a1fc143ca9b040d8a833db723408503796dc4f48b7a
-Section: Tweaks
-Description: Picsew Crack supports version 3.8.6+
-Author: sttt
-Icon: https://Mieing.Github.io/repo/file/picsew.png
-Name: Picsew Crack
 
 Package: com.stt.wechat
 Version: 0.0.2
