@@ -75,16 +75,16 @@ Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: AwemeShowArea
 
 Package: cn.sttt.kwaihookui
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm
 Maintainer: sttt
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/cn.sttt.kwaihookui_1.0.3_iphoneos-arm.deb
-Size: 3406
-MD5sum: 6426ae38fa9972e09f099797736405d8
-SHA1: 7f012739d9a2fbdd02905acf04c0855d40550449
-SHA256: 9297004176fef51405fdbbc8ab67a559466c4b8ad09775cb099340da5e14f728
+Filename: ./debs/rootfull/cn.sttt.kwaihookui_1.0.4_iphoneos-arm.deb
+Size: 3450
+MD5sum: 773634c4df0b2066d138d14b2c9e4aa6
+SHA1: 866568822812a225a23f6747c0edbc24396f46fa
+SHA256: eef168c8e3921cc32df3448c3713c3718793df29e03b51e0e8b739bf1e539c14
 Section: Tweaks
 Description: KwaiHookUi
 Author: sttt
@@ -477,16 +477,16 @@ Icon: https://Mieing.Github.io/repo/file/iyzico.png
 Name: iyzico
 
 Package: cn.sttt.kwaihookui
-Version: 1.0.3
+Version: 1.0.4
 Architecture: iphoneos-arm64
 Maintainer: sttt
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/cn.sttt.kwaihookui_1.0.3_iphoneos-arm64.deb
-Size: 3496
-MD5sum: 96c5b0eb6df51f7f5af8a4081daa28ba
-SHA1: aa13314d0ece7f26c7a2e7b0e5a94150417975ed
-SHA256: 4eed869fdd36069ebd9e893ca36f24a6ba43a5e44f8c36c09e644b9bd7bc15e6
+Filename: ./debs/rootless/cn.sttt.kwaihookui_1.0.4_iphoneos-arm64.deb
+Size: 3542
+MD5sum: ab2b7bc4e07a3a9c14828056378f7a4d
+SHA1: 22acf37e0062323dbb21a4423bdf23759d5881f0
+SHA256: 1dea9050d02af2e9ec77087ba354e84dbbaa42e475a670189764653e2f35a8ea
 Section: Tweaks
 Description: KwaiHookUi
 Author: sttt
