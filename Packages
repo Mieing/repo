@@ -191,6 +191,23 @@ Tag: role::hacker
 Author: sttt
 Name: IP
 
+Package: com.sttt.kwaidisplaypublishtime
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: sttt
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.sttt.kwaidisplaypublishtime_1.0.0_iphoneos-arm.deb
+Size: 2118
+MD5sum: 227cb81ba52c4c95e53ba975fadb70dc
+SHA1: b5cd8d39c08251a1a1b9df4a5b5647da19a6ff3a
+SHA256: cd4e9ae82e2b9ef3e4ee354a7d20154db2c50cdd0fc8c3550adf7ef983bae841
+Section: Tweaks
+Description: KwaiDisplayPublishTime
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/kuaishou.png
+Name: KwaiDisplayPublishTime
+
 Package: com.sttt.modifyiipa
 Version: 0.0.1-11+debug
 Architecture: iphoneos-arm
@@ -575,6 +592,23 @@ Description: An awesome tool of some sort!!
 Tag: role::hacker
 Author: sttt
 Name: IP
+
+Package: com.sttt.kwaidisplaypublishtime
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.sttt.kwaidisplaypublishtime_1.0.0_iphoneos-arm64.deb
+Size: 2206
+MD5sum: f1e3bc6ae3d3f10ed64fe8d94a9160ec
+SHA1: e47d27077610401db02a2e018f3b4abe50513a43
+SHA256: 152562bdc07911fcf6e0429458189803129f0c078cf24842114ed3577bf2bf4b
+Section: Tweaks
+Description: KwaiDisplayPublishTime
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/kuaishou.png
+Name: KwaiDisplayPublishTime
 
 Package: com.sttt.modifyiipa
 Version: 0.0.1-10+debug
