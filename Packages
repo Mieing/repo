@@ -194,6 +194,23 @@ Author: sttt
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: wechat
 
+Package: com.sttt.easybikenoads
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: sttt
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.sttt.easybikenoads_1.0.0_iphoneos-arm.deb
+Size: 2124
+MD5sum: 051a6d04a52ef75854602ab01dba0b91
+SHA1: c498d0def8d0d30c9a901c4ffb280c76891dea59
+SHA256: 575e5e58215011fcee8a3014409e6a50e891e06b61b41e221645e26e22f795a5
+Section: Tweaks
+Description: EasyBikeNoAds 6.82.6test
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/haluo.png
+Name: EasyBikeNoAds
+
 Package: com.sttt.ip
 Version: 0.0.1-5+debug
 Architecture: iphoneos-arm
@@ -597,6 +614,23 @@ Description: Make your WeChat call unable to hang up!
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: wechat
+
+Package: com.sttt.easybikenoads
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: sttt
+Installed-Size: 72
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.sttt.easybikenoads_1.0.0_iphoneos-arm64.deb
+Size: 2208
+MD5sum: 293b1ed0e735b8bee713096d3f975780
+SHA1: 0c15d2ece6a299d341eba4cc307a4c0a7b46c8c0
+SHA256: a6952b7d16c0e2981cbb832591eb6307f029d7d3dbf551c8b81438549eb08ea6
+Section: Tweaks
+Description: EasyBikeNoAds 6.82.6test
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/haluo.png
+Name: EasyBikeNoAds
 
 Package: com.sttt.ip
 Version: 0.0.1-4+debug
