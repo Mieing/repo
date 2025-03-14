@@ -148,15 +148,16 @@ Maintainer: huami
 Installed-Size: 432
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/rootfull/com.huami.dyyy_2.0-11_iphoneos-arm.deb
-Size: 60498
-MD5sum: 105c77505fc7e4cc92f7687c367c65ee
-SHA1: 38d23c27b9f851b55c4ddd77d8b9c6d35933c218
-SHA256: c2287570afb19f7326868bb6942ca1e1c9d84a43a0734d9ed610b3080acd5267
+Size: 60146
+MD5sum: d4af8cdf47d002652a9a7d9484dafc36
+SHA1: f43ccb33bb6258ce5efc6cfb3c3574c6b7148912
+SHA256: 28117eb70acd02fc9a45dea5506853963009142955bd6cb0fae4ab22e09ef00d
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
 Package: com.st.wxhook
@@ -551,15 +552,16 @@ Maintainer: huami
 Installed-Size: 432
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/rootless/com.huami.dyyy_2.0-11_iphoneos-arm64.deb
-Size: 61496
-MD5sum: 8f45bbfce2b07407f3d56e6c9e26db6b
-SHA1: d4a311bf54f311040ee7815498b7d38365164de9
-SHA256: 7b965a6fcef14bb0696f80baef1a0f7c54a43c51176de96b64a2e5ec2421ca1f
+Size: 60534
+MD5sum: 4b2c25e489134d5742b89808da84f527
+SHA1: 289d2257c11ecb4a998ae5da9306cb869dd8667a
+SHA256: 482ef81d441f4c1180b16f0df8d7c69646df66620c3b76b784b85aa36304cf64
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
 Package: com.st.wxhook
