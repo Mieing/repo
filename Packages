@@ -141,6 +141,24 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
+Package: com.huami.dyyy
+Version: 2.0-11
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.huami.dyyy_2.0-11_iphoneos-arm.deb
+Size: 60498
+MD5sum: 105c77505fc7e4cc92f7687c367c65ee
+SHA1: 38d23c27b9f851b55c4ddd77d8b9c6d35933c218
+SHA256: c2287570afb19f7326868bb6942ca1e1c9d84a43a0734d9ed610b3080acd5267
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
 Package: com.st.wxhook
 Version: 5.2.0
 Architecture: iphoneos-arm
@@ -242,23 +260,6 @@ Description: NetEase Mail Master No Ads
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/neteasemail.png
 Name: 网易邮箱大师 NoAds
-
-Package: com.sttt.qqmail
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: sttt
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.sttt.qqmail_0.0.1_iphoneos-arm.deb
-Size: 3850
-MD5sum: 487a299117219ec889589451b41a35bc
-SHA1: 0957f959fcf52576ab721d02c2417947e7ebbe00
-SHA256: 837cd778abec8b3b4a48afda5535be341dc576479f36ec1ff14f72d679ca9b3c
-Section: NoAds
-Description: QQmail NoAds
-Author: sttt
-Icon: https://Mieing.Github.io/repo/file/qq.png
-Name: QQ邮箱 NoAds
 
 Package: com.sttt.stormsniffercrack
 Version: 0.0.1-4+debug
@@ -543,6 +544,24 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
+Package: com.huami.dyyy
+Version: 2.0-11
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 432
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootless/com.huami.dyyy_2.0-11_iphoneos-arm64.deb
+Size: 61496
+MD5sum: 8f45bbfce2b07407f3d56e6c9e26db6b
+SHA1: d4a311bf54f311040ee7815498b7d38365164de9
+SHA256: 7b965a6fcef14bb0696f80baef1a0f7c54a43c51176de96b64a2e5ec2421ca1f
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Name: DYYY
+
 Package: com.st.wxhook
 Version: 5.2.0
 Architecture: iphoneos-arm64
@@ -644,23 +663,6 @@ Description: NetEase Mail Master No Ads
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/neteasemail.png
 Name: 网易邮箱大师 NoAds
-
-Package: com.sttt.qqmail
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: sttt
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.sttt.qqmail_0.0.1_iphoneos-arm64.deb
-Size: 3952
-MD5sum: 13c8faebdbef01a25181a8727c1b2868
-SHA1: c933c8832342123f3577ee64ab15082abc2dcdcb
-SHA256: a31127cced40d34491c123a37eb09f8ba8f8fa74e19b6168836051c7be4fb31f
-Section: NoAds
-Description: QQmail NoAds
-Author: sttt
-Icon: https://Mieing.Github.io/repo/file/qq.png
-Name: QQ邮箱 NoAds
 
 Package: com.sttt.stormsniffercrack
 Version: 0.0.1-3+debug
