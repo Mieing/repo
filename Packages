@@ -141,6 +141,25 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
+Package: com.huami-fries.dyyy
+Version: 2.0-13
+Architecture: iphoneos-arm
+Maintainer: huami
+Installed-Size: 464
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.huami-fries.dyyy_2.0-13_iphoneos-arm.deb
+Size: 71036
+MD5sum: 174086e2f92e83ac075f4959b7ab64c1
+SHA1: 793cd3e59fbc6e8045587ebc6a398055c18fdaea
+SHA256: a29e19e2c8cbad94da875ab129b365f138b353bd9aaa6c1fd0f049de06007cf4
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
+
 Package: com.huami.dyyy
 Version: 2.0-11
 Architecture: iphoneos-arm
@@ -369,11 +388,11 @@ Architecture: iphoneos-arm
 Maintainer: BigBoss <bigboss@thebigboss.org>
 Installed-Size: 17123
 Depends: firmware (>= 12.0), mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/netskao.wechatpurification_4.2-7_iphoneos-arm.deb
-Size: 6271784
-MD5sum: fe588c42ff308302702ca819a0d3d7d9
-SHA1: 4e133cf2bffd542fbdc1352b9773b947d307f726
-SHA256: 02467ffb76dee56ab2a19dd8077b026234ed7a83f00afd21094b3712cee1d9e0
+Filename: ./debs/rootfull/netskao_wechatpurification_4_2_7_arm.deb
+Size: 6281502
+MD5sum: d45947a01d4b994f36413c06e2592092
+SHA1: 3cd6d2e443d962af71a8b056fdf5a60b26e0ad24
+SHA256: ed323ab06235d1e733ab89c35e8abc7d0b8c63802099303b58acc09b18d0e941
 Section: Tweaks
 Homepage: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
@@ -381,7 +400,6 @@ Tag: purpose::extension
 Author: Netskao <admin@initnil.com>
 Depiction: http://moreinfo.thebigboss.org/moreinfo/depiction.php?file=wechatpurificationDp
 Dev: netskao
-Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 微信净化
 Sponsor: thebigboss.org <http://thebigboss.org>
 
@@ -561,6 +579,25 @@ Description: Round CC modules replication, like in iOS 18
 Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
+
+Package: com.huami-fries.dyyy
+Version: 2.0-13
+Architecture: iphoneos-arm64
+Maintainer: huami
+Installed-Size: 464
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootless/com.huami-fries.dyyy_2.0-13_iphoneos-arm64.deb
+Size: 70946
+MD5sum: 660b714be46eaa7ad4c762ee9da58bc8
+SHA1: 4bbc012fda6fc316b7bc6a7bb82f08f579046364
+SHA256: 94f8a60a4dc45fe3c1da075731ce7a5f1d8965ced26ade2c1c58714c804aa2a8
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
+Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: DYYY
 
 Package: com.huami.dyyy
 Version: 2.0-11
@@ -824,15 +861,14 @@ Architecture: iphoneos-arm64
 Maintainer: Nets
 Installed-Size: 16676
 Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/rootless/netskao.wechatpurification_4.2-6-END_iphoneos-arm64.deb
-Size: 6276940
-MD5sum: d0a2dd5b9de19b3a7ec04b139def40c7
-SHA1: cca46dbe8ada2548a42cd9f447dcccfff2ddb1fd
-SHA256: 93b68ccfc4abce3d0a279ecc979b2eb2e3f1094a1576548bfcb021c9bea7463d
-Section: Tweaks
+Filename: ./debs/rootless/netskao_wechatpurification_4_2_7_arm64.deb
+Size: 6279272
+MD5sum: 1927dcfdb775c7edc5fe4f44b93a0460
+SHA1: 9d2e44bee6ebf656c63e82293a66bffb9976b92e
+SHA256: e43677876483db289ed57d486ab963b728922a67d03f5a06e57f0fcd6b26c324
+Section: Netskao-Tweaks
 Description: 微信净化，还原聊天本质，干净的微信给你，仅支持8.0.29及以上版本，设置位于微信-设置
 Author: Netskao
-Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: 微信净化END
 
 Package: re.frida.server.sttt
