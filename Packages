@@ -142,16 +142,16 @@ Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
 Package: com.huami-fries.dyyy
-Version: 2.0-13
+Version: 2.1
 Architecture: iphoneos-arm
 Maintainer: huami
 Installed-Size: 464
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.huami-fries.dyyy_2.0-13_iphoneos-arm.deb
-Size: 71036
-MD5sum: 174086e2f92e83ac075f4959b7ab64c1
-SHA1: 793cd3e59fbc6e8045587ebc6a398055c18fdaea
-SHA256: a29e19e2c8cbad94da875ab129b365f138b353bd9aaa6c1fd0f049de06007cf4
+Filename: ./debs/rootfull/com.huami-fries.dyyy_2.1_iphoneos-arm.deb
+Size: 76026
+MD5sum: bd0c7ccb273706c2bbf10cc60583e822
+SHA1: f6a1541d6f072520a5c129a381a84ae0a03f4990
+SHA256: 21a16d404e3c555762292b0edeed0d76b8a0f866d66ad3e0765b4452d8ff91b6
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -581,16 +581,16 @@ Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
 Package: com.huami-fries.dyyy
-Version: 2.0-13
+Version: 2.1
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 464
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootless/com.huami-fries.dyyy_2.0-13_iphoneos-arm64.deb
-Size: 70946
-MD5sum: 660b714be46eaa7ad4c762ee9da58bc8
-SHA1: 4bbc012fda6fc316b7bc6a7bb82f08f579046364
-SHA256: 94f8a60a4dc45fe3c1da075731ce7a5f1d8965ced26ade2c1c58714c804aa2a8
+Filename: ./debs/rootless/com.huami-fries.dyyy_2.1_iphoneos-arm64.deb
+Size: 75710
+MD5sum: 67d60071651ea697c3ffdc4bc6389380
+SHA1: 5fa78eb72ed302a2196106bee151e3b605267d12
+SHA256: f4f15d05fb1b28ba2f932e85b8170982268c5dbd39882cc3b85d393d083548e4
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
