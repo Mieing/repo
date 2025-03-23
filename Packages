@@ -332,6 +332,23 @@ Author: sttt
 Icon: https://Mieing.Github.io/repo/file/tangdou.png
 Name: 糖豆 Unlockvip
 
+Package: com.sttt.wchideid
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/rootfull/com.sttt.wchideid_1.0.0_iphoneos-arm.deb
+Size: 2186
+MD5sum: 695a2b4f522a09f0348f673d409dc4b3
+SHA1: f6cf8fecbccfd27af9d5b59bb06faef9ca386a9b
+SHA256: a106a7879ad01f5621275d2795b529b50af45efdb9f2f8e4043ed2aed47b5147
+Section: Tweaks
+Description: WCHideID
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: WCHideID
+
 Package: com.vita.awemespeedx
 Version: 0.1-1-4
 Architecture: iphoneos-arm
@@ -788,6 +805,23 @@ Description: sttt
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/tangdou.png
 Name: 糖豆 Unlockvip
+
+Package: com.sttt.wchideid
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 72
+Depends: mobilesubstrate
+Filename: ./debs/rootless/com.sttt.wchideid_1.0.0_iphoneos-arm64.deb
+Size: 2270
+MD5sum: db3f74ac85a1405dfe37d9863865d5b7
+SHA1: e5a0a9325845f5e52594f57d970532ca04222a7a
+SHA256: 4b14165fe5019fbf007944dd4c6d8b9bf7a5dd958fb8b833c68478ad9fda17b1
+Section: Tweaks
+Description: WCHideID
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/wechat.png
+Name: WCHideID
 
 Package: com.sttt.wchooktext
 Version: 1.0.0
