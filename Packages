@@ -142,16 +142,16 @@ Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
 Package: com.huami-fries.dyyy
-Version: 2.1-6
+Version: 2.1-8
 Architecture: iphoneos-arm
 Maintainer: huami
 Installed-Size: 496
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.huami-fries.dyyy_2.1-6_iphoneos-arm.deb
-Size: 78608
-MD5sum: 3e41f4a2f23b9dac6f841d11a0e46ccc
-SHA1: fda8e658d88859da619c23ec290569ade1f5925e
-SHA256: 5b702c67ef47c06fd84da81e2eec3c6a727e2d9d9414655487dd3984f3031713
+Filename: ./debs/rootfull/com.huami-fries.dyyy_2.1-8_iphoneos-arm.deb
+Size: 78558
+MD5sum: 5322204feade17119206ab8ed1b67d53
+SHA1: 4ceaaa38c95530fcf4deef6ce411e109c6ee0dca
+SHA256: a600b36df79a8b6e23f74e499d420b4112f978158f15ed1f9be93d9ba094d4b5
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -599,16 +599,16 @@ Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
 Package: com.huami-fries.dyyy
-Version: 2.1-6
+Version: 2.1-8
 Architecture: iphoneos-arm64
 Maintainer: huami
 Installed-Size: 496
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootless/com.huami-fries.dyyy_2.1-6_iphoneos-arm64.deb
-Size: 78300
-MD5sum: cf30c3562af6ed130d6938cdc9aece9b
-SHA1: 322662150980ceb9483b704d7ed22c3339c79d21
-SHA256: 957c460c77bdb1b48e6a44e7b52cfaa619cd8a26d49a25fa02f6457a71f5ead4
+Filename: ./debs/rootless/com.huami-fries.dyyy_2.1-8_iphoneos-arm64.deb
+Size: 78762
+MD5sum: f0275956eeb6c1d9da872cf16aa9d614
+SHA1: 2cce45ada8f3eb932852f517268a44472e665d28
+SHA256: 4c4741d9ad89901d90a706c0a39825ddb28ae050dee4da0b3aab95a46b0f7eb9
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -919,6 +919,215 @@ MD5sum: 305c4304a6e83f5914c9a473c8a0035b
 SHA1: ef1f17b51e8462dfd93f7c8ebab630ebb0501b03
 SHA256: b636c36a2567bb368574f71329344b14ea1b22bcf65392f95fdfbcafa8e1f89f
 Section: Development
+Priority: optional
+Homepage: https://frida.re/
+Description: 在A15 iOS16测试可用上传备份！
+Author: Frida Developers <oleavr@nowsecure.com>
+Icon: https://Mieing.Github.io/repo/file/frida.png
+Name: Frida
+
+Package: cn.lly.sttt.awemeshowarea
+Version: 1.0.1-4
+Architecture: iphoneos-arm64e
+Maintainer: lly·sttt
+Installed-Size: 780
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/cn.lly.sttt.awemeshowarea_1.0.1-2_iphoneos-arm64e.deb
+Size: 60442
+MD5sum: 663cf411bb46443334b3e54decb182d8
+SHA1: 0dd3ce18db92a2c3470cdd1ae81515d8385c1750
+SHA256: 58b3880627def7283b20483fc7b0f587dbfc7fc255852650ac71adbcc699f043
+Section: RootHide
+Description: Display publishing region
+Author: lly·sttt
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: AwemeShowArea
+
+Package: cn.sttt.iyzico
+Version: 1.0.0
+Architecture: iphoneos-arm64e
+Maintainer: sttt
+Installed-Size: 280
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/cn.sttt.iyzico_1.0.0_iphoneos-arm64e.deb
+Size: 3972
+MD5sum: 7ef7b12125510febb793b04c85b7639d
+SHA1: 39908aa47971dadd8898c7d4e1a37dea32920353
+SHA256: b05a73213894ba24ec84c4e52aa80544c906cf3049b4b985b44a716c4cd87c9d
+Section: RootHide
+Description: iyzico
+Author: sttt
+Icon: https://Mieing.Github.io/repo/file/iyzico.png
+Name: iyzico
+
+Package: com.25mao.jdquan.rootless
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: admin@25mao.com
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0)
+Filename: ./debs/iphoneos-arm64e/com.25mao.jdquan.rootless_1.0-1_iphoneos-arm64e.deb
+Size: 72836
+MD5sum: f524763a58cc22d92cbac268650bc20e
+SHA1: 0eb917f006d2d1e9dcfc558fa6524bc1808cc7bc
+SHA256: 70eab1bc2aea67f433ef3e5da01cf62cf1db146bef40da31637debcea08f4958
+Section: RootHide
+Priority: optional
+Description: 京东优惠券
+Author: Mao
+Name: 京东优惠券-Rootless
+Sponsor: admin@25mao.com
+
+Package: com.BeanbunsHelpers.DB
+Version: 1.0-1
+Architecture: iphoneos-arm64e
+Maintainer: Beanbuns
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.beanbunshelpers.db_1.0-1_iphoneos-arm64e.deb
+Size: 660482
+MD5sum: 7086f8e00d522611e2b21bd77bad229e
+SHA1: 5e3d6aea8b9842262a99a2acb208d5bfa9c35fc2
+SHA256: aec920f7f68e70b774dc79d7630e5c4599ac7d6f2ec50829db7c031c92904769
+Section: RootHide
+Description: 豆包助手(DouYin)抖音项目（仅供逆向学习），给自己的小抖音添加一些小功能
+Author: Beanbuns
+Name: 豆包助手-Rootless
+
+Package: com.dvntm.cc18
+Version: 0.0.2
+Architecture: iphoneos-arm64e
+Maintainer: dvntm
+Installed-Size: 152
+Depends: mobilesubstrate (>= 0.9.5000), firmware (<= 18.0)
+Filename: ./debs/iphoneos-arm64e/com.dvntm.cc18_0.0.2_iphoneos-arm64e.deb
+Size: 4456
+MD5sum: 14a676182b1796ef902c1515e32b571d
+SHA1: ab8578f0decbd1b159eb274476cec435350b5f71
+SHA256: e80ccb833aa6cda755e68658e0c2c943991ff7d6e4e19cd4613fc27588251056
+Section: RootHide
+Description: Round CC modules replication, like in iOS 18
+Author: dvntm
+Icon: https://Mieing.Github.io/repo/file/iOS18.png
+Name: CC18
+
+Package: com.huam.wcenablecleanorigmsg
+Version: 1.0-2
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 168
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/iphoneos-arm64e/com.huam.wcenablecleanorigmsg_1.0-2_iphoneos-arm64e.deb
+Size: 4208
+MD5sum: 4b2472b71603f431fc5af9e494a355dd
+SHA1: 405bc4157924aaeaf2306c21036036b6f5aee761
+SHA256: 5344e5e277a444843d78e31168d53c58cd937f26722a49649694edb3dac60add
+Section: RootHide
+Description: 启用54版本【原图、原视频14天后自动清理】
+Author: huami
+Name: WCEnableCleanOrigMsg
+
+Package: com.huami.DYYY
+Version: 1.8.2
+Architecture: iphoneos-arm64e
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.8.2_iphoneos-arm64e.deb
+Size: 34704
+MD5sum: e4bb99e3f998cb5362168ba4480f449c
+SHA1: cf1a56a4bcf8eeb39ad1c64dd8bc8dcf3a484366
+SHA256: 8da5b281be97fee671c2ebbe5e3d256a9b54decc386ad97f6d2eb1580b036b19
+Section: RootHide
+Priority: optional
+Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.kitten.tweaktool
+Version: 2.0.0-beta
+Architecture: iphoneos-arm64e
+Maintainer: 预言小猫
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: sudo, bash (>= 5.0.3-2), coreutils (>= 8.31-1), grep (>= 3.1-1), sed (>= 4.5-1), gawk (>= 4.2.1-1), tar (>= 1.33-1)
+Filename: ./debs/iphoneos-arm64e/com.kitten.tweaktool_2.0.0-beta_iphoneos-arm64e.deb
+Size: 12954
+MD5sum: c7733c7d525440878b33a66369561aff
+SHA1: a25b0857285e6a54313049eacb5aab4f65317bd4
+SHA256: fa991a36e351e89743b9986894e5978ea193a8b64d4b540c4166146b3797b234
+Section: RootHide
+Description: 适合xina和多巴胺越狱的插件及其配置的一键备份恢复工具
+Author: 预言小猫
+Name: 一键备份和恢复工具-Rootless
+Sileodepiction: https://Ketty0725.github.io/repo/depictions/native/com.kitten.tweaktool/depiction.json
+
+Package: com.netskao.awemealwaysshowtime
+Version: 1.1-1
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 56
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: mobilesubstrate, firmware (>= 12.0)
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemealwaysshowtime_1.1-1_iphoneos-arm64e.deb
+Size: 3268
+MD5sum: d2312b992104533fe2f85105779cb70f
+SHA1: 0640dd4b52b7ea87a84dae5fff8dfce3f4b9fdd3
+SHA256: a74a390161662d0aa86aa5a2bc7076f21f85c96b3368b14d4c485ad9ebb2ab3e
+Section: RootHide
+Description: Aweme always shows the video creation time
+Author: Netskao
+Name: AwemeAlwaysShowTime
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemealwaysshowtime.json
+
+Package: com.netskao.awemedisablebar
+Version: 1.1-6
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 708
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 12.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemedisablebar_1.1-6_iphoneos-arm64e-1.deb
+Size: 390014
+MD5sum: 01fddd34d776b2c0d0400391de92b303
+SHA1: 8360a61a4cbd08f1f3f5321b0cec24dbdbb25d00
+SHA256: 69307dfc5a33c6bb9020dcee39702474031476b86553ba7e5dc8c1e68be444d9
+Section: RootHide
+Description: Aweme Disable Top/Bottom/Right Tab Button. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeDisableBar
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemedisablebar.json
+
+Package: com.netskao.awemevideotime
+Version: 1.1-2
+Architecture: iphoneos-arm64e
+Maintainer: Nets
+Installed-Size: 124
+Pre-Depends: rootless-compat(>= 0.9)
+Depends: firmware (>= 15.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.netskao.awemevideotime_1.1-2_iphoneos-arm64e.deb
+Size: 41066
+MD5sum: 1121ff4ed138b315f0b0c8d9f5955503
+SHA1: dab5925d2776958430482139bf32059843f91f59
+SHA256: 08085cfe5fe7523765922bce1da54dd607cdf6dd86cd12e2ff1fb8d66a327d3a
+Section: RootHide
+Description: Aweme Video Show Time. Tested only on version 30.3.0 and above
+Author: Netskao
+Name: AwemeVideoTime
+Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemevideotime.json
+
+Package: re.frida.server.sttt
+Version: 16.5.2
+Architecture: iphoneos-arm64e
+Maintainer: Ole André Vadla Ravnås <oleavr@nowsecure.com>
+Installed-Size: 54084
+Pre-Depends: rootless-compat(>= 0.9)
+Conflicts: re.frida.server64
+Filename: ./debs/iphoneos-arm64e/re.frida.server.sttt_16.5.2-iphoneos-arm64e.deb
+Size: 46629796
+MD5sum: 4021b500b46e546b431342d9636e3fc9
+SHA1: 080d913bd6820112bb07c5eda186f7c87c8ffc1e
+SHA256: 552b5fdd8102c90bc5bc3d3bb0344b0d8b5809ca39503980d61123ccf35554bc
+Section: RootHide
 Priority: optional
 Homepage: https://frida.re/
 Description: 在A15 iOS16测试可用上传备份！
