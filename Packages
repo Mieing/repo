@@ -214,18 +214,18 @@ Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: wechat
 
 Package: com.sttt.easybikenoads
-Version: 1.0.0
-Architecture: iphoneos-arm
+Version: 1.0.1
+Architecture: iphoneos-arm64
 Maintainer: sttt
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.sttt.easybikenoads_1.0.0_iphoneos-arm.deb
-Size: 2124
-MD5sum: 051a6d04a52ef75854602ab01dba0b91
-SHA1: c498d0def8d0d30c9a901c4ffb280c76891dea59
-SHA256: 575e5e58215011fcee8a3014409e6a50e891e06b61b41e221645e26e22f795a5
+Filename: ./debs/rootfull/com.sttt.easybikenoads_1.0.1_iphoneos-arm64.deb
+Size: 2320
+MD5sum: 39e6399adc6920364ce913559d190d08
+SHA1: ccad63b7c8bd6a4c5f4e4094e65eab5f733b87c2
+SHA256: 68f212b22c4eadd49f3fd63610027718f1cdec5085a45bbe7a152b08f40bfa0d
 Section: Tweaks
-Description: EasyBikeNoAds 6.82.6test
+Description: EasyBikeNoAds 6.84.0 test
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/haluo.png
 Name: EasyBikeNoAds
@@ -688,18 +688,18 @@ Icon: https://Mieing.Github.io/repo/file/wechat.png
 Name: wechat
 
 Package: com.sttt.easybikenoads
-Version: 1.0.0
-Architecture: iphoneos-arm64
+Version: 1.0.1
+Architecture: iphoneos-arm
 Maintainer: sttt
 Installed-Size: 72
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.sttt.easybikenoads_1.0.0_iphoneos-arm64.deb
-Size: 2208
-MD5sum: 293b1ed0e735b8bee713096d3f975780
-SHA1: 0c15d2ece6a299d341eba4cc307a4c0a7b46c8c0
-SHA256: a6952b7d16c0e2981cbb832591eb6307f029d7d3dbf551c8b81438549eb08ea6
+Filename: ./debs/rootless/com.sttt.easybikenoads_1.0.1_iphoneos-arm.deb
+Size: 2228
+MD5sum: b3f8f415aafaca5d1381b00266a9dcf3
+SHA1: 450d951a464eb166e4aba03c5a130f989ac79d88
+SHA256: 2414040bab0db0050669a2e740a24677e697d8eec320ffd6c7243a11e0e52d80
 Section: Tweaks
-Description: EasyBikeNoAds 6.82.6test
+Description: EasyBikeNoAds 6.84.0 test
 Author: sttt
 Icon: https://Mieing.Github.io/repo/file/haluo.png
 Name: EasyBikeNoAds
