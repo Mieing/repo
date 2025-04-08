@@ -615,6 +615,22 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
+Package: com.fries.colorfulwallpaperx
+Version: 4.6
+Architecture: iphoneos-arm64
+Maintainer: fries
+Depends: firmware (>= 15.0), mobilesubstrate, preferenceloader
+Filename: ./debs/rootless/com.fries.colorfulwallpaperx_4.6_iphoneos-arm64.deb
+Size: 1235040
+MD5sum: eb439981e9bfef87dfc2350f1c9f57bf
+SHA1: 1dc186cccde3f13e0d76e5384aecccf02791a3c9
+SHA256: cf0b79a5fad55de533988b3435d107488003259f206152356d13d8318f96dccb
+Section: Tweaks
+Description: Dynamic wallpaper with colorful effects.
+Author: Lessica
+Icon: https://Mieing.Github.io/repo/file/colorfulwallpaperx.png
+Name: ColorfulWallpaperX
+
 Package: com.huami-fries.dyyy
 Version: 2.1-8
 Architecture: iphoneos-arm64
