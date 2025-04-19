@@ -141,6 +141,23 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
+Package: com.fries.mtuannoads
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.mtuannoads_1.0.0-1+debug_iphoneos-arm.deb
+Size: 3990
+MD5sum: d00fad623e95300cb2b1e8fc22c1d013
+SHA1: 21fd6c66516b908d4f4179fae2e565a50f612d9a
+SHA256: b690ea30c2c7da4f1953d7ce53fc892fc2897e197b1c798de5727c70ea60f7f7
+Section: Tweaks
+Description: MeiTuanNoAds
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/meituan.png
+Name: MTuanNoAds
+
 Package: com.huami-fries.dyyy
 Version: 2.1-8
 Architecture: iphoneos-arm
@@ -630,6 +647,23 @@ Description: Dynamic wallpaper with colorful effects.
 Author: Lessica
 Icon: https://Mieing.Github.io/repo/file/colorfulwallpaperx.png
 Name: ColorfulWallpaperX
+
+Package: com.fries.mtuannoads
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 172
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.mtuannoads_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 4074
+MD5sum: 255783b9f498707c82caa9240a2ef08c
+SHA1: 988c6ef6267ed8830e60db7cccc65d5b66cde8ce
+SHA256: 5ee974d3f866a8d12175d1b9d48ad648610c6f0e105c72137c6f3a1b80ec21c2
+Section: Tweaks
+Description: MeiTuanNoAds
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/meituan.png
+Name: MTuanNoAds
 
 Package: com.huami-fries.dyyy
 Version: 2.1-8
