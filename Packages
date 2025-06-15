@@ -121,20 +121,36 @@ Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
 Package: com.fries.djduoduohook
-Version: 1.0.0-1+debug
+Version: 1.0.0-6+debug
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.fries.djduoduohook_1.0.0-1+debug_iphoneos-arm.deb
-Size: 3276
-MD5sum: e38f071b4dbe65fd8723fedaea8631c3
-SHA1: 2eeb18f534591cda8014e259e83150e2cfed2583
-SHA256: 95b48a2f15fb123945d233efc4e63b4bcadf857569cdf5bf996cfa9a8a0f0759
-Section: Tweaks
+Filename: ./debs/rootfull/com.fries.djduoduohook_1.0.0-6+debug_iphoneos-arm.deb
+Size: 3282
+MD5sum: ebe5296b1bf58eff0e7640441391ed02
+SHA1: 98f9a4143a9e8c05ed052497199dbd8e13ca229f
+SHA256: 1d2e4c424f042877a8a40ae878366a4a68fff155b1301d270bcdeaa51b5e636b
+Section: Crack
 Description: DJDuoDuoHook
 Author: fries
-Name: DJDuoDuoHook
+Name: DJDuoDuo Crack
+
+Package: com.fries.dmhook
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.dmhook_1.0.0-2+debug_iphoneos-arm.deb
+Size: 3628
+MD5sum: 7944d50c532aa09eb60bdaa90aeead20
+SHA1: f454bda541bccfa175e49fffaae5a7ab7feca674
+SHA256: 0b22cd8e72a8fa2bf89656bf2a31364dfa208bb7f6bf31a9212bb2d7a3c3f582
+Section: Crack
+Description: An awesome MobileSubstrate tweak!
+Author: fries
+Name: DaysMatter Crack
 
 Package: com.fries.hftqhook
 Version: 1.0.0
@@ -143,14 +159,14 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.hftqhook_1.0.0_iphoneos-arm.deb
-Size: 2772
-MD5sum: 76c455cd9c600b6ab7124745827e2a6a
-SHA1: 1c3fa8e419211e573ca2a8442698211ddbd822a8
-SHA256: 824ad420735754cfc187d7ae283580ca906292c7bd9e10710333e671414002d2
-Section: Tweaks
+Size: 2786
+MD5sum: 09b1f6b3c263bc4a556b5eee39d3c819
+SHA1: 2245b000af7e70752149563697c62f3d27b870d7
+SHA256: e3a06be19d5218748339b428f722a121fbefb1a831ed424b335c2b5f6a3f359e
+Section: Crack
 Description: HFTQPRO
 Author: fries
-Name: HFTQPRO
+Name: HFTQ Crack
 
 Package: com.fries.icityhook
 Version: 1.0.0
@@ -159,14 +175,14 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.icityhook_1.0.0_iphoneos-arm.deb
-Size: 4180
-MD5sum: 8521d1adb1d49d71daf3737a18beff32
-SHA1: ad97a3c6906400fe88c3ae07668273a88fea314e
-SHA256: 03bdad9fae83272c73fd6c6b4f011637c0d10d6ff3d987165b35f616af780aec
-Section: Tweaks
+Size: 4190
+MD5sum: cac053ddf3734b184a11765dabb5eb74
+SHA1: 815e973df032b56b384ec1641b425eee6cca5578
+SHA256: c6cb1a542fbff631a6f5197dac59ef1a5dab1081d3eb95c8439d4fc8d0229894
+Section: Crack
 Description: 仅学习交流使用,24小时之内删除,不然要你好看的!
 Author: fries
-Name: iCityHook
+Name: iCity Crack
 
 Package: com.fries.loficamcrack
 Version: 1.0.0
@@ -176,13 +192,29 @@ Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.loficamcrack_1.0.0_iphoneos-arm.deb
 Size: 2664
-MD5sum: da652af08e30367330652564545f7cde
-SHA1: f506f5c043d0e6a0408a6bed8c92400b49e555b3
-SHA256: 564f7ec161a0efe99c51e3312f4169945ae5d40ec1b652974836a5084212b27a
+MD5sum: eaada120b909e6b3c4db5bec7f39b543
+SHA1: 41cbe2da837051e4dd846312cf2f5dd1ff9305af
+SHA256: 97bbc88acda971cec9d1c49f712a0e91b36129350808a02109226fe55b58f99f
 Section: Crack
 Description: An awesome MobileSubstrate tweak!
 Author: fries
-Name: LoFiCamCrack
+Name: LoFiCam Crack
+
+Package: com.fries.mojipro
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.mojipro_1.0.0-2+debug_iphoneos-arm.deb
+Size: 3308
+MD5sum: c534d1ee1688ccd6f944687f79bd25d2
+SHA1: 7e88d7bea0764b3cabde0a660cbd721963881ae8
+SHA256: feab29a9debb227c2a322c737eb9d88ae20d76dc7fc779160bf8dbf4dc03972c
+Section: Crack
+Description: An awesome MobileSubstrate tweak!
+Author: fries
+Name: moji Crack
 
 Package: com.fries.mtuannoads
 Version: 1.0.0-1+debug
@@ -208,14 +240,14 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.oldrollcrack_1.0.0_iphoneos-arm.deb
-Size: 2852
-MD5sum: 55ccb345ec5db29d7095df6935646a9e
-SHA1: 109b53fcea02fcf39f5f06b67838be0ac98207d6
-SHA256: fe01731d902db345e98bb67dd4dd07fcffeaefc88cd64b49b3f8147418b1bdef
+Size: 2854
+MD5sum: 69f7b23eef70d3330a4b03928c278098
+SHA1: 465c3f75a9c6b8620ff029e244f6e6d6ee695121
+SHA256: 2a1490e0de98d665c807b801996cbb2a5cc4cabe176cacf0f3d10fbb3863e502
 Section: Crack
 Description: OldRollCrack
 Author: fries
-Name: OldRollCrack
+Name: OldRoll Crack
 
 Package: com.fries.promoviecrack
 Version: 1.0.0
@@ -224,14 +256,14 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.promoviecrack_1.0.0_iphoneos-arm.deb
-Size: 3020
-MD5sum: 305d52bb7c3dbe2e0902e8990e48549f
-SHA1: 2b08452943f36cb87cbc9e97491fc69e57f97a12
-SHA256: fe0849886f49f5b5a01c1078fdbd129f578b9a5a510d992a736d3461074b2633
-Section: Tweaks
+Size: 3018
+MD5sum: 75ff3375f4d4bc3e650aa9e5914198aa
+SHA1: 2461aade9d04f93260998525a5ae34ec48eaf573
+SHA256: 48c5f0aeba11ce8bda4c811c59ea2a57c4ab1f39e7c5e51835cc582692540832
+Section: Crack
 Description: 24小时内删除插件！！！！！！！！！！！！！！
 Author: fries
-Name: ProMovieCrack
+Name: ProMovie Crack
 
 Package: com.huami-fries.dyyy
 Version: 2.1-8
@@ -631,20 +663,36 @@ Icon: https://Mieing.Github.io/repo/file/colorfulwallpaperx.png
 Name: ColorfulWallpaperX
 
 Package: com.fries.djduoduohook
-Version: 1.0.0-2+debug
+Version: 1.0.0-5+debug
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.fries.djduoduohook_1.0.0-2+debug_iphoneos-arm64.deb
-Size: 3364
-MD5sum: 35438cdad11e9fdcb9070c7974014d65
-SHA1: f337a838fc8622a222a3d3ceaea97adf72582505
-SHA256: c7984347ce498866e10f8b4ae17321710bd2ca24e49495c67b2a52eda03e2913
-Section: Tweaks
+Filename: ./debs/rootless/com.fries.djduoduohook_1.0.0-5+debug_iphoneos-arm64.deb
+Size: 3360
+MD5sum: f67967dc472a9a8319b21711e64d4a2b
+SHA1: 9d2be8c3c0d1d5c9efecdb3448eede5dcf22d138
+SHA256: 36ffd80781d0e5fd45c4a1bd37c5365c37a6876e95352bd59f1e30112091c6cf
+Section: Crack
 Description: DJDuoDuoHook
 Author: fries
-Name: DJDuoDuoHook
+Name: DJDuoDuo Crack
+
+Package: com.fries.dmhook
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.dmhook_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 3708
+MD5sum: d12d18be2c596aae812b3a94c12d8b2b
+SHA1: 8505ea5fcd3006fa54fa9fc8588ab44387e2edf1
+SHA256: b7cdbe6da63e2a0aab0f8bd791e41cb85faca6c0ab692d3f94874b3276e97b01
+Section: Crack
+Description: An awesome MobileSubstrate tweak!
+Author: fries
+Name: DaysMatter Crack
 
 Package: com.fries.hftqhook
 Version: 1.0.0
@@ -653,14 +701,14 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.hftqhook_1.0.0_iphoneos-arm64.deb
-Size: 2864
-MD5sum: 0c28f814735590e42688161a1d1ac3fe
-SHA1: 2d442cc46aee2c491dbe92203e1390acf452ea97
-SHA256: 7789d7f62298c07bd13cc13dfb5d70063de7b00568f59809a2688b197719d59e
-Section: Tweaks
+Size: 2862
+MD5sum: 223c7ce599545632409d6ab66787e654
+SHA1: a89215cae7d8138748878ee557449f9536cc1904
+SHA256: a318fac24e37f4395ad4457074b70c2d42fda749f24faa3496c81aa966b0cd8d
+Section: Crack
 Description: HFTQPRO
 Author: fries
-Name: HFTQPRO
+Name: HFTQ Crack
 
 Package: com.fries.icityhook
 Version: 1.0.0
@@ -669,14 +717,14 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.icityhook_1.0.0_iphoneos-arm64.deb
-Size: 4276
-MD5sum: 7776e9ae8b0e60584b7825fa3d7417e0
-SHA1: eecc79c4a146eb0f5eb8ff6194f41dc896c35e15
-SHA256: 2b55589d3b485ade366212ec97675eb2ebf8240edfb0c59407e10d3d6f057db4
-Section: Tweaks
+Size: 4284
+MD5sum: 658be2c9b9f4f205561294f10eed7a4d
+SHA1: b088e531da4e1a50e5433589c4e2f17ad16694dd
+SHA256: afdcc836d638b09179dce3acb34f6f463cec26f98ee3f70245b714dc649961b7
+Section: Crack
 Description: 仅学习交流使用,24小时之内删除,不然要你好看的!
 Author: fries
-Name: iCityHook
+Name: iCity Crack
 
 Package: com.fries.loficamcrack
 Version: 1.0.0
@@ -685,14 +733,30 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.loficamcrack_1.0.0_iphoneos-arm64.deb
-Size: 2758
-MD5sum: fd184567e398f1cf3396d161b2e72029
-SHA1: a41910ce521fbd23ef794a8a8ce3bc55c129bd30
-SHA256: 1bc9f10fbc15c5ffd04afa8d319f64170fd323d59add66cd53ba36bc24404c6e
+Size: 2754
+MD5sum: 00fe7a8b856eb4e4b85308cbcef5e942
+SHA1: d224ff5224ae72c7f2bf8f4f160c667637a852d2
+SHA256: 745ddb463de3327b19e3d6eb53750bc5da74ca5eca377aadbcfc67cd9d5d8dfd
 Section: Crack
 Description: An awesome MobileSubstrate tweak!
 Author: fries
-Name: LoFiCamCrack
+Name: LoFiCam Crack
+
+Package: com.fries.mojipro
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.mojipro_1.0.0-1+debug_iphoneos-arm64.deb
+Size: 3392
+MD5sum: eb855654f171b6e17edf14b01cb575b3
+SHA1: e7bc593e15b86a9f5a633567d5e3710b8a9c8054
+SHA256: edca2a9ba3db0b3d4e3ca5b18baef8fbb6e1f1fc10d78c78c9aefd13b7975887
+Section: Crack
+Description: An awesome MobileSubstrate tweak!
+Author: fries
+Name: moji Crack
 
 Package: com.fries.mtuannoads
 Version: 1.0.0-1+debug
@@ -719,13 +783,13 @@ Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.oldrollcrack_1.0.0_iphoneos-arm64.deb
 Size: 2942
-MD5sum: 1c2e67e82c2a107f3e0b74d9e7877116
-SHA1: 5142bfe241f7c674cb00ce8507351e851d9771da
-SHA256: 4a8aa5d9de56575f938f24a7592326e84d44cb88c62ebc292e682009bc9971d2
+MD5sum: 0c917fbbffe3791beccc5b3752ede9ee
+SHA1: 758ab7e098470dec73581f34304f2636010c2e65
+SHA256: 72dd8f2b93d34220d4a7289396a76af8925d4401067cb7b1a85004ed6c2924ed
 Section: Crack
 Description: OldRollCrack
 Author: fries
-Name: OldRollCrack
+Name: OldRoll Crack
 
 Package: com.fries.promoviecrack
 Version: 1.0.0
@@ -734,14 +798,14 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.promoviecrack_1.0.0_iphoneos-arm64.deb
-Size: 3102
-MD5sum: fab71b16c438faa4ccbf3b8ccc73ba25
-SHA1: bf4480e2c42ea0b13a30136c3aebadfbeb0cd47c
-SHA256: 42d62fc40dd76467a1ae3f807e9420efebf7f9038498bbaf6d0515a045010ebc
-Section: Tweaks
+Size: 3096
+MD5sum: e5c7365d6ebda8aa078e0572cbfc83cf
+SHA1: 92b91660997c4e1b2cf8b178abdefe53abf1131a
+SHA256: a7448d81507b2aea6b5c17530ccbbec1721406cfdbcac24bd264a6e000048f0b
+Section: Crack
 Description: 24小时内删除插件！！！！！！！！！！！！！！
 Author: fries
-Name: ProMovieCrack
+Name: ProMovie Crack
 
 Package: com.huami-fries.dyyy
 Version: 2.1-8
