@@ -200,22 +200,6 @@ Description: An awesome MobileSubstrate tweak!
 Author: fries
 Name: LoFiCam Crack
 
-Package: com.fries.mojipro
-Version: 1.0.0-2+debug
-Architecture: iphoneos-arm
-Maintainer: fries
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.fries.mojipro_1.0.0-2+debug_iphoneos-arm.deb
-Size: 3308
-MD5sum: c534d1ee1688ccd6f944687f79bd25d2
-SHA1: 7e88d7bea0764b3cabde0a660cbd721963881ae8
-SHA256: feab29a9debb227c2a322c737eb9d88ae20d76dc7fc779160bf8dbf4dc03972c
-Section: Crack
-Description: An awesome MobileSubstrate tweak!
-Author: fries
-Name: moji Crack
-
 Package: com.fries.mtuannoads
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
@@ -285,22 +269,21 @@ Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
 Package: com.huami.dyyy
-Version: 2.0-11
+Version: 2.2-8
 Architecture: iphoneos-arm
 Maintainer: huami
-Installed-Size: 432
+Installed-Size: 2356
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.huami.dyyy_2.0-11_iphoneos-arm.deb
-Size: 60146
-MD5sum: d4af8cdf47d002652a9a7d9484dafc36
-SHA1: f43ccb33bb6258ce5efc6cfb3c3574c6b7148912
-SHA256: 28117eb70acd02fc9a45dea5506853963009142955bd6cb0fae4ab22e09ef00d
+Filename: ./debs/rootfull/com.huami.dyyy_2.2-8_iphoneos-arm.deb
+Size: 466330
+MD5sum: 2610c517e0dba11d6851a1889f72b552
+SHA1: 2be9648f6860daff27e68aca9fd126a26e190555
+SHA256: a956b8ad0353a7e8a45324c35d42a45139e5ceaabcc173ab82c1ac29a0438793
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
 Package: com.st.wxhook
@@ -742,22 +725,6 @@ Description: An awesome MobileSubstrate tweak!
 Author: fries
 Name: LoFiCam Crack
 
-Package: com.fries.mojipro
-Version: 1.0.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: fries
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.fries.mojipro_1.0.0-1+debug_iphoneos-arm64.deb
-Size: 3392
-MD5sum: eb855654f171b6e17edf14b01cb575b3
-SHA1: e7bc593e15b86a9f5a633567d5e3710b8a9c8054
-SHA256: edca2a9ba3db0b3d4e3ca5b18baef8fbb6e1f1fc10d78c78c9aefd13b7975887
-Section: Crack
-Description: An awesome MobileSubstrate tweak!
-Author: fries
-Name: moji Crack
-
 Package: com.fries.mtuannoads
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm64
@@ -827,22 +794,21 @@ Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
 Package: com.huami.dyyy
-Version: 2.0-11
+Version: 2.2-8
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 432
+Installed-Size: 2356
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootless/com.huami.dyyy_2.0-11_iphoneos-arm64.deb
-Size: 60534
-MD5sum: 4b2c25e489134d5742b89808da84f527
-SHA1: 289d2257c11ecb4a998ae5da9306cb869dd8667a
-SHA256: 482ef81d441f4c1180b16f0df8d7c69646df66620c3b76b784b85aa36304cf64
+Filename: ./debs/rootless/com.huami.dyyy_2.2-8_iphoneos-arm64.deb
+Size: 465802
+MD5sum: cc43310c01c03ff0e078d70cf575195f
+SHA1: 38ad622234b1af5da749450e21e38896f6b77f89
+SHA256: eae41e4072c551566f425ffe0405e09402ab0d8444dde01090ce3c6b78c80254
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
-Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
 Package: com.st.wxhook
@@ -1165,6 +1131,24 @@ SHA256: 8da5b281be97fee671c2ebbe5e3d256a9b54decc386ad97f6d2eb1580b036b19
 Section: RootHide
 Priority: optional
 Description: 仅供学习交流，请在24内小时内自觉删除
+Author: huami
+Name: DYYY
+
+Package: com.huami.dyyy
+Version: 2.2-8
+Architecture: iphoneos-arm64e
+Maintainer: huami
+Installed-Size: 2356
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.2-8_iphoneos-arm64e.deb
+Size: 465360
+MD5sum: 8160cecfb432b3c9de2a67ffaaf7bfea
+SHA1: 7ef915b7c6c754cbfc188f98d4e022e753f86880
+SHA256: a97a1d87c3e7784620e9795c124187fab1f83d4916fe90a697fa8943c780a5ed
+Section: RootHide
+Priority: optional
+Homepage: https://github.com/huami1314/DYYY
+Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Name: DYYY
 
