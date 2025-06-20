@@ -249,6 +249,38 @@ Description: 24小时内删除插件！！！！！！！！！！！！！！
 Author: fries
 Name: ProMovie Crack
 
+Package: com.fries.qianyuecrack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.qianyuecrack_1.0.0_iphoneos-arm.deb
+Size: 4522
+MD5sum: baed8f67b815afdc5af9198e5455d5c2
+SHA1: 87b597166af9587f63fc759d5e53deafc6e480ea
+SHA256: fe769a31b40f8821da312c7d62e3fd35bd9a2a2396ba23ee8c319734a3178fea
+Section: Crack
+Description: QianYue Crack!
+Author: fries
+Name: QianYue Crack
+
+Package: com.fries.sirenjianshenjiaoliancrack
+Version: 1.0.0-5
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.sirenjianshenjiaoliancrack_1.0.0-5_iphoneos-arm.deb
+Size: 3474
+MD5sum: 6a6b67d526781e6b087de6790bc5e857
+SHA1: 1eb72003ba9b05b59beea11464c87deb5cda2646
+SHA256: 53c12e38aa40482a1ee9119ae945b35ae658cd8e4e1ee10cd2be05a3927d1aa0
+Section: Crack
+Description: SiRenJianShenJiaoLian Crack!
+Author: fries
+Name: SiRenJianShenJiaoLian Crack
+
 Package: com.huami-fries.dyyy
 Version: 2.1-8
 Architecture: iphoneos-arm
@@ -773,6 +805,38 @@ Section: Crack
 Description: 24小时内删除插件！！！！！！！！！！！！！！
 Author: fries
 Name: ProMovie Crack
+
+Package: com.fries.qianyuecrack
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.qianyuecrack_1.0.0_iphoneos-arm64.deb
+Size: 4608
+MD5sum: 9567b3a17cebc17de2b46b6710daf4e7
+SHA1: c7cfa27c6cd75669a87a0e7ed9777ff3671800c5
+SHA256: 08191de4883847b4b4b03457b7bb05cf01e84b07f9018c7698ce1c1b599cb775
+Section: Crack
+Description: QianYue Crack!
+Author: fries
+Name: QianYue Crack
+
+Package: com.fries.sirenjianshenjiaoliancrack
+Version: 1.0.0-6
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.sirenjianshenjiaoliancrack_1.0.0-6_iphoneos-arm64.deb
+Size: 3558
+MD5sum: 65a2bba67710c2e5cd0986deda0893d7
+SHA1: 90f9db6b62dafee327c818851192aadc464cc996
+SHA256: 1123ed6cc413a2966f2824614b9e6ef82c7f4adbea999fd290e74aa6f2b38848
+Section: Crack
+Description: SiRenJianShenJiaoLian Crack!
+Author: fries
+Name: SiRenJianShenJiaoLian Crack
 
 Package: com.huami-fries.dyyy
 Version: 2.1-8
