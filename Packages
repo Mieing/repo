@@ -159,10 +159,10 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.hftqhook_1.0.0_iphoneos-arm.deb
-Size: 2786
-MD5sum: 09b1f6b3c263bc4a556b5eee39d3c819
-SHA1: 2245b000af7e70752149563697c62f3d27b870d7
-SHA256: e3a06be19d5218748339b428f722a121fbefb1a831ed424b335c2b5f6a3f359e
+Size: 2774
+MD5sum: 6ea92dae062aaf28ab73fd2f25f0f11c
+SHA1: 48eaa6d351444fa4c14eaa5c303de137e0c78e71
+SHA256: 26089861e9808de1e45d3b6957288c462fd58fd3b9be7ff18ed13fb536f3651c
 Section: Crack
 Description: HFTQPRO
 Author: fries
@@ -175,10 +175,10 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.icityhook_1.0.0_iphoneos-arm.deb
-Size: 4190
-MD5sum: cac053ddf3734b184a11765dabb5eb74
-SHA1: 815e973df032b56b384ec1641b425eee6cca5578
-SHA256: c6cb1a542fbff631a6f5197dac59ef1a5dab1081d3eb95c8439d4fc8d0229894
+Size: 4186
+MD5sum: 6b2f02b68a747d39781c8ca3b174cca8
+SHA1: 322054007dbf80d737eb0cc6ca53f0dc834ff84c
+SHA256: 8cbc90d68d4e9ff99eb4c39d035423f1230bbfaed2e55217e122b45850b0d8cc
 Section: Crack
 Description: 仅学习交流使用,24小时之内删除,不然要你好看的!
 Author: fries
@@ -191,10 +191,10 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.loficamcrack_1.0.0_iphoneos-arm.deb
-Size: 2664
-MD5sum: eaada120b909e6b3c4db5bec7f39b543
-SHA1: 41cbe2da837051e4dd846312cf2f5dd1ff9305af
-SHA256: 97bbc88acda971cec9d1c49f712a0e91b36129350808a02109226fe55b58f99f
+Size: 2662
+MD5sum: 485636d02642adeb0872cf4f7dcf11ef
+SHA1: a6b020124040bc226d370fe3f5b060ebbeb360a2
+SHA256: aba282f0f3353f5a6ea542f3d5cb5fd222bf5adb2b13397ab89fd01e18bf2856
 Section: Crack
 Description: An awesome MobileSubstrate tweak!
 Author: fries
@@ -240,10 +240,10 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.promoviecrack_1.0.0_iphoneos-arm.deb
-Size: 3018
-MD5sum: 75ff3375f4d4bc3e650aa9e5914198aa
-SHA1: 2461aade9d04f93260998525a5ae34ec48eaf573
-SHA256: 48c5f0aeba11ce8bda4c811c59ea2a57c4ab1f39e7c5e51835cc582692540832
+Size: 3012
+MD5sum: 3ad44bff1e40c66c3ae2afebec9a096e
+SHA1: 2f39c1fb93f7952926d8863b7024ab44decc8ec2
+SHA256: bb1d573a48e518ac1a0baa33eb14d93cb7ca2125fec80e214c467ed27de7f757
 Section: Crack
 Description: 24小时内删除插件！！！！！！！！！！！！！！
 Author: fries
@@ -256,10 +256,10 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.qianyuecrack_1.0.0_iphoneos-arm.deb
-Size: 4522
-MD5sum: baed8f67b815afdc5af9198e5455d5c2
-SHA1: 87b597166af9587f63fc759d5e53deafc6e480ea
-SHA256: fe769a31b40f8821da312c7d62e3fd35bd9a2a2396ba23ee8c319734a3178fea
+Size: 4520
+MD5sum: 08f314eea43a6e83b79034aae0772147
+SHA1: 4a421c9a5021bf0a86221cf07f6ddc4453de456f
+SHA256: 6451dfcd03e2b551a040074a8a2f9a2402b6bb487f4c27068cac6e988f00812a
 Section: Crack
 Description: QianYue Crack!
 Author: fries
@@ -716,10 +716,10 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.hftqhook_1.0.0_iphoneos-arm64.deb
-Size: 2862
-MD5sum: 223c7ce599545632409d6ab66787e654
-SHA1: a89215cae7d8138748878ee557449f9536cc1904
-SHA256: a318fac24e37f4395ad4457074b70c2d42fda749f24faa3496c81aa966b0cd8d
+Size: 2858
+MD5sum: 32ce044898272b7137bc2e92641ff517
+SHA1: 1b783b250e34a5edabb686652aaa30e423f871c2
+SHA256: acd353829d38efd22a3baf7be6a6a9d72f9a158c1fb6b750871653fa19bf5fb5
 Section: Crack
 Description: HFTQPRO
 Author: fries
@@ -732,10 +732,10 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.icityhook_1.0.0_iphoneos-arm64.deb
-Size: 4284
-MD5sum: 658be2c9b9f4f205561294f10eed7a4d
-SHA1: b088e531da4e1a50e5433589c4e2f17ad16694dd
-SHA256: afdcc836d638b09179dce3acb34f6f463cec26f98ee3f70245b714dc649961b7
+Size: 4276
+MD5sum: 8249f15618a4f480fa2f5ae42c8bfe53
+SHA1: c9b8f000f9376dc65af1d4b631b68a57c6c267b5
+SHA256: d178b6b4957deef085c525e604cf48f0779f60863da43bddbf1de7033e52c60b
 Section: Crack
 Description: 仅学习交流使用,24小时之内删除,不然要你好看的!
 Author: fries
@@ -748,10 +748,10 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.loficamcrack_1.0.0_iphoneos-arm64.deb
-Size: 2754
-MD5sum: 00fe7a8b856eb4e4b85308cbcef5e942
-SHA1: d224ff5224ae72c7f2bf8f4f160c667637a852d2
-SHA256: 745ddb463de3327b19e3d6eb53750bc5da74ca5eca377aadbcfc67cd9d5d8dfd
+Size: 2760
+MD5sum: a01dffc608638ea355c97bb317313806
+SHA1: 9a05b5a0521c8c3e5f8aa680dd719bacc8c2cc8e
+SHA256: 1dd0ba2e2e09a524063da5fc32069357a4161ae531048caafc8c345b6ed146f6
 Section: Crack
 Description: An awesome MobileSubstrate tweak!
 Author: fries
@@ -797,10 +797,10 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.promoviecrack_1.0.0_iphoneos-arm64.deb
-Size: 3096
-MD5sum: e5c7365d6ebda8aa078e0572cbfc83cf
-SHA1: 92b91660997c4e1b2cf8b178abdefe53abf1131a
-SHA256: a7448d81507b2aea6b5c17530ccbbec1721406cfdbcac24bd264a6e000048f0b
+Size: 3098
+MD5sum: 7079e14ade43d6d6ccd890c69f34e4e6
+SHA1: 9deb791d8ab44b2a4ad8822a73b596893de2fda1
+SHA256: a634a857328f8810eba210207a565eb0dd211e857993054df6262ccece1957b2
 Section: Crack
 Description: 24小时内删除插件！！！！！！！！！！！！！！
 Author: fries
@@ -813,10 +813,10 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.qianyuecrack_1.0.0_iphoneos-arm64.deb
-Size: 4608
-MD5sum: 9567b3a17cebc17de2b46b6710daf4e7
-SHA1: c7cfa27c6cd75669a87a0e7ed9777ff3671800c5
-SHA256: 08191de4883847b4b4b03457b7bb05cf01e84b07f9018c7698ce1c1b599cb775
+Size: 4596
+MD5sum: 95247c7d1db8a64613d0d75758b05853
+SHA1: 00433a8482fcc750b4fce843a23edf61a7ae1ce2
+SHA256: 16fc2e0f846dff1d25ed1699bfb78f801cf2e3635cf20a4b0d1e630a885712e8
 Section: Crack
 Description: QianYue Crack!
 Author: fries
