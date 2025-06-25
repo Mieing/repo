@@ -185,17 +185,17 @@ Author: fries
 Name: iCity Crack
 
 Package: com.fries.kolorocrack
-Version: 1.0.0-3
+Version: 1.0.0-5
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.fries.kolorocrack_1.0.0-3_iphoneos-arm.deb
-Size: 3054
-MD5sum: a76acf934ca646295fc560ffe76f85b8
-SHA1: ae2ef4c840d6c9794793c6650cbd0796d2794e33
-SHA256: 9e72ded11b285a4884023d171226565292e3a6c476fdac0e02a3ba512ae3278b
-Section: Cracks
+Filename: ./debs/rootfull/com.fries.kolorocrack_1.0.0-5_iphoneos-arm.deb
+Size: 3048
+MD5sum: da0943fab9272694ed7250fec7726f01
+SHA1: 9312f6cc2d7266dffcad9830ce5c6283b15685fe
+SHA256: 17937ffd2248107b104001973de169914236b995b75cade27f26d78c2a22be51
+Section: Crack
 Description: Koloro Crack!
 Author: fries
 Name: Koloro Crack
@@ -298,17 +298,17 @@ Author: fries
 Name: SiRenJianShenJiaoLian Crack
 
 Package: com.fries.xiaomingjisuanqicrack
-Version: 1.0.0-5
+Version: 1.0.0-9
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.fries.xiaomingjisuanqicrack_1.0.0-5_iphoneos-arm.deb
-Size: 2952
-MD5sum: 2990e67d4b54287425963576ae5d45ed
-SHA1: 1b97959f96cb5cd7857c812cf942d16bccc8aa95
-SHA256: 82bdfc67cb31201359d12b7c3ada381bba25dc09da4bbf75cc66c14ca752a338
-Section: Tweaks
+Filename: ./debs/rootfull/com.fries.xiaomingjisuanqicrack_1.0.0-9_iphoneos-arm.deb
+Size: 2944
+MD5sum: e528ab6421ba8e282dc2ff4c926ae341
+SHA1: 4cbe1d46b077d58a3a30f495aede23f40c2ad42f
+SHA256: ab11a603b6cc3122005afe6d2e9d339be111424f75873881926b12f672028809
+Section: Crack
 Description: XiaoMingJiSuanQi Crack!
 Author: fries
 Name: XiaoMingJiSuanQi Crack
@@ -774,17 +774,17 @@ Author: fries
 Name: iCity Crack
 
 Package: com.fries.kolorocrack
-Version: 1.0.0-4
+Version: 1.0.0-6
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.fries.kolorocrack_1.0.0-4_iphoneos-arm64.deb
-Size: 3132
-MD5sum: 4ea1bfc8c80ea620ca1fc84d695c3a2e
-SHA1: 706e9b01e5f477518b535201080352999b102afb
-SHA256: 8b636fc346a4ae8b52165d78ad393cd3cc68ef2efbd4dd2e9370d2e9d752d601
-Section: Cracks
+Filename: ./debs/rootless/com.fries.kolorocrack_1.0.0-6_iphoneos-arm64.deb
+Size: 3130
+MD5sum: 4c9d45a528e884c130a141e5cab78433
+SHA1: 16e7fed532412ad4fe85c8bd945f9dde58cc4c97
+SHA256: 074ae260765f371b3db73736c7b8e4f6e0ccecbb70be37cd91fe92ce9e47f164
+Section: Crack
 Description: Koloro Crack!
 Author: fries
 Name: Koloro Crack
@@ -887,17 +887,17 @@ Author: fries
 Name: SiRenJianShenJiaoLian Crack
 
 Package: com.fries.xiaomingjisuanqicrack
-Version: 1.0.0-6
+Version: 1.0.0-10
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.fries.xiaomingjisuanqicrack_1.0.0-6_iphoneos-arm64.deb
-Size: 3034
-MD5sum: e7c6387ec9eca0662878a143178f1c29
-SHA1: b9917cc045e2e92da618e8c445e88dd29ea8cf7b
-SHA256: 2fdaea09040ddc077d5f18df88ea313f65e11aaff1cf836667aa87491257e442
-Section: Tweaks
+Filename: ./debs/rootless/com.fries.xiaomingjisuanqicrack_1.0.0-10_iphoneos-arm64.deb
+Size: 3030
+MD5sum: 252f4b6e35d7496913132e05801d3edb
+SHA1: e78116feb47480ddc0e5f85abdfbd5b6799afedf
+SHA256: 66265c9fac5c0f9e8ad80f0b5eabf0b4d7e776ba77da04b2f510c0ac946fd19b
+Section: Crack
 Description: XiaoMingJiSuanQi Crack!
 Author: fries
 Name: XiaoMingJiSuanQi Crack
