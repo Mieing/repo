@@ -184,6 +184,22 @@ Description: 仅学习交流使用,24小时之内删除,不然要你好看的!
 Author: fries
 Name: iCity Crack
 
+Package: com.fries.kolorocrack
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.kolorocrack_1.0.0-3_iphoneos-arm.deb
+Size: 3054
+MD5sum: a76acf934ca646295fc560ffe76f85b8
+SHA1: ae2ef4c840d6c9794793c6650cbd0796d2794e33
+SHA256: 9e72ded11b285a4884023d171226565292e3a6c476fdac0e02a3ba512ae3278b
+Section: Cracks
+Description: Koloro Crack!
+Author: fries
+Name: Koloro Crack
+
 Package: com.fries.loficamcrack
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -280,6 +296,22 @@ Section: Crack
 Description: SiRenJianShenJiaoLian Crack!
 Author: fries
 Name: SiRenJianShenJiaoLian Crack
+
+Package: com.fries.xiaomingjisuanqicrack
+Version: 1.0.0-5
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.xiaomingjisuanqicrack_1.0.0-5_iphoneos-arm.deb
+Size: 2952
+MD5sum: 2990e67d4b54287425963576ae5d45ed
+SHA1: 1b97959f96cb5cd7857c812cf942d16bccc8aa95
+SHA256: 82bdfc67cb31201359d12b7c3ada381bba25dc09da4bbf75cc66c14ca752a338
+Section: Tweaks
+Description: XiaoMingJiSuanQi Crack!
+Author: fries
+Name: XiaoMingJiSuanQi Crack
 
 Package: com.huami-fries.dyyy
 Version: 2.1-8
@@ -741,6 +773,22 @@ Description: 仅学习交流使用,24小时之内删除,不然要你好看的!
 Author: fries
 Name: iCity Crack
 
+Package: com.fries.kolorocrack
+Version: 1.0.0-4
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.kolorocrack_1.0.0-4_iphoneos-arm64.deb
+Size: 3132
+MD5sum: 4ea1bfc8c80ea620ca1fc84d695c3a2e
+SHA1: 706e9b01e5f477518b535201080352999b102afb
+SHA256: 8b636fc346a4ae8b52165d78ad393cd3cc68ef2efbd4dd2e9370d2e9d752d601
+Section: Cracks
+Description: Koloro Crack!
+Author: fries
+Name: Koloro Crack
+
 Package: com.fries.loficamcrack
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -837,6 +885,22 @@ Section: Crack
 Description: SiRenJianShenJiaoLian Crack!
 Author: fries
 Name: SiRenJianShenJiaoLian Crack
+
+Package: com.fries.xiaomingjisuanqicrack
+Version: 1.0.0-6
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.xiaomingjisuanqicrack_1.0.0-6_iphoneos-arm64.deb
+Size: 3034
+MD5sum: e7c6387ec9eca0662878a143178f1c29
+SHA1: b9917cc045e2e92da618e8c445e88dd29ea8cf7b
+SHA256: 2fdaea09040ddc077d5f18df88ea313f65e11aaff1cf836667aa87491257e442
+Section: Tweaks
+Description: XiaoMingJiSuanQi Crack!
+Author: fries
+Name: XiaoMingJiSuanQi Crack
 
 Package: com.huami-fries.dyyy
 Version: 2.1-8
