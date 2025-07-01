@@ -257,14 +257,14 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootfull/com.fries.nomocamcrack_1.0.0_iphoneos-arm.deb
-Size: 2750
-MD5sum: 26a9da20ca2e59e8a17c390a8e7e11b7
-SHA1: 71190f3106c389fae7dabbf3cd56136581dba042
-SHA256: fa4bb8b193c74302798d392748344fd748b3fbc5fa9de3b3a7cb6c9c4e6d4269
+Size: 2744
+MD5sum: 81aef76690479dea31f59f7b814b1a83
+SHA1: fa25a3916c29d9370e42b04a24bee93f4fc9af02
+SHA256: 7c6510647474e841714c1f4d6aea9d71bcd1277908d75b6ea17afda1ac3b7c3c
 Section: Crack
 Description: NOMO CAM Crack!
 Author: fries
-Icon: https://Mieing.Github.io/repo/file/NOMOCAM.png
+Icon: https://Mieing.Github.io/repo/file/NOMOCAMCrack.png
 Name: NOMO CAM Crack
 
 Package: com.fries.oldrollcrack
@@ -880,14 +880,14 @@ Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
 Filename: ./debs/rootless/com.fries.nomocamcrack_1.0.0_iphoneos-arm64.deb
-Size: 2840
-MD5sum: ac967441e5a0fe994db9d137384266ca
-SHA1: 5a1f84cc2b0499d9e84b0865fe4f228fddead112
-SHA256: fe8c853d3cb4e85d566be0e40344d12b71c0d06a8dc920446fc25334cbd471e3
+Size: 2834
+MD5sum: 3e71ac15f04acce6ea5ce9a44a216481
+SHA1: e9a7d6bc2f96cb3efacc0e27871e13cc53918812
+SHA256: a417bee2b24043ba290c20634fa0b9f284d7cdbe34aa4faf1e411ea9daa6a02b
 Section: Crack
 Description: NOMO CAM Crack!
 Author: fries
-Icon: https://Mieing.Github.io/repo/file/NOMOCAM.png
+Icon: https://Mieing.Github.io/repo/file/NOMOCAMCrack.png
 Name: NOMO CAM Crack
 
 Package: com.fries.oldrollcrack
