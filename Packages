@@ -152,6 +152,23 @@ Description: An awesome MobileSubstrate tweak!
 Author: fries
 Name: DaysMatter Crack
 
+Package: com.fries.fimocrack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.fimocrack_1.0.0_iphoneos-arm.deb
+Size: 2740
+MD5sum: 2f54305091b761ec406108cef3e0a324
+SHA1: 6424050bf46be176bbaf064944f10e183e7ba6c0
+SHA256: e8269cab1b0b280ddaf9ea1797ca06fbaa39d21f47ee4bf7bb559ff5f6e0a1e9
+Section: Crack
+Description: FIMO Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/FIMOCrack.png
+Name: FIMO Crack
+
 Package: com.fries.hftqhook
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -185,16 +202,16 @@ Author: fries
 Name: iCity Crack
 
 Package: com.fries.kolorocrack
-Version: 1.0.0-5
+Version: 1.0.0-7
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.fries.kolorocrack_1.0.0-5_iphoneos-arm.deb
-Size: 3048
-MD5sum: da0943fab9272694ed7250fec7726f01
-SHA1: 9312f6cc2d7266dffcad9830ce5c6283b15685fe
-SHA256: 17937ffd2248107b104001973de169914236b995b75cade27f26d78c2a22be51
+Filename: ./debs/rootfull/com.fries.kolorocrack_1.0.0-7_iphoneos-arm.deb
+Size: 3052
+MD5sum: 561b68cb637433c67efb11a951667d69
+SHA1: bd5595122e3533523b9c770837471399fb69b2c5
+SHA256: 7845e178562a57bece4ba502bb173700025b6bbe9e39b7ba9d36297d1d45d664
 Section: Crack
 Description: Koloro Crack!
 Author: fries
@@ -232,6 +249,23 @@ Description: MeiTuanNoAds
 Author: fries
 Icon: https://Mieing.Github.io/repo/file/meituan.png
 Name: MTuanNoAds
+
+Package: com.fries.nomocamcrack
+Version: 1.0.0
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.nomocamcrack_1.0.0_iphoneos-arm.deb
+Size: 2750
+MD5sum: 26a9da20ca2e59e8a17c390a8e7e11b7
+SHA1: 71190f3106c389fae7dabbf3cd56136581dba042
+SHA256: fa4bb8b193c74302798d392748344fd748b3fbc5fa9de3b3a7cb6c9c4e6d4269
+Section: Crack
+Description: NOMO CAM Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/NOMOCAM.png
+Name: NOMO CAM Crack
 
 Package: com.fries.oldrollcrack
 Version: 1.0.0
@@ -741,6 +775,23 @@ Description: An awesome MobileSubstrate tweak!
 Author: fries
 Name: DaysMatter Crack
 
+Package: com.fries.fimocrack
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.fimocrack_1.0.0_iphoneos-arm64.deb
+Size: 2822
+MD5sum: 30a0017acb4afe294d38b083f966f3d3
+SHA1: 02177728628cc04cc90d3149bcf79afd143c0cef
+SHA256: 87bf393d4b80ce235c28e6c32518d1bf43c14f5864734a6f9b5a0733796e2f29
+Section: Crack
+Description: FIMO Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/FIMOCrack.png
+Name: FIMO Crack
+
 Package: com.fries.hftqhook
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -774,16 +825,16 @@ Author: fries
 Name: iCity Crack
 
 Package: com.fries.kolorocrack
-Version: 1.0.0-6
+Version: 1.0.0-8
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.fries.kolorocrack_1.0.0-6_iphoneos-arm64.deb
-Size: 3130
-MD5sum: 4c9d45a528e884c130a141e5cab78433
-SHA1: 16e7fed532412ad4fe85c8bd945f9dde58cc4c97
-SHA256: 074ae260765f371b3db73736c7b8e4f6e0ccecbb70be37cd91fe92ce9e47f164
+Filename: ./debs/rootless/com.fries.kolorocrack_1.0.0-8_iphoneos-arm64.deb
+Size: 3132
+MD5sum: be6df6878577c8f8f4a626a1dbf0d8bd
+SHA1: c1158d9268048df1c30564af6390eccb326f84da
+SHA256: 9d21a1187300287fabde5c60cdf3344b7b217f88c308fb6b7bd724449d2804e8
 Section: Crack
 Description: Koloro Crack!
 Author: fries
@@ -821,6 +872,23 @@ Description: MeiTuanNoAds
 Author: fries
 Icon: https://Mieing.Github.io/repo/file/meituan.png
 Name: MTuanNoAds
+
+Package: com.fries.nomocamcrack
+Version: 1.0.0
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.nomocamcrack_1.0.0_iphoneos-arm64.deb
+Size: 2840
+MD5sum: ac967441e5a0fe994db9d137384266ca
+SHA1: 5a1f84cc2b0499d9e84b0865fe4f228fddead112
+SHA256: fe8c853d3cb4e85d566be0e40344d12b71c0d06a8dc920446fc25334cbd471e3
+Section: Crack
+Description: NOMO CAM Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/NOMOCAM.png
+Name: NOMO CAM Crack
 
 Package: com.fries.oldrollcrack
 Version: 1.0.0
