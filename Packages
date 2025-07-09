@@ -332,6 +332,23 @@ Description: QianYue Crack!
 Author: fries
 Name: QianYue Crack
 
+Package: com.fries.shuiyinxiangjicrack
+Version: 1.0.0-3+debug
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.shuiyinxiangjicrack_1.0.0-3+debug_iphoneos-arm.deb
+Size: 3958
+MD5sum: 6d0825e53c332ada22f074dfc69facf5
+SHA1: 9e1991989efcaad99424bf96871c180b4f04c077
+SHA256: 1516c8a774cf43fb2f23af1c29cef09215f69201d1ee79a05305ce590c330565
+Section: Crack
+Description: ShuiYinXiangJi Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/ShuiYinXiangJi.png
+Name: 水印相机 Crack
+
 Package: com.fries.sirenjianshenjiaoliancrack
 Version: 1.0.0-5
 Architecture: iphoneos-arm
@@ -1005,6 +1022,23 @@ Section: Crack
 Description: QianYue Crack!
 Author: fries
 Name: QianYue Crack
+
+Package: com.fries.shuiyinxiangjicrack
+Version: 1.0.0-4+debug
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.shuiyinxiangjicrack_1.0.0-4+debug_iphoneos-arm64.deb
+Size: 4048
+MD5sum: b466dc1360b6362576a72eac4b448fc3
+SHA1: 73f14a62d563b2e2f5f7e5b254eba688b056e2d7
+SHA256: 98c1d0888d7f3886558a1a1083d861c5ea7c541d488eabe5d24730d5f5d19610
+Section: Crack
+Description: ShuiYinXiangJi Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/ShuiYinXiangJi.png
+Name: 水印相机 Crack
 
 Package: com.fries.sirenjianshenjiaoliancrack
 Version: 1.0.0-6
