@@ -202,20 +202,20 @@ Author: fries
 Name: iCity Crack
 
 Package: com.fries.ioscrack
-Version: 1.0.0-5+debug
+Version: 1.0.0-7+debug
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.fries.ioscrack_1.0.0-5+debug_iphoneos-arm.deb
-Size: 3184
-MD5sum: 06d1a7260313acd97158a8b27d30affe
-SHA1: 69344781a44feadf24163740481446cf8cd6d5b8
-SHA256: d61596bd695e93bdb5f448d8b068e78f725136b9cb1b3db7b21b32f98f91f4d9
+Filename: ./debs/rootfull/com.fries.ioscrack_1.0.0-7+debug_iphoneos-arm.deb
+Size: 3188
+MD5sum: 08a4d7db257b4a42ac6a52a22d97941b
+SHA1: e038a5db056cfef6f14d4b8faf253622a96da915
+SHA256: 562279c3c8ae3bba288d43a296d06b91809048474916a75434d43ababa34fad2
 Section: Crack
 Description: iOS开发教程 Crack!
 Author: fries
-Icon: https://Mieing.Github.io/repo/file/iOS开发教程Crack.png
+Icon: https://Mieing.Github.io/repo/file/iOSkaifajiaochengCrack.png
 Name: iOS开发教程 Crack
 
 Package: com.fries.kolorocrack
@@ -876,20 +876,20 @@ Author: fries
 Name: iCity Crack
 
 Package: com.fries.ioscrack
-Version: 1.0.0-6+debug
+Version: 1.0.0-8+debug
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.fries.ioscrack_1.0.0-6+debug_iphoneos-arm64.deb
-Size: 3262
-MD5sum: fdca3ef89c85b9189c57e98b82050ee0
-SHA1: 73edea8e64ee4cceaefb7700cad5ecfa8fbf84e5
-SHA256: a0cef852bdab16e86d5f9b62928c252bf9c9430a47b3d9517dc18bf97512fe18
+Filename: ./debs/rootless/com.fries.ioscrack_1.0.0-8+debug_iphoneos-arm64.deb
+Size: 3270
+MD5sum: 9ea22112d3b19d2b583e97653e9a3524
+SHA1: 39afc8ba39b365fec1c63d390ab6978ea2823a7a
+SHA256: fc6ea6d670fc99e03a3ca8f0219fb5c76cb57c0c4a9f36ae14617c7ac0b62407
 Section: Crack
 Description: iOS开发教程 Crack!
 Author: fries
-Icon: https://Mieing.Github.io/repo/file/iOS开发教程Crack.png
+Icon: https://Mieing.Github.io/repo/file/iOSkaifajiaochengCrack.png
 Name: iOS开发教程 Crack
 
 Package: com.fries.kolorocrack
