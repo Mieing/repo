@@ -201,6 +201,23 @@ Description: 仅学习交流使用,24小时之内删除,不然要你好看的!
 Author: fries
 Name: iCity Crack
 
+Package: com.fries.ioscrack
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.ioscrack_1.0.0-1+debug_iphoneos-arm.deb
+Size: 3156
+MD5sum: f4718bf5633963fc3831fc95431eab9e
+SHA1: a1e365f9a0ceb7f974cc0d063dea4e57c8e270e5
+SHA256: 3a1ddbe9b696e4937b3822e030d730b8d58a5aefd67c670d4105ee1595506217
+Section: Crack
+Description: iOS开发教程 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/iOS开发教程Crack.png
+Name: iOS开发教程 Crack
+
 Package: com.fries.kolorocrack
 Version: 1.0.0-7
 Architecture: iphoneos-arm
@@ -346,6 +363,39 @@ Section: Crack
 Description: XiaoMingJiSuanQi Crack!
 Author: fries
 Name: XiaoMingJiSuanQi Crack
+
+Package: com.fries.xiaorichang
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.xiaorichang_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4612
+MD5sum: fad82812ae39428f9de7a66f96ea87e2
+SHA1: 96dbd9b88bef282add30e633f0de354a74dab0bb
+SHA256: ef3e2d321f392778a3cfb4716cfde458a479558ed8b023d752db4f8800796187
+Section: Crack
+Description: 小习惯 Crack!
+Author: fries
+Name: 小习惯 Crack
+
+Package: com.fries.xiaoxiguancrack
+Version: 1.0.0-1+debug
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.xiaoxiguancrack_1.0.0-1+debug_iphoneos-arm.deb
+Size: 4226
+MD5sum: 2fbb3c69e85637be6dbac4ee1e06ee78
+SHA1: 8700e0d33426753029e203b2e3a4b4ba4e42e23c
+SHA256: 53d678d9645ae5b1dd6de73d9befad70c77a6764618f2ea91ab4ca09d6935dc7
+Section: Tweaks
+Description: XiaoXiGuan Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/XiaoXiGuanCrack.png
+Name: XiaoXiGuan Crack
 
 Package: com.huami-fries.dyyy
 Version: 2.1-8
@@ -824,6 +874,23 @@ Description: 仅学习交流使用,24小时之内删除,不然要你好看的!
 Author: fries
 Name: iCity Crack
 
+Package: com.fries.ioscrack
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.ioscrack_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 3242
+MD5sum: ba9404987d4c5647bdfa0026b02f7c65
+SHA1: c7e9788013b85044bb0f20fc234324ba4dd4aa32
+SHA256: 1b49d84abdee46664c3efd6b350d59187a9e076c598255dc37e80965103eec9a
+Section: Crack
+Description: iOS开发教程 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/iOS开发教程Crack.png
+Name: iOS开发教程 Crack
+
 Package: com.fries.kolorocrack
 Version: 1.0.0-8
 Architecture: iphoneos-arm64
@@ -969,6 +1036,39 @@ Section: Crack
 Description: XiaoMingJiSuanQi Crack!
 Author: fries
 Name: XiaoMingJiSuanQi Crack
+
+Package: com.fries.xiaorichang
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 188
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.xiaorichang_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 4702
+MD5sum: 2280b976d6ee1490d340285720fd398f
+SHA1: 442b1a072020f583566d2f81fac0f550a609a423
+SHA256: d7b4c19e35ccc2e036f914d1d36a54828766a779c0d9f152d171d2dc134b0d46
+Section: Crack
+Description: 小习惯 Crack!
+Author: fries
+Name: 小习惯 Crack
+
+Package: com.fries.xiaoxiguancrack
+Version: 1.0.0-2+debug
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.xiaoxiguancrack_1.0.0-2+debug_iphoneos-arm64.deb
+Size: 4310
+MD5sum: 901fed9eb785756354f26e7ea18d9ab5
+SHA1: b7ab7622eddc1236450a345198cf97aae800ee89
+SHA256: f4ab31a881b720a561e3f6b177bfddd281b29e3c65f1036a214a940c958a3972
+Section: Tweaks
+Description: XiaoXiGuan Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/XiaoXiGuanCrack.png
+Name: XiaoXiGuan Crack
 
 Package: com.huami-fries.dyyy
 Version: 2.1-8
