@@ -152,6 +152,23 @@ Description: An awesome MobileSubstrate tweak!
 Author: fries
 Name: DaysMatter Crack
 
+Package: com.fries.faquanbaocrack
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.faquanbaocrack_1.0.0-3_iphoneos-arm.deb
+Size: 3662
+MD5sum: b7c8c3eec8864f51485bcdae69504521
+SHA1: c472da18e8c8835b3add6533460c562bb5df0aab
+SHA256: 8a461e3188ddb6b4ed4b2ae3c59b4a997d625db9a185c7a358f3cab5972926b0
+Section: Crack
+Description: FaQuanBao Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/FaQuanBaoCrack.png
+Name: FaQuanBao Crack
+
 Package: com.fries.fimocrack
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -414,6 +431,23 @@ Description: 小习惯 Crack!
 Author: fries
 Icon: https://Mieing.Github.io/repo/file/XiaoXiGuan1Crack.png
 Name: 小习惯 Crack
+
+Package: com.fries.xiaowaiweishangcrack
+Version: 1.0.0-6
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.xiaowaiweishangcrack_1.0.0-6_iphoneos-arm.deb
+Size: 2792
+MD5sum: f0f28951b2a9833a4d9b501b15428a00
+SHA1: bb3ed6c11826600fa8f5fea78b68392f030cc0a2
+SHA256: c420e5b146abaa89b1f11aa424945a40028c331b08a80aa6039f662bace62f16
+Section: Crack
+Description: XiaoWaiWeiShang Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/XiaoWaiWeiShang Crack.png
+Name: XiaoWaiWeiShang Crack
 
 Package: com.fries.xiaoxiguancrack
 Version: 1.0.0-1+debug
@@ -860,6 +894,23 @@ Description: An awesome MobileSubstrate tweak!
 Author: fries
 Name: DaysMatter Crack
 
+Package: com.fries.faquanbaocrack
+Version: 1.0.0-4
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.faquanbaocrack_1.0.0-4_iphoneos-arm64.deb
+Size: 3748
+MD5sum: d5609acdd243c128c492e35601d86f7e
+SHA1: f6cd7a1dc47abef9c52280ef228ba6ccf41b911a
+SHA256: ccef7f35ae332df1df8a33e9d40be7829d3b096dff0d36fa528b10b9d9074cf3
+Section: Crack
+Description: FaQuanBao Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/FaQuanBaoCrack.png
+Name: FaQuanBao Crack
+
 Package: com.fries.fimocrack
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -1122,6 +1173,23 @@ Description: 小习惯 Crack!
 Author: fries
 Icon: https://Mieing.Github.io/repo/file/XiaoXiGuan1Crack.png
 Name: 小习惯 Crack
+
+Package: com.fries.xiaowaiweishangcrack
+Version: 1.0.0-7
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.xiaowaiweishangcrack_1.0.0-7_iphoneos-arm64.deb
+Size: 2880
+MD5sum: d67f4a34c8dea3614321e7b7661b2c76
+SHA1: d3e07a3eb6ed0bd9b17bc24dda40bb38d7781595
+SHA256: f0f8209c8188e9d5da3c50e0e05e04d6af7f70370f160af7fa25139f0040cc6e
+Section: Crack
+Description: XiaoWaiWeiShang Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/XiaoWaiWeiShang Crack.png
+Name: XiaoWaiWeiShang Crack
 
 Package: com.fries.xiaoxiguancrack
 Version: 1.0.0-2+debug
