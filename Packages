@@ -433,20 +433,20 @@ Icon: https://Mieing.Github.io/repo/file/XiaoXiGuan1Crack.png
 Name: 小习惯 Crack
 
 Package: com.fries.xiaowaiweishangcrack
-Version: 1.0.0-6
+Version: 1.0.0-12
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.fries.xiaowaiweishangcrack_1.0.0-6_iphoneos-arm.deb
+Filename: ./debs/rootfull/com.fries.xiaowaiweishangcrack_1.0.0-12_iphoneos-arm.deb
 Size: 2792
-MD5sum: f0f28951b2a9833a4d9b501b15428a00
-SHA1: bb3ed6c11826600fa8f5fea78b68392f030cc0a2
-SHA256: c420e5b146abaa89b1f11aa424945a40028c331b08a80aa6039f662bace62f16
+MD5sum: 15c790f021b76c35e1958e45e7d60b3d
+SHA1: 7e68a5320b3db7211d78771d183b56f1fc7c4d94
+SHA256: e4ad2cac2dbedc2c3a064bd8035dc1480ad4fb88283c02937d651e13439b79d0
 Section: Crack
 Description: XiaoWaiWeiShang Crack!
 Author: fries
-Icon: https://Mieing.Github.io/repo/file/XiaoWaiWeiShang Crack.png
+Icon: https://Mieing.Github.io/repo/file/XiaoWaiWeiShangCrack.png
 Name: XiaoWaiWeiShang Crack
 
 Package: com.fries.xiaoxiguancrack
@@ -1175,20 +1175,20 @@ Icon: https://Mieing.Github.io/repo/file/XiaoXiGuan1Crack.png
 Name: 小习惯 Crack
 
 Package: com.fries.xiaowaiweishangcrack
-Version: 1.0.0-7
+Version: 1.0.0-13
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.fries.xiaowaiweishangcrack_1.0.0-7_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.fries.xiaowaiweishangcrack_1.0.0-13_iphoneos-arm64.deb
 Size: 2880
-MD5sum: d67f4a34c8dea3614321e7b7661b2c76
-SHA1: d3e07a3eb6ed0bd9b17bc24dda40bb38d7781595
-SHA256: f0f8209c8188e9d5da3c50e0e05e04d6af7f70370f160af7fa25139f0040cc6e
+MD5sum: d9e5a9fe17d8f26ef2e9e7aa0897207c
+SHA1: dafc4cb6e4a513841720f13c556270f43e2e8836
+SHA256: 12c81d2498c4ac7ec9bfd885002849c2b515f4c07cf66498409ee527a64a5588
 Section: Crack
 Description: XiaoWaiWeiShang Crack!
 Author: fries
-Icon: https://Mieing.Github.io/repo/file/XiaoWaiWeiShang Crack.png
+Icon: https://Mieing.Github.io/repo/file/XiaoWaiWeiShangCrack.png
 Name: XiaoWaiWeiShang Crack
 
 Package: com.fries.xiaoxiguancrack
