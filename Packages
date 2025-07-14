@@ -267,6 +267,23 @@ Description: An awesome MobileSubstrate tweak!
 Author: fries
 Name: LoFiCam Crack
 
+Package: com.fries.mojitianqicrack
+Version: 1.0.0-7
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.mojitianqicrack_1.0.0-7_iphoneos-arm.deb
+Size: 4606
+MD5sum: 20138e7c5169e22574b46a23bb92f581
+SHA1: dcec2b68734b9c3023d94b844d53e4429c5d9369
+SHA256: 09e43d53e218ac785f330a5eaf3615d2e7011377f3b8cf37a58aeea950ae7bab
+Section: Crack
+Description: 墨迹天气 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/mojitianqicrack.png
+Name: 墨迹天气 Crack
+
 Package: com.fries.mtuannoads
 Version: 1.0.0-1+debug
 Architecture: iphoneos-arm
@@ -1008,6 +1025,23 @@ Section: Crack
 Description: An awesome MobileSubstrate tweak!
 Author: fries
 Name: LoFiCam Crack
+
+Package: com.fries.mojitianqicrack
+Version: 1.0.0-8
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.mojitianqicrack_1.0.0-8_iphoneos-arm64.deb
+Size: 4684
+MD5sum: 42c5d049fa123e4dcdb5e60e9233497d
+SHA1: 529f1e222c6219c4e7fc82cd3f08c07b10809339
+SHA256: ba41630bdaf3a43c952f5a8f86bde0bbaebb4491c1789440880d53145dc92fa9
+Section: Crack
+Description: 墨迹天气 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/mojitianqicrack.png
+Name: 墨迹天气 Crack
 
 Package: com.fries.mtuannoads
 Version: 1.0.0-1+debug
