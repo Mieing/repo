@@ -120,6 +120,23 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
+Package: com.fries.caiyuntianqicrack
+Version: 1.0.0-3
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.caiyuntianqicrack_1.0.0-3_iphoneos-arm.deb
+Size: 3572
+MD5sum: a7a95d09636b29474cba4895108eca6a
+SHA1: 3150d881624d76dc4fa1c29df9a0584cb00f4c59
+SHA256: 766338680b497459d2d900219e1118d352ab0a182f9e9e73af7f231d7aeb3d27
+Section: Crack
+Description: 彩云天气 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/caiyuntianqiCrack.png
+Name: 彩云天气 Crack
+
 Package: com.fries.djduoduohook
 Version: 1.0.0-6+debug
 Architecture: iphoneos-arm
@@ -268,16 +285,16 @@ Author: fries
 Name: LoFiCam Crack
 
 Package: com.fries.mojitianqicrack
-Version: 1.0.0-7
+Version: 1.0.0-9
 Architecture: iphoneos-arm
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.fries.mojitianqicrack_1.0.0-7_iphoneos-arm.deb
-Size: 4606
-MD5sum: 20138e7c5169e22574b46a23bb92f581
-SHA1: dcec2b68734b9c3023d94b844d53e4429c5d9369
-SHA256: 09e43d53e218ac785f330a5eaf3615d2e7011377f3b8cf37a58aeea950ae7bab
+Filename: ./debs/rootfull/com.fries.mojitianqicrack_1.0.0-9_iphoneos-arm.deb
+Size: 4604
+MD5sum: eb07dcadcbd7057ff2a5d4cd5255d1c1
+SHA1: b3f7307b89c7f85a7ccceafc7a8ed60ca4269d40
+SHA256: d4407015d7fd73e95587faa79402aa0dd665d0e8a378754d64c53004cb9e050f
 Section: Crack
 Description: 墨迹天气 Crack!
 Author: fries
@@ -863,6 +880,23 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
+Package: com.fries.caiyuntianqicrack
+Version: 1.0.0-4
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.caiyuntianqicrack_1.0.0-4_iphoneos-arm64.deb
+Size: 3658
+MD5sum: 5283caa2c9337417ba911916c543abdf
+SHA1: 1a92bb4a3a5e74d9452c0593b03c62568deeea98
+SHA256: 26516dbf6c95386fda9ff68ec16e1a638f1dc6716c44de07c3c67ecd96365b64
+Section: Crack
+Description: 彩云天气 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/caiyuntianqiCrack.png
+Name: 彩云天气 Crack
+
 Package: com.fries.colorfulwallpaperx
 Version: 4.6
 Architecture: iphoneos-arm64
@@ -1027,16 +1061,16 @@ Author: fries
 Name: LoFiCam Crack
 
 Package: com.fries.mojitianqicrack
-Version: 1.0.0-8
+Version: 1.0.0-10
 Architecture: iphoneos-arm64
 Maintainer: fries
 Installed-Size: 184
 Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.fries.mojitianqicrack_1.0.0-8_iphoneos-arm64.deb
+Filename: ./debs/rootless/com.fries.mojitianqicrack_1.0.0-10_iphoneos-arm64.deb
 Size: 4684
-MD5sum: 42c5d049fa123e4dcdb5e60e9233497d
-SHA1: 529f1e222c6219c4e7fc82cd3f08c07b10809339
-SHA256: ba41630bdaf3a43c952f5a8f86bde0bbaebb4491c1789440880d53145dc92fa9
+MD5sum: e9d07b196fadbaeebc42cb02c8f74f1f
+SHA1: bf20fccf37606e03acb2dadc0429757208755232
+SHA256: 1031045962fdb716e0eb58c1ef2aa5a8cc83375eaff44fccfd293f04e21e515f
 Section: Crack
 Description: 墨迹天气 Crack!
 Author: fries
