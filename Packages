@@ -120,6 +120,23 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
+Package: com.fries.bizhicrack
+Version: 1.0.0-1
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.bizhicrack_1.0.0-1_iphoneos-arm.deb
+Size: 3176
+MD5sum: bcc737eab5e0a6621571e378cdad705e
+SHA1: 5b93f0a23514f490e6dcd54f4551590422f52fc7
+SHA256: 3f652dc6347c9e69b8877b8df93b2807e2edc5caaa208985fffba8778be13cd5
+Section: Crack
+Description: 壁纸 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/bizhi.png
+Name: 壁纸 Crack
+
 Package: com.fries.caiyuntianqicrack
 Version: 1.0.0-3
 Architecture: iphoneos-arm
@@ -382,6 +399,23 @@ Section: Crack
 Description: QianYue Crack!
 Author: fries
 Name: QianYue Crack
+
+Package: com.fries.qnsmw
+Version: 1.0.0-7
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.qnsmw_1.0.0-7_iphoneos-arm.deb
+Size: 5590
+MD5sum: c8ad41b5b610e4529d0c292e331af918
+SHA1: 31f151008f057e02808e4ccf58edaa661784cd2b
+SHA256: 0c4dd4b5514a1e19788fa93e104c4fb71b08d47a913a0691b5f42985380c0dd5
+Section: Crack
+Description: 扫描全能王 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/qnsmw.png
+Name: 扫描全能王 Crack
 
 Package: com.fries.relens
 Version: 1.0.0-14
@@ -880,6 +914,23 @@ Author: dvntm
 Icon: https://Mieing.Github.io/repo/file/iOS18.png
 Name: CC18
 
+Package: com.fries.bizhicrack
+Version: 1.0.0-2
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.bizhicrack_1.0.0-2_iphoneos-arm64.deb
+Size: 3260
+MD5sum: 87981f3ab047880a25d18000a28629f8
+SHA1: 75cbad51a1482885ba90246b61b1a706db16d73f
+SHA256: 6e14860751405269b617b7fdf45eade23068690d33b999b3b4ac787bbe316aaa
+Section: Crack
+Description: 壁纸 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/bizhi.png
+Name: 壁纸 Crack
+
 Package: com.fries.caiyuntianqicrack
 Version: 1.0.0-4
 Architecture: iphoneos-arm64
@@ -1158,6 +1209,23 @@ Section: Crack
 Description: QianYue Crack!
 Author: fries
 Name: QianYue Crack
+
+Package: com.fries.qnsmw
+Version: 1.0.0-8
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.qnsmw_1.0.0-8_iphoneos-arm64.deb
+Size: 5672
+MD5sum: 8868f6f24b62e40438a9545a1dda7b09
+SHA1: 19aaaf6ceca18b9195c9677cd9c9108c68d17ba4
+SHA256: 4d43cdb6ae8bbd88240f3c89d34ee23033af61fad99b83042dbfea769efe8cbe
+Section: Crack
+Description: 扫描全能王 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/qnsmw.png
+Name: 扫描全能王 Crack
 
 Package: com.fries.relens
 Version: 1.0.0-15
