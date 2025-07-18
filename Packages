@@ -285,6 +285,23 @@ Description: Koloro Crack!
 Author: fries
 Name: Koloro Crack
 
+Package: com.fries.ksctzs
+Version: 1.0.0-6
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.ksctzs_1.0.0-6_iphoneos-arm.deb
+Size: 3266
+MD5sum: 5a8ac3cab16d8311bad85125a249308e
+SHA1: d9e4294dcc15ec27064f835f373218f3ad366525
+SHA256: 5126d5880dcb0af848f0ae1a0cfce2fedbf4cbf378f0df3bed7eced57287855b
+Section: Crack
+Description: 口算出题助手 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/KSCTZS.png
+Name: 口算出题助手 Crack
+
 Package: com.fries.loficamcrack
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -533,6 +550,23 @@ Description: XiaoXiGuan Crack!
 Author: fries
 Icon: https://Mieing.Github.io/repo/file/XiaoXiGuanCrack.png
 Name: XiaoXiGuan Crack
+
+Package: com.fries.xzj
+Version: 1.0.0-6
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.xzj_1.0.0-6_iphoneos-arm.deb
+Size: 3076
+MD5sum: c6894ff3d92493748bad2757450f849d
+SHA1: 9647c16ad15f8dc43ae697c3691b070db5a14e56
+SHA256: 47e2e551fbaab846431a54ce26ce62f2a990875342e47f2a775ba6a62d0225b0
+Section: Crack
+Description: 熊掌记 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/XZJ.png
+Name: 熊掌记 Crack
 
 Package: com.huami-fries.dyyy
 Version: 2.1-8
@@ -1095,6 +1129,23 @@ Description: Koloro Crack!
 Author: fries
 Name: Koloro Crack
 
+Package: com.fries.ksctzs
+Version: 1.0.0-7
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.ksctzs_1.0.0-7_iphoneos-arm64.deb
+Size: 3356
+MD5sum: 3c6ec85db2b6119f7c48e8c05c0d2aaf
+SHA1: 96508dc046dd08f2b38b96dfb829774d47e53084
+SHA256: 9724ed71233b5a7b7f0cf22cc02ab5dcacc3f4658434b70605d978d493c3ba8c
+Section: Crack
+Description: 口算出题助手 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/KSCTZS.png
+Name: 口算出题助手 Crack
+
 Package: com.fries.loficamcrack
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -1343,6 +1394,23 @@ Description: XiaoXiGuan Crack!
 Author: fries
 Icon: https://Mieing.Github.io/repo/file/XiaoXiGuanCrack.png
 Name: XiaoXiGuan Crack
+
+Package: com.fries.xzj
+Version: 1.0.0-7
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.xzj_1.0.0-7_iphoneos-arm64.deb
+Size: 3154
+MD5sum: 5ff82eceb5edb75c9e9d18483aa6df76
+SHA1: 215d96e00e9e207f02f92b0b09676bb04eb33c69
+SHA256: 512ecb0e681bfcf75e429aa73e987be731fa52346b48221fc37f306c9d92a660
+Section: Crack
+Description: 熊掌记 Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/XZJ.png
+Name: 熊掌记 Crack
 
 Package: com.huami-fries.dyyy
 Version: 2.1-8
