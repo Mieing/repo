@@ -568,41 +568,23 @@ Author: fries
 Icon: https://Mieing.Github.io/repo/file/XZJ.png
 Name: 熊掌记 Crack
 
-Package: com.huami-fries.dyyy
-Version: 2.1-8
+Package: com.huami.dyyy
+Version: 2.2-8
 Architecture: iphoneos-arm
 Maintainer: huami
-Installed-Size: 496
+Installed-Size: 2504
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.huami-fries.dyyy_2.1-8_iphoneos-arm.deb
-Size: 78558
-MD5sum: 5322204feade17119206ab8ed1b67d53
-SHA1: 4ceaaa38c95530fcf4deef6ce411e109c6ee0dca
-SHA256: a600b36df79a8b6e23f74e499d420b4112f978158f15ed1f9be93d9ba094d4b5
+Filename: ./debs/rootfull/com.huami.dyyy_2.2-8_iphoneos-arm.deb
+Size: 489702
+MD5sum: e4a8d7adf7b5163ef57a677f581035a3
+SHA1: 845e2a471f2d5d8243e830289b5ffb359c9e5e17
+SHA256: 6b57cca81822e70de849cb80246e1a6e4e734df2e42c50847e7c06e014ee8c08
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.2-8
-Architecture: iphoneos-arm
-Maintainer: huami
-Installed-Size: 2356
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootfull/com.huami.dyyy_2.2-8_iphoneos-arm.deb
-Size: 466330
-MD5sum: 2610c517e0dba11d6851a1889f72b552
-SHA1: 2be9648f6860daff27e68aca9fd126a26e190555
-SHA256: a956b8ad0353a7e8a45324c35d42a45139e5ceaabcc173ab82c1ac29a0438793
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
 
 Package: com.st.wxhook
@@ -757,6 +739,25 @@ Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: vita
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: AwemeSpeedX
+
+Package: com.vita.yuki
+Version: 0.0-8-1
+Architecture: iphoneos-arm
+Maintainer: vita
+Installed-Size: 384
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootfull/com.vita.yuki_0.0-8-1_iphoneos-arm.deb
+Size: 69306
+MD5sum: 4c1df97d95930ceddcd5245d495d1882
+SHA1: 416944f4147289b2955afe7039ce06f6e7797bc8
+SHA256: 03a0a88e9c258684c42856b223e12f13ba314d39f8ef22aa702c3edf725b78d5
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: Yuki
 
 Package: mie.dumpapp.wechat
 Version: 2.0.1
@@ -1412,41 +1413,23 @@ Author: fries
 Icon: https://Mieing.Github.io/repo/file/XZJ.png
 Name: 熊掌记 Crack
 
-Package: com.huami-fries.dyyy
-Version: 2.1-8
+Package: com.huami.dyyy
+Version: 2.2-8
 Architecture: iphoneos-arm64
 Maintainer: huami
-Installed-Size: 496
+Installed-Size: 2504
 Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootless/com.huami-fries.dyyy_2.1-8_iphoneos-arm64.deb
-Size: 78762
-MD5sum: f0275956eeb6c1d9da872cf16aa9d614
-SHA1: 2cce45ada8f3eb932852f517268a44472e665d28
-SHA256: 4c4741d9ad89901d90a706c0a39825ddb28ae050dee4da0b3aab95a46b0f7eb9
+Filename: ./debs/rootless/com.huami.dyyy_2.2-8_iphoneos-arm64.deb
+Size: 488932
+MD5sum: e4e5f8452deda4845df35fb29dd51cdc
+SHA1: ce873c6a936b8df7362c39ce105f4c01ef4a0e36
+SHA256: 8691a48ddc24ca38ce007227886e997f5d731c337587d024d8ad1f8cb750209f
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
-Name: DYYY
-
-Package: com.huami.dyyy
-Version: 2.2-8
-Architecture: iphoneos-arm64
-Maintainer: huami
-Installed-Size: 2356
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/rootless/com.huami.dyyy_2.2-8_iphoneos-arm64.deb
-Size: 465802
-MD5sum: cc43310c01c03ff0e078d70cf575195f
-SHA1: 38ad622234b1af5da749450e21e38896f6b77f89
-SHA256: eae41e4072c551566f425ffe0405e09402ab0d8444dde01090ce3c6b78c80254
-Section: Tweaks
-Priority: optional
-Homepage: https://github.com/huami1314/DYYY
-Description: 仅供学习交流，请在 24 小时内自觉删除。
-Author: huami
 Name: DYYY
 
 Package: com.st.wxhook
@@ -1603,6 +1586,25 @@ Author: vita
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: AwemeSpeedX
 
+Package: com.vita.yuki
+Version: 0.0-8-2
+Architecture: iphoneos-arm64
+Maintainer: vita
+Installed-Size: 384
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/rootless/com.vita.yuki_0.0-8-2_iphoneos-arm64.deb
+Size: 69382
+MD5sum: b992a220ef2aaeb20ad8e8505d670f2a
+SHA1: a9656b9f5f839b678c02efb347f64a555163c9aa
+SHA256: 4d6c283ee58ab6de8103f27e3396db0a461e6b21296dc430f239fc6f096f4220
+Section: Tweaks
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: Yuki
+
 Package: mie.bandarhl.bhtwitter
 Version: 4.3-4-1+debug
 Architecture: iphoneos-arm64
@@ -1756,38 +1758,23 @@ Description: 启用54版本【原图、原视频14天后自动清理】
 Author: huami
 Name: WCEnableCleanOrigMsg
 
-Package: com.huami.DYYY
-Version: 1.8.2
-Architecture: iphoneos-arm64e
-Pre-Depends: rootless-compat(>= 0.9)
-Depends: firmware (>= 5.0), mobilesubstrate
-Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_1.8.2_iphoneos-arm64e.deb
-Size: 34704
-MD5sum: e4bb99e3f998cb5362168ba4480f449c
-SHA1: cf1a56a4bcf8eeb39ad1c64dd8bc8dcf3a484366
-SHA256: 8da5b281be97fee671c2ebbe5e3d256a9b54decc386ad97f6d2eb1580b036b19
-Section: RootHide
-Priority: optional
-Description: 仅供学习交流，请在24内小时内自觉删除
-Author: huami
-Name: DYYY
-
 Package: com.huami.dyyy
 Version: 2.2-8
 Architecture: iphoneos-arm64e
 Maintainer: huami
-Installed-Size: 2356
+Installed-Size: 2504
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.2-8_iphoneos-arm64e.deb
-Size: 465360
-MD5sum: 8160cecfb432b3c9de2a67ffaaf7bfea
-SHA1: 7ef915b7c6c754cbfc188f98d4e022e753f86880
-SHA256: a97a1d87c3e7784620e9795c124187fab1f83d4916fe90a697fa8943c780a5ed
+Size: 489078
+MD5sum: 79bfbd2671ccd1a5b098d418e4ac040d
+SHA1: b30fd7696301cdc1d54ff965059bb3b7ec38007a
+SHA256: 664970e25810f2adc450da19f5a5c288675ce4e9380df53c33cfcf52c5c85c30
 Section: RootHide
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
 Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
 Package: com.kitten.tweaktool
@@ -1860,4 +1847,23 @@ Description: Aweme Video Show Time. Tested only on version 30.3.0 and above
 Author: Netskao
 Name: AwemeVideoTime
 Sileodepiction: https://jailrepo.initnil.com/Depictions/com.netskao.awemevideotime.json
+
+Package: com.vita.yuki
+Version: 0.0-8
+Architecture: iphoneos-arm64e
+Maintainer: vita
+Installed-Size: 336
+Depends: firmware (>= 5.0), mobilesubstrate
+Filename: ./debs/iphoneos-arm64e/com.vita.yuki_0.0-8_iphoneos-arm64e.deb
+Size: 53356
+MD5sum: 287fdc58287b4073bb379f75b5597f32
+SHA1: 439ce679f07c311fe40f40a6bfb2e398683f1ec3
+SHA256: 402a5f59be342baf76e5c2e05543ff0b5af15528267493c361fce9ac0fbdf9ae
+Section: RootHide
+Priority: optional
+Homepage: https://github.com/wtrwx
+Description: 免费插件，随缘更新。
+Author: vita
+Icon: https://Mieing.Github.io/repo/file/TikTok.png
+Name: Yuki
 
