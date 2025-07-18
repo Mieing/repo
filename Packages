@@ -154,6 +154,23 @@ Author: fries
 Icon: https://Mieing.Github.io/repo/file/caiyuntianqiCrack.png
 Name: 彩云天气 Crack
 
+Package: com.fries.chic
+Version: 1.0.0-31
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.chic_1.0.0-31_iphoneos-arm.deb
+Size: 3098
+MD5sum: 2e1c2f0aea967d36770bd062310e3dc5
+SHA1: 12677075c321ba733f0909553c01ca514363827a
+SHA256: d8524274dd9f72fbbd56b653665f3cb7c9fe7657d14ec61824730da4bac387a1
+Section: Crack
+Description: Chic Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/Chic.png
+Name: Chic Crack
+
 Package: com.fries.djduoduohook
 Version: 1.0.0-6+debug
 Architecture: iphoneos-arm
@@ -982,6 +999,23 @@ Description: 彩云天气 Crack!
 Author: fries
 Icon: https://Mieing.Github.io/repo/file/caiyuntianqiCrack.png
 Name: 彩云天气 Crack
+
+Package: com.fries.chic
+Version: 1.0.0-32
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.chic_1.0.0-32_iphoneos-arm64.deb
+Size: 3178
+MD5sum: acbe521d34f789cb1dc4f6f1319249bb
+SHA1: fa7d37a74560fef716fcd6e90cd11b87e9179f4f
+SHA256: ad96565b97635718ab661fa5618cb117db034808ff7b56712131ba3146096c46
+Section: Crack
+Description: Chic Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/Chic.png
+Name: Chic Crack
 
 Package: com.fries.colorfulwallpaperx
 Version: 4.6
