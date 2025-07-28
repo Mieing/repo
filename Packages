@@ -171,6 +171,23 @@ Author: fries
 Icon: https://Mieing.Github.io/repo/file/Chic.png
 Name: Chic Crack
 
+Package: com.fries.dazz
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.dazz_1.0.0-2_iphoneos-arm.deb
+Size: 3110
+MD5sum: 57651fd15547d22fe119af62f21e44d0
+SHA1: d953155b5a01b6eb1ed8a44b3233620efe4c829f
+SHA256: c94f5d19c8fb9550ba1f00fde0dec42c02b2e2eaffb9c805575052bc5c04ed73
+Section: Crack
+Description: DAZZ Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/DAZZ.png
+Name: DAZZ
+
 Package: com.fries.djduoduohook
 Version: 1.0.0-6+debug
 Architecture: iphoneos-arm
@@ -369,23 +386,6 @@ Author: fries
 Icon: https://Mieing.Github.io/repo/file/meituan.png
 Name: MTuanNoAds
 
-Package: com.fries.nomocamcrack
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: fries
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootfull/com.fries.nomocamcrack_1.0.0_iphoneos-arm.deb
-Size: 2744
-MD5sum: 81aef76690479dea31f59f7b814b1a83
-SHA1: fa25a3916c29d9370e42b04a24bee93f4fc9af02
-SHA256: 7c6510647474e841714c1f4d6aea9d71bcd1277908d75b6ea17afda1ac3b7c3c
-Section: Crack
-Description: NOMO CAM Crack!
-Author: fries
-Icon: https://Mieing.Github.io/repo/file/NOMOCAMCrack.png
-Name: NOMO CAM Crack
-
 Package: com.fries.oldrollcrack
 Version: 1.0.0
 Architecture: iphoneos-arm
@@ -500,6 +500,23 @@ Section: Crack
 Description: SiRenJianShenJiaoLian Crack!
 Author: fries
 Name: SiRenJianShenJiaoLian Crack
+
+Package: com.fries.wink
+Version: 1.0.0-2
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.wink_1.0.0-2_iphoneos-arm.deb
+Size: 3522
+MD5sum: b9e7f7d1d77cd321ae60e6a591bbb7f0
+SHA1: 328a348f54774d406bbcd34036a858e3b72ed13a
+SHA256: 14da63b623bfbf4e5db915d011846d4ef60aed2c28de3d31f9b4247556b8e425
+Section: Crack
+Description: Wink Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/Wink.png
+Name: Wink
 
 Package: com.fries.xiaomingjisuanqicrack
 Version: 1.0.0-9
@@ -1033,6 +1050,23 @@ Author: Lessica
 Icon: https://Mieing.Github.io/repo/file/colorfulwallpaperx.png
 Name: ColorfulWallpaperX
 
+Package: com.fries.dazz
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 168
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.dazz_1.0.0-1_iphoneos-arm64.deb
+Size: 3194
+MD5sum: c6abdbb008bc864a7c34a29c6d60d12d
+SHA1: 3f349ad053c72cd777727c3b2727ce7ec4395313
+SHA256: 85efde46cde8f8b8d72bb40edb2237350728de74eebaab0ff538928b36d484f0
+Section: Crack
+Description: DAZZ Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/DAZZ.png
+Name: DAZZ
+
 Package: com.fries.djduoduohook
 Version: 1.0.0-5+debug
 Architecture: iphoneos-arm64
@@ -1231,23 +1265,6 @@ Author: fries
 Icon: https://Mieing.Github.io/repo/file/meituan.png
 Name: MTuanNoAds
 
-Package: com.fries.nomocamcrack
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: fries
-Installed-Size: 184
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.fries.nomocamcrack_1.0.0_iphoneos-arm64.deb
-Size: 2834
-MD5sum: 3e71ac15f04acce6ea5ce9a44a216481
-SHA1: e9a7d6bc2f96cb3efacc0e27871e13cc53918812
-SHA256: a417bee2b24043ba290c20634fa0b9f284d7cdbe34aa4faf1e411ea9daa6a02b
-Section: Crack
-Description: NOMO CAM Crack!
-Author: fries
-Icon: https://Mieing.Github.io/repo/file/NOMOCAMCrack.png
-Name: NOMO CAM Crack
-
 Package: com.fries.oldrollcrack
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -1362,6 +1379,23 @@ Section: Crack
 Description: SiRenJianShenJiaoLian Crack!
 Author: fries
 Name: SiRenJianShenJiaoLian Crack
+
+Package: com.fries.wink
+Version: 1.0.0-1
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 184
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.wink_1.0.0-1_iphoneos-arm64.deb
+Size: 3610
+MD5sum: 1335867ed4c988061033e02e7a07917c
+SHA1: bf325357a624522086234bbdfd6cb77564bfa796
+SHA256: 230733fddeaaece84017b89c4779769c534a3c31c883b3c1732bd5b093f21006
+Section: Crack
+Description: Wink Crack!
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/Wink.png
+Name: Wink
 
 Package: com.fries.xiaomingjisuanqicrack
 Version: 1.0.0-10
