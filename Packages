@@ -501,6 +501,23 @@ Description: SiRenJianShenJiaoLian Crack!
 Author: fries
 Name: SiRenJianShenJiaoLian Crack
 
+Package: com.fries.wcfries
+Version: 2.0.15-1
+Architecture: iphoneos-arm
+Maintainer: fries
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootfull/com.fries.wcfries_2.0.15-1_iphoneos-arm.deb
+Size: 19698
+MD5sum: 359984ed3542614af3ac417c67d24b30
+SHA1: b271f391b7ef3629ceae659de8ff30cc65d9ff45
+SHA256: 8f7196b9153581a51b862ccb1f9e2073276a46ee26ef179ea92e533958a7f28d
+Section: Tweaks
+Description: A WeChat adjustment named 'WCFries'
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/fries.png
+Name: WCFries!
+
 Package: com.fries.wink
 Version: 1.0.0-3
 Architecture: iphoneos-arm
@@ -609,10 +626,10 @@ Maintainer: huami
 Installed-Size: 2504
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/rootfull/com.huami.dyyy_2.2-8_iphoneos-arm.deb
-Size: 489702
-MD5sum: e4a8d7adf7b5163ef57a677f581035a3
-SHA1: 845e2a471f2d5d8243e830289b5ffb359c9e5e17
-SHA256: 6b57cca81822e70de849cb80246e1a6e4e734df2e42c50847e7c06e014ee8c08
+Size: 495368
+MD5sum: 96852b87fd4c9d774c38169b07327f92
+SHA1: 57e9cac8f1bd4e3040ad88d88fed1cb65499118a
+SHA256: e19747721ad01722080a4280d9ecdc6a20b88b683ce091c23ab0a2947d78c755
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -1380,6 +1397,23 @@ Description: SiRenJianShenJiaoLian Crack!
 Author: fries
 Name: SiRenJianShenJiaoLian Crack
 
+Package: com.fries.wcfries
+Version: 2.0.15-2
+Architecture: iphoneos-arm64
+Maintainer: fries
+Installed-Size: 124
+Depends: mobilesubstrate (>= 0.9.5000)
+Filename: ./debs/rootless/com.fries.wcfries_2.0.15-2_iphoneos-arm64.deb
+Size: 19776
+MD5sum: 6197086bbb28ba9dd2d191389e4b0d68
+SHA1: 8472c3e8a06f58959dc16a75aeefe5a79e773a58
+SHA256: aaf5ca542f0c8fc4217d51c84af65f763b38fcba055f845ad3f5633854d6dfe8
+Section: Tweaks
+Description: A WeChat adjustment named 'WCFries'
+Author: fries
+Icon: https://Mieing.Github.io/repo/file/fries.png
+Name: WCFries!
+
 Package: com.fries.wink
 Version: 1.0.0-4
 Architecture: iphoneos-arm64
@@ -1488,10 +1522,10 @@ Maintainer: huami
 Installed-Size: 2504
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/rootless/com.huami.dyyy_2.2-8_iphoneos-arm64.deb
-Size: 488932
-MD5sum: e4e5f8452deda4845df35fb29dd51cdc
-SHA1: ce873c6a936b8df7362c39ce105f4c01ef4a0e36
-SHA256: 8691a48ddc24ca38ce007227886e997f5d731c337587d024d8ad1f8cb750209f
+Size: 495918
+MD5sum: c5e3baf4c841c328fe6b106690bfc41d
+SHA1: 144a37c5a7dc74ea36c13f2cdc4c96a35fba630e
+SHA256: 653c21d035d9a38b462de5e898c167653e1e70a2f01562ecd14901ccc1edf67e
 Section: Tweaks
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
@@ -1833,10 +1867,10 @@ Maintainer: huami
 Installed-Size: 2504
 Depends: firmware (>= 5.0), mobilesubstrate
 Filename: ./debs/iphoneos-arm64e/com.huami.dyyy_2.2-8_iphoneos-arm64e.deb
-Size: 489078
-MD5sum: 79bfbd2671ccd1a5b098d418e4ac040d
-SHA1: b30fd7696301cdc1d54ff965059bb3b7ec38007a
-SHA256: 664970e25810f2adc450da19f5a5c288675ce4e9380df53c33cfcf52c5c85c30
+Size: 495000
+MD5sum: 84785be32614a02781a2d5b044d4096c
+SHA1: 60ccfb890b1923084d35d7589065ac45f69b0ade
+SHA256: 956bd8dc93762afc7ac02d0e9644005e85c7ba171c28aadc2d433e64a4d1218f
 Section: RootHide
 Priority: optional
 Homepage: https://github.com/huami1314/DYYY
