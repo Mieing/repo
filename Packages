@@ -638,39 +638,22 @@ Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
-Package: com.st.wxhook
-Version: 5.2.0
-Architecture: iphoneos-arm
-Maintainer: ST
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.st.wxhook_5.2.0_iphoneos-arm.deb
-Size: 64450
-MD5sum: 995d510f3ffaf798c374c162565b77b4
-SHA1: 1b3b67ad93c14b1e5eac6a7142da27e6eb4c0abe
-SHA256: 9c13d26757c9e24e123d0d082cfa413c99add16111e24ae2955bdf91da003251
-Section: Tweaks
-Description: Mieing Helper
-Author: ST
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: 一包小薯条
-
 Package: com.stt.wechat
-Version: 0.0.2
+Version: 0.0.1
 Architecture: iphoneos-arm
-Maintainer: sttt
+Maintainer: stt
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.stt.wechat_0.0.2_iphoneos-arm.deb
-Size: 3952
-MD5sum: 8993feea509a5110557ec7a4d38ef233
-SHA1: 0029de9a6c743fefacf2a024221c590b0912283b
-SHA256: 66cf293caa3da727b51b15b1b51d169d317ad1f174650f2603a92a6e8c81411c
+Filename: ./debs/rootfull/com.stt.wechat_0.0.1_iphoneos-arm.deb
+Size: 3954
+MD5sum: 7b03e3e11fea23782477dc366c84ca89
+SHA1: 345c0961f0038d3e09bbe0fbae23e4417607a2a6
+SHA256: cab2f3ee20b941e909dfffa7f3c19e2e180abe6e0c136da3b4135aa352fd7cbc
 Section: Tweaks
 Description: Make your WeChat call unable to hang up!
-Author: sttt
+Author: stt
 Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: wechat
+Name: WeChat tweaks
 
 Package: com.sttt.easybikenoads
 Version: 1.0.1
@@ -756,23 +739,6 @@ Author: sttt
 Icon: https://Mieing.Github.io/repo/file/tangdou.png
 Name: 糖豆 Unlockvip
 
-Package: com.sttt.wchideid
-Version: 1.0.0
-Architecture: iphoneos-arm
-Maintainer: fries
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.sttt.wchideid_1.0.0_iphoneos-arm.deb
-Size: 2186
-MD5sum: 695a2b4f522a09f0348f673d409dc4b3
-SHA1: f6cf8fecbccfd27af9d5b59bb06faef9ca386a9b
-SHA256: a106a7879ad01f5621275d2795b529b50af45efdb9f2f8e4043ed2aed47b5147
-Section: Tweaks
-Description: WCHideID
-Author: fries
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: WCHideID
-
 Package: com.vita.awemespeedx
 Version: 0.1-1-4
 Architecture: iphoneos-arm
@@ -809,40 +775,6 @@ Description: 免费插件，随缘更新。
 Author: vita
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: Yuki
-
-Package: mie.dumpapp.wechat
-Version: 2.0.1
-Architecture: iphoneos-arm
-Maintainer: WeChat
-Installed-Size: 24240
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/rootfull/mie.dumpapp.wechat_2.0.1_iphoneos-arm.deb
-Size: 9405716
-MD5sum: 6921ab293b90890f937c76408e2d3788
-SHA1: be1b261d074171fafc3ccf4770c7a2b771b4fd49
-SHA256: de399eee71716cd8eaa7cdabbd1c8a2c02d232a4331f65d61e43b69900e6ec75
-Section: Tweaks
-Description: 锤子助手插件
-Author: DumpApp
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: 锤子助手
-
-Package: mie.wechat.wfg
-Version: 0.1-1+debug
-Architecture: iphoneos-arm
-Maintainer: 王富贵
-Installed-Size: 76
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/mie.wechat.wfg_0.1-1+debug_iphoneos-arm.deb
-Size: 5596
-MD5sum: 1d4d47285efa124645c3e8c5449e533a
-SHA1: 8fba55f322a60d9982c28ae104af124409399223
-SHA256: 8bd3a98097ec7b265c0add9b0d756c4ee7f50b8d52c3c4b6c28ea9b8db063504
-Section: Tweaks
-Description: 匿名艾特
-Author: 王富贵
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: 匿名艾特Carck
 
 Package: ai.akemi.appsyncunified
 Version: 112.0
@@ -899,23 +831,6 @@ Author: lly·sttt
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: AwemeShowArea
 
-Package: cn.sttt.inputboxtextcolor
-Version: 2.0.0-1+debug
-Architecture: iphoneos-arm64
-Maintainer: sttt
-Installed-Size: 76
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/cn.sttt.inputboxtextcolor_2.0.0-1+debug_iphoneos-arm64.deb
-Size: 7286
-MD5sum: 79fb19551873cc80b525ffb4c04feaba
-SHA1: 1663bdc80d6b848ac2ca892d9a606fda4badbccd
-SHA256: 723f86b4c1a1744567e507322fdc53fd2c95e9d7495f87ee133a68cff59c8ced
-Section: Tweaks
-Description: A very boring iOS wechat tweak
-Author: sttt
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: WCInputBoxTextColor
-
 Package: cn.sttt.iyzico
 Version: 1.0.0
 Architecture: iphoneos-arm64
@@ -965,23 +880,6 @@ Description: 为PUBG四服重置游客！
 Author: STTT
 Icon: https://Mieing.Github.io/repo/file/PUBGMOBILE.png
 Name: 重置游客
-
-Package: cn.sttt.wchookcell
-Version: 1.0.0-4
-Architecture: iphoneos-arm64
-Maintainer: sttt
-Installed-Size: 72
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/cn.sttt.wchookcell_1.0.0-4_iphoneos-arm64.deb
-Size: 3148
-MD5sum: 3fa62b0f4e65b1d4d1e9ad1038ad9f73
-SHA1: 640ea6ee1e34fc2484b71612d22287e8662be61a
-SHA256: cf4c251956af1b6d3195c6328e290c42949c361c3cdd04684d425ff7d07d6f55
-Section: Tweaks
-Description: WeChat plugin management registration example
-Author: sttt
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: WCHookCell
 
 Package: com.dvntm.cc18
 Version: 0.0.2
@@ -1534,39 +1432,22 @@ Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
-Package: com.st.wxhook
-Version: 5.2.0
-Architecture: iphoneos-arm64
-Maintainer: ST
-Installed-Size: 352
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.st.wxhook_5.2.0_iphoneos-arm64.deb
-Size: 64534
-MD5sum: 01ec9b383f7f3dd3fee68eb60335137b
-SHA1: b8055213993f1e3d156dc3d157a4801a002c8442
-SHA256: ea813b36c7314fad0919da0ab11aa1137d6654cf1afe66c8d9004cdb24311f45
-Section: Tweaks
-Description: Mieing Helper
-Author: ST
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: 一包小薯条
-
 Package: com.stt.wechat
-Version: 0.0.2
+Version: 0.0.1
 Architecture: iphoneos-arm64
-Maintainer: sttt
+Maintainer: stt
 Installed-Size: 280
 Depends: mobilesubstrate
-Filename: ./debs/rootless/com.stt.wechat_0.0.2_iphoneos-arm64.deb
-Size: 4056
-MD5sum: c02875c357ec80ae6612fe885a95f15b
-SHA1: e78979e22a1a0e625ca7edbf59462a9153704111
-SHA256: d45c01bffa2629f7007fc79c94a620eca4483875aa13ca0eef7d6a503176ee51
+Filename: ./debs/rootless/com.stt.wechat_0.0.1_iphoneos-arm64.deb
+Size: 4060
+MD5sum: ac031cf8e61f30f613ad128a62d33b1a
+SHA1: e3ddbc4f20dc0812bfe536480e8dd372879e6ffa
+SHA256: 60256aaa70e28239af4ab5d8aa14dcf8a430a3327a2e0491f15789956f4fea4c
 Section: Tweaks
 Description: Make your WeChat call unable to hang up!
-Author: sttt
+Author: stt
 Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: wechat
+Name: WeChat tweaks
 
 Package: com.sttt.easybikenoads
 Version: 1.0.1
@@ -1636,40 +1517,6 @@ Author: sttt
 Icon: https://Mieing.Github.io/repo/file/tangdou.png
 Name: 糖豆 Unlockvip
 
-Package: com.sttt.wchideid
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: fries
-Installed-Size: 72
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.sttt.wchideid_1.0.0_iphoneos-arm64.deb
-Size: 2270
-MD5sum: db3f74ac85a1405dfe37d9863865d5b7
-SHA1: e5a0a9325845f5e52594f57d970532ca04222a7a
-SHA256: 4b14165fe5019fbf007944dd4c6d8b9bf7a5dd958fb8b833c68478ad9fda17b1
-Section: Tweaks
-Description: WCHideID
-Author: fries
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: WCHideID
-
-Package: com.sttt.wchooktext
-Version: 1.0.0
-Architecture: iphoneos-arm64
-Maintainer: sttt
-Installed-Size: 152
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.sttt.wchooktext_1.0.0_iphoneos-arm64.deb
-Size: 3468
-MD5sum: 548863aec7d16f1b2792f16eb342e6ba
-SHA1: 021712459c65ad4092379460a54b7cf73661857f
-SHA256: 174375519941fc3966a2da48fdbea1530c268e6721bf77d9d5420a2f1154308f
-Section: Tweaks
-Description: Add WeChat's input box placeholder text and change the color.
-Author: sttt
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: WCHookPlaceholderColorText
-
 Package: com.vita.awemespeedx
 Version: 0.1-1-3
 Architecture: iphoneos-arm64
@@ -1723,40 +1570,6 @@ Description: Awesome tweak for Twitter
 Author: Bandar Alruwaili
 Icon: https://Mieing.Github.io/repo/file/X.png
 Name: BHTwitter
-
-Package: mie.dumpapp.wechat-rootless
-Version: 2.0.1
-Architecture: iphoneos-arm64
-Maintainer: WeChat
-Installed-Size: 24000
-Depends: mobilesubstrate, firmware (>= 12.0)
-Filename: ./debs/rootless/mie.dumpapp.wechat-rootless_2.0.1_iphoneos-arm64.deb
-Size: 9334596
-MD5sum: 0c57516b0e895444f184a8b0b958c7e3
-SHA1: ba16189b3c9c04e47989d6b7be26a625b37521ee
-SHA256: a5d9c56ffab0a54c6f7fd69aab34279c34f79684a00eb38ee47e725835ffaba0
-Section: Tweaks
-Description: 锤子助手插件
-Author: DumpApp
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: 锤子助手-Rootless
-
-Package: mie.wechat.wfg
-Version: 0.1-1+debug
-Architecture: iphoneos-arm64
-Maintainer: 王富贵
-Installed-Size: 76
-Depends: mobilesubstrate
-Filename: ./debs/rootless/mie.wechat.wfg_0.1-1+debug_iphoneos-arm64.deb
-Size: 5476
-MD5sum: 71b447271362e0c0e4c373e7be5269b8
-SHA1: c1c0a16ee859c03d3484c645945480afa1b1f3eb
-SHA256: e39a2c448317d798e73648f40f3347dd96df2bfa96b35856be587be465831a35
-Section: Tweaks
-Description: 匿名艾特
-Author: 王富贵
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: 匿名艾特Carck
 
 Package: cn.lly.sttt.awemeshowarea
 Version: 1.0.1-4
