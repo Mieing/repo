@@ -1534,22 +1534,6 @@ Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
-Package: com.lhyee.apptoolmsh
-Version: 1.0
-Architecture: iphoneos-arm64
-Maintainer: lhyee
-Installed-Size: 400
-Depends: mobilesubstrate (>= 0.9.5000)
-Filename: ./debs/rootless/com.lhyee.apptoolmsh_1.0_iphoneos-arm64.deb
-Size: 21408
-MD5sum: ae0f0ef4499e198a800e94376c5d9396
-SHA1: e2f4d3ddf6070386be2da9ec09dd60582915e1de
-SHA256: 5c084008f7886be7fa43a8fd5cfe5459591325a667f6fedda98e218dc56f4cee
-Section: lhyee
-Description: 别人分享的Apptools图标
-Author: lhyee
-Name: Apptools
-
 Package: com.st.wxhook
 Version: 5.2.0
 Architecture: iphoneos-arm64
