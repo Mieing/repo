@@ -638,23 +638,6 @@ Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
 
-Package: com.stt.wechat
-Version: 0.0.1
-Architecture: iphoneos-arm
-Maintainer: stt
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/rootfull/com.stt.wechat_0.0.1_iphoneos-arm.deb
-Size: 3954
-MD5sum: 7b03e3e11fea23782477dc366c84ca89
-SHA1: 345c0961f0038d3e09bbe0fbae23e4417607a2a6
-SHA256: cab2f3ee20b941e909dfffa7f3c19e2e180abe6e0c136da3b4135aa352fd7cbc
-Section: Tweaks
-Description: Make your WeChat call unable to hang up!
-Author: stt
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: WeChat tweaks
-
 Package: com.sttt.easybikenoads
 Version: 1.0.1
 Architecture: iphoneos-arm64
@@ -1431,23 +1414,6 @@ Description: 仅供学习交流，请在 24 小时内自觉删除。
 Author: huami
 Icon: https://Mieing.Github.io/repo/file/TikTok.png
 Name: DYYY
-
-Package: com.stt.wechat
-Version: 0.0.1
-Architecture: iphoneos-arm64
-Maintainer: stt
-Installed-Size: 280
-Depends: mobilesubstrate
-Filename: ./debs/rootless/com.stt.wechat_0.0.1_iphoneos-arm64.deb
-Size: 4060
-MD5sum: ac031cf8e61f30f613ad128a62d33b1a
-SHA1: e3ddbc4f20dc0812bfe536480e8dd372879e6ffa
-SHA256: 60256aaa70e28239af4ab5d8aa14dcf8a430a3327a2e0491f15789956f4fea4c
-Section: Tweaks
-Description: Make your WeChat call unable to hang up!
-Author: stt
-Icon: https://Mieing.Github.io/repo/file/wechat.png
-Name: WeChat tweaks
 
 Package: com.sttt.easybikenoads
 Version: 1.0.1
